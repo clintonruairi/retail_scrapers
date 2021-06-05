@@ -10,6 +10,7 @@ __pycache__/
 logs.txt
 *.csv
 *.xlsx
+*.xlsx#
 # Distribution / packaging
 .Python
 build/
