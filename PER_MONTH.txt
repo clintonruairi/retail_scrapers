@@ -1,0 +1,34 @@
+all = 35 USD/run
+GAP/THRIFTY/CHILDRENSLACE = 45 UD/Run.
+remove duplicates script:
+gap
+triohockey
+
+OLD FORMAT:
+Le Chateau
+Peoples jewellers
+gap
+triohockey
+bathandbody
+bodyshop
+mm meat shop
+voila
+thrifty foods
+eddie bauer
+pharmaprix
+scholars choice
+saveonfoods
+workauthority
+
+NEW:
+petland - v1 running.
+globalpetfoods - v1 running.
+aritzia - v1 written.
+callitspring - v1 written.
+childrensplace
+decathlon
+fortinos
+harryrosen
+holtrenfrew
+lululemon
+paulmacs

@@ -1,0 +1,1291 @@
+{
+    "products": [
+        {
+            "availableForPickup": False,
+            "brandStyleName": "NOVI Water Resistant Lotion",
+            "clearance": False,
+            "code": "11000689",
+            "colourGroupName": "No Colour",
+            "comingSoon": False,
+            "description": "<p><strong>Use</strong></p><ul>\t<li>All colours of fabric</li>\t<li>Protects against rain, snow and salt damage. Prevents water from setting in</li>\t<li>This will help seal the fabric, stitching and seams and prevent water from penetrating the fabric</li>\t<li>Will remove scratches in the fabric by reconditioning it and replenishing the natural oils</li></ul><p><strong>Instructions</strong></p><ul>\t<li>Surface must be clean and dry</li>\t<li>Test on a small area; may darken some fabrics</li>\t<li>Press the sponge applicator onto the shoe and squeeze the tube to release the lotion</li>\t<li>Apply evenly to the entire leather surface</li>\t<li>Wipe off with a clean, damp cloth</li></ul>",
+            "giftCard": False,
+            "image": {
+                "altText": "O470_099",
+                "options": [
+                    {
+                        "backgrounds": [
+                            {
+                                "background": "wt",
+                                "dimension": [
+                                    {
+                                        "h": "160",
+                                        "w": "160"
+                                    },
+                                    {
+                                        "h": "300",
+                                        "w": "300"
+                                    },
+                                    {
+                                        "h": "400",
+                                        "w": "400"
+                                    },
+                                    {
+                                        "h": "525",
+                                        "w": "525"
+                                    },
+                                    {
+                                        "h": "650",
+                                        "w": "650"
+                                    },
+                                    {
+                                        "h": "800",
+                                        "w": "800"
+                                    },
+                                    {
+                                        "h": "1000",
+                                        "w": "1000"
+                                    }
+                                ]
+                            }
+                        ],
+                        "code": "11000689_main",
+                        "srcTemplate": "//media.callitspring.com/v3/product/o470_099/000/o470_099_no colour_000_[type]_[proportion]_[background]_[dimension].jpg",
+                        "type": "main"
+                    }
+                ],
+                "srcTemplate": "//media.callitspring.com/v3/product/o470_099/000/o470_099_no colour_000_[type]_[proportion]_[background]_[dimension].jpg"
+            },
+            "name": "O470_099",
+            "newArrival": False,
+            "nonReturnable": False,
+            "onlineExclusive": False,
+            "outlet": False,
+            "price": {
+                "currencyIso": "CAD",
+                "formattedValue": "$9.99",
+                "priceType": "BUY",
+                "value": 9.99
+            },
+            "repurchasable": False,
+            "sale": False,
+            "stock": {
+                "stockLevel": 5542,
+                "stockLevelStatus": "inStock"
+            },
+            "url": "/CIS/Men/Shoe-Care/O470-099/p/11000689",
+            "variantSizes": [
+                {
+                    "code": "22441392",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "One Size",
+                    "stockLevelStatus": "inStock",
+                    "value": "One Size"
+                }
+            ],
+            "social": {}
+        },
+        {
+            "availableForPickup": False,
+            "brandStyleName": "NOVI Foam Instep Cushions",
+            "clearance": False,
+            "code": "11000711",
+            "colourGroupName": "Beige",
+            "comingSoon": False,
+            "description": "<p><strong>Use</strong></p><ul><li>These foam cushions provide extra support to the ball of your foot </li><li>Prevents from sliding forward in the shoe</li><li>Fits all sizes and all types of shoes</li></ul><p><strong>Instructions</strong></p><ul><li>Insert inside at the front part of the shoe</li></ul>",
+            "giftCard": False,
+            "image": {
+                "altText": "O470_042",
+                "options": [
+                    {
+                        "backgrounds": [
+                            {
+                                "background": "wt",
+                                "dimension": [
+                                    {
+                                        "h": "160",
+                                        "w": "160"
+                                    },
+                                    {
+                                        "h": "300",
+                                        "w": "300"
+                                    },
+                                    {
+                                        "h": "400",
+                                        "w": "400"
+                                    },
+                                    {
+                                        "h": "525",
+                                        "w": "525"
+                                    },
+                                    {
+                                        "h": "650",
+                                        "w": "650"
+                                    },
+                                    {
+                                        "h": "800",
+                                        "w": "800"
+                                    },
+                                    {
+                                        "h": "1000",
+                                        "w": "1000"
+                                    }
+                                ]
+                            }
+                        ],
+                        "code": "11000711_main",
+                        "srcTemplate": "//media.callitspring.com/v3/product/o470_042/271/o470_042_beige_271_[type]_[proportion]_[background]_[dimension].jpg",
+                        "type": "main"
+                    }
+                ],
+                "srcTemplate": "//media.callitspring.com/v3/product/o470_042/271/o470_042_beige_271_[type]_[proportion]_[background]_[dimension].jpg"
+            },
+            "name": "O470_042",
+            "newArrival": False,
+            "nonReturnable": False,
+            "onlineExclusive": False,
+            "outlet": False,
+            "price": {
+                "currencyIso": "CAD",
+                "formattedValue": "$5.99",
+                "priceType": "BUY",
+                "value": 5.99
+            },
+            "repurchasable": False,
+            "sale": False,
+            "stock": {
+                "stockLevel": 18366,
+                "stockLevelStatus": "inStock"
+            },
+            "url": "/CIS/Men/Shoe-Care/O470-042/p/11000711",
+            "variantSizes": [
+                {
+                    "code": "50250788",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "One Size",
+                    "stockLevelStatus": "inStock",
+                    "value": "One Size"
+                }
+            ],
+            "social": {}
+        },
+        {
+            "availableForPickup": False,
+            "brandStyleName": "NOVI Suede Brush",
+            "clearance": False,
+            "code": "11000649",
+            "colourGroupName": "No Colour",
+            "comingSoon": False,
+            "description": "<p><strong>Use</strong></p><ul><li>All colours of Suede and Nubuck</li><li>Removes dirt and gently cleans</li><li>Gives the suede a fresh new look</li></ul><p><strong>Instructions</strong></p><ul><li>Always clean the suede shoes/boots prior to protecting – this allows the protector to penetrate easily</li><li>Use the brush side first to remove dirt</li><li>Then, gently use the erasing block to remove any leftover scuffs</li></ul>",
+            "giftCard": False,
+            "image": {
+                "altText": "O470_041",
+                "options": [
+                    {
+                        "backgrounds": [
+                            {
+                                "background": "wt",
+                                "dimension": [
+                                    {
+                                        "h": "160",
+                                        "w": "160"
+                                    },
+                                    {
+                                        "h": "300",
+                                        "w": "300"
+                                    },
+                                    {
+                                        "h": "400",
+                                        "w": "400"
+                                    },
+                                    {
+                                        "h": "525",
+                                        "w": "525"
+                                    },
+                                    {
+                                        "h": "650",
+                                        "w": "650"
+                                    },
+                                    {
+                                        "h": "800",
+                                        "w": "800"
+                                    },
+                                    {
+                                        "h": "1000",
+                                        "w": "1000"
+                                    }
+                                ]
+                            }
+                        ],
+                        "code": "11000649_main",
+                        "srcTemplate": "//media.callitspring.com/v3/product/o470_041/000/o470_041_no colour_000_[type]_[proportion]_[background]_[dimension].jpg",
+                        "type": "main"
+                    }
+                ],
+                "srcTemplate": "//media.callitspring.com/v3/product/o470_041/000/o470_041_no colour_000_[type]_[proportion]_[background]_[dimension].jpg"
+            },
+            "name": "O470_041",
+            "newArrival": False,
+            "nonReturnable": False,
+            "onlineExclusive": False,
+            "outlet": False,
+            "price": {
+                "currencyIso": "CAD",
+                "formattedValue": "$9.99",
+                "priceType": "BUY",
+                "value": 9.99
+            },
+            "repurchasable": False,
+            "sale": False,
+            "stock": {
+                "stockLevel": 2374,
+                "stockLevelStatus": "inStock"
+            },
+            "url": "/CIS/Men/Shoe-Care/O470-041/p/11000649",
+            "variantSizes": [
+                {
+                    "code": "22464770",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "One Size",
+                    "stockLevelStatus": "inStock",
+                    "value": "One Size"
+                }
+            ],
+            "social": {}
+        },
+        {
+            "availableForPickup": False,
+            "brandStyleName": "NOVI Foam Heel Cushions",
+            "clearance": False,
+            "code": "11000403",
+            "colourGroupName": "No Colour",
+            "comingSoon": False,
+            "description": "<p><strong>Use</strong></p><ul><li>Design to protect your heels and keep the shoe in place</li><li>Ideal for dress shoes and sandals</li></ul><p><strong>Instructions</strong></p><ul><li>Insert at the back of the shoe</li></ul>",
+            "giftCard": False,
+            "image": {
+                "altText": "O470_043",
+                "options": [
+                    {
+                        "backgrounds": [
+                            {
+                                "background": "wt",
+                                "dimension": [
+                                    {
+                                        "h": "160",
+                                        "w": "160"
+                                    },
+                                    {
+                                        "h": "300",
+                                        "w": "300"
+                                    },
+                                    {
+                                        "h": "400",
+                                        "w": "400"
+                                    },
+                                    {
+                                        "h": "525",
+                                        "w": "525"
+                                    },
+                                    {
+                                        "h": "650",
+                                        "w": "650"
+                                    },
+                                    {
+                                        "h": "800",
+                                        "w": "800"
+                                    },
+                                    {
+                                        "h": "1000",
+                                        "w": "1000"
+                                    }
+                                ]
+                            }
+                        ],
+                        "code": "11000403_main",
+                        "srcTemplate": "//media.callitspring.com/v3/product/o470_043/000/o470_043_no colour_000_[type]_[proportion]_[background]_[dimension].jpg",
+                        "type": "main"
+                    }
+                ],
+                "srcTemplate": "//media.callitspring.com/v3/product/o470_043/000/o470_043_no colour_000_[type]_[proportion]_[background]_[dimension].jpg"
+            },
+            "name": "O470_043",
+            "newArrival": False,
+            "nonReturnable": False,
+            "onlineExclusive": False,
+            "outlet": False,
+            "price": {
+                "currencyIso": "CAD",
+                "formattedValue": "$5.99",
+                "priceType": "BUY",
+                "value": 5.99
+            },
+            "repurchasable": False,
+            "sale": False,
+            "stock": {
+                "stockLevel": 14297,
+                "stockLevelStatus": "inStock"
+            },
+            "url": "/CIS/Men/Shoe-Care/O470-043/p/11000403",
+            "variantSizes": [
+                {
+                    "code": "22460294",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "One Size",
+                    "stockLevelStatus": "inStock",
+                    "value": "One Size"
+                }
+            ],
+            "social": {}
+        },
+        {
+            "availableForPickup": False,
+            "brandStyleName": "NOVI Men's Thermal Insoles",
+            "clearance": False,
+            "code": "11005328",
+            "colourGroupName": "No Colour",
+            "comingSoon": False,
+            "description": "<p><strong>Use</strong></p><ul><li>These thermal insoles help keep feet warm and dry</li><li>Their felt foam and aluminum layers are quilted together to help retain heat and keep water out</li><li>Ideal for winter boots</li></ul><p><strong>Instructions</strong></p><ul><li>Insert in any types of boots </li><li>Change once over used</li></ul>",
+            "giftCard": False,
+            "image": {
+                "altText": "O470_102",
+                "options": [
+                    {
+                        "backgrounds": [
+                            {
+                                "background": "wt",
+                                "dimension": [
+                                    {
+                                        "h": "160",
+                                        "w": "160"
+                                    },
+                                    {
+                                        "h": "300",
+                                        "w": "300"
+                                    },
+                                    {
+                                        "h": "400",
+                                        "w": "400"
+                                    },
+                                    {
+                                        "h": "525",
+                                        "w": "525"
+                                    },
+                                    {
+                                        "h": "650",
+                                        "w": "650"
+                                    },
+                                    {
+                                        "h": "800",
+                                        "w": "800"
+                                    },
+                                    {
+                                        "h": "1000",
+                                        "w": "1000"
+                                    }
+                                ]
+                            }
+                        ],
+                        "code": "11005328_main",
+                        "srcTemplate": "//media.callitspring.com/v3/product/o470_102/000/o470_102_no colour_000_[type]_[proportion]_[background]_[dimension].jpg",
+                        "type": "main"
+                    }
+                ],
+                "srcTemplate": "//media.callitspring.com/v3/product/o470_102/000/o470_102_no colour_000_[type]_[proportion]_[background]_[dimension].jpg"
+            },
+            "name": "O470_102",
+            "newArrival": False,
+            "nonReturnable": False,
+            "onlineExclusive": False,
+            "outlet": False,
+            "price": {
+                "currencyIso": "CAD",
+                "formattedValue": "$8.99",
+                "priceType": "BUY",
+                "value": 8.99
+            },
+            "repurchasable": False,
+            "sale": False,
+            "stock": {
+                "stockLevel": 11000,
+                "stockLevelStatus": "inStock"
+            },
+            "url": "/CIS/Men/Shoe-Care/O470-102/p/11005328",
+            "variantSizes": [
+                {
+                    "code": "10406346",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "7",
+                    "stockLevelStatus": "inStock",
+                    "value": "7"
+                },
+                {
+                    "code": "10406354",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "8",
+                    "stockLevelStatus": "inStock",
+                    "value": "8"
+                },
+                {
+                    "code": "10406362",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "9",
+                    "stockLevelStatus": "inStock",
+                    "value": "9"
+                },
+                {
+                    "code": "10406370",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "10",
+                    "stockLevelStatus": "inStock",
+                    "value": "10"
+                },
+                {
+                    "code": "10406389",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "11",
+                    "stockLevelStatus": "inStock",
+                    "value": "11"
+                },
+                {
+                    "code": "10406397",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "12",
+                    "stockLevelStatus": "inStock",
+                    "value": "12"
+                }
+            ],
+            "social": {}
+        },
+        {
+            "availableForPickup": False,
+            "brandStyleName": "NOVI Men's Terry Cloth Insoles",
+            "clearance": False,
+            "code": "11005000",
+            "colourGroupName": "Black",
+            "comingSoon": False,
+            "description": "<p><strong>Use</strong></p><ul><li>These terry cloth insoles help keep feet cool and fresh</li><li>Their terry lining helps absorb sweat and the latex backing is especially treated to eliminate odors </li><li>Ideal for sports shoes</li><li>Hand washable</li></ul><p><strong>Instructions</strong></p><ul><li>Insert in any types of sports shoes </li><li>Change once over used</li></ul>",
+            "giftCard": False,
+            "image": {
+                "altText": "O470_106",
+                "options": [
+                    {
+                        "backgrounds": [
+                            {
+                                "background": "wt",
+                                "dimension": [
+                                    {
+                                        "h": "160",
+                                        "w": "160"
+                                    },
+                                    {
+                                        "h": "300",
+                                        "w": "300"
+                                    },
+                                    {
+                                        "h": "400",
+                                        "w": "400"
+                                    },
+                                    {
+                                        "h": "525",
+                                        "w": "525"
+                                    },
+                                    {
+                                        "h": "650",
+                                        "w": "650"
+                                    },
+                                    {
+                                        "h": "800",
+                                        "w": "800"
+                                    },
+                                    {
+                                        "h": "1000",
+                                        "w": "1000"
+                                    }
+                                ]
+                            }
+                        ],
+                        "code": "11005000_main",
+                        "srcTemplate": "//media.callitspring.com/v3/product/o470_106/001/o470_106_black_001_[type]_[proportion]_[background]_[dimension].jpg",
+                        "type": "main"
+                    }
+                ],
+                "srcTemplate": "//media.callitspring.com/v3/product/o470_106/001/o470_106_black_001_[type]_[proportion]_[background]_[dimension].jpg"
+            },
+            "name": "O470_106",
+            "newArrival": False,
+            "nonReturnable": False,
+            "onlineExclusive": False,
+            "outlet": False,
+            "price": {
+                "currencyIso": "CAD",
+                "formattedValue": "$8.99",
+                "priceType": "BUY",
+                "value": 8.99
+            },
+            "repurchasable": False,
+            "sale": False,
+            "stock": {
+                "stockLevel": 28995,
+                "stockLevelStatus": "inStock"
+            },
+            "url": "/CIS/Men/Shoe-Care/O470-106/p/11005000",
+            "variantSizes": [
+                {
+                    "code": "20418498",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "12",
+                    "stockLevelStatus": "inStock",
+                    "value": "12"
+                },
+                {
+                    "code": "67928006",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "7",
+                    "stockLevelStatus": "inStock",
+                    "value": "7"
+                },
+                {
+                    "code": "67928049",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "8",
+                    "stockLevelStatus": "inStock",
+                    "value": "8"
+                },
+                {
+                    "code": "67928065",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "9",
+                    "stockLevelStatus": "inStock",
+                    "value": "9"
+                },
+                {
+                    "code": "67928081",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "10",
+                    "stockLevelStatus": "inStock",
+                    "value": "10"
+                },
+                {
+                    "code": "67928137",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "11",
+                    "stockLevelStatus": "inStock",
+                    "value": "11"
+                },
+                {
+                    "code": "74894967",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "7.5",
+                    "stockLevelStatus": "inStock",
+                    "value": "7.5"
+                }
+            ],
+            "social": {}
+        },
+        {
+            "availableForPickup": False,
+            "brandStyleName": "NOVI Shoe Shine",
+            "clearance": False,
+            "code": "11000848",
+            "colourGroupName": "No Colour",
+            "comingSoon": False,
+            "description": "<p><strong>Use</strong></p><ul><li>All colours of leather and synthetic</li><li>Glosses and shines</li></ul><p><strong>Instructions</strong></p><ul><li>Remove surface dirt</li><li>Brush sponge onto shoe to shine</li><li>No buffing required</li></ul>",
+            "giftCard": False,
+            "image": {
+                "altText": "O470_105",
+                "options": [
+                    {
+                        "backgrounds": [
+                            {
+                                "background": "wt",
+                                "dimension": [
+                                    {
+                                        "h": "160",
+                                        "w": "160"
+                                    },
+                                    {
+                                        "h": "300",
+                                        "w": "300"
+                                    },
+                                    {
+                                        "h": "400",
+                                        "w": "400"
+                                    },
+                                    {
+                                        "h": "525",
+                                        "w": "525"
+                                    },
+                                    {
+                                        "h": "650",
+                                        "w": "650"
+                                    },
+                                    {
+                                        "h": "800",
+                                        "w": "800"
+                                    },
+                                    {
+                                        "h": "1000",
+                                        "w": "1000"
+                                    }
+                                ]
+                            }
+                        ],
+                        "code": "11000848_main",
+                        "srcTemplate": "//media.callitspring.com/v3/product/o470_105/000/o470_105_no colour_000_[type]_[proportion]_[background]_[dimension].jpg",
+                        "type": "main"
+                    }
+                ],
+                "srcTemplate": "//media.callitspring.com/v3/product/o470_105/000/o470_105_no colour_000_[type]_[proportion]_[background]_[dimension].jpg"
+            },
+            "name": "O470_105",
+            "newArrival": False,
+            "nonReturnable": False,
+            "onlineExclusive": False,
+            "outlet": False,
+            "price": {
+                "currencyIso": "CAD",
+                "formattedValue": "$5.99",
+                "priceType": "BUY",
+                "value": 5.99
+            },
+            "repurchasable": False,
+            "sale": False,
+            "stock": {
+                "stockLevel": 6343,
+                "stockLevelStatus": "inStock"
+            },
+            "url": "/CIS/Men/Shoe-Care/O470-105/p/11000848",
+            "variantSizes": [
+                {
+                    "code": "40628118",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "One Size",
+                    "stockLevelStatus": "inStock",
+                    "value": "One Size"
+                }
+            ],
+            "social": {}
+        },
+        {
+            "availableForPickup": False,
+            "brandStyleName": "NOVI Multi protector",
+            "clearance": False,
+            "code": "11003069",
+            "colourGroupName": "No Colour",
+            "comingSoon": False,
+            "description": "<p>Extend the life of your shoes by protecting them from the start! This product is water resistant and will keep you from getting your feet wet!</p><p><strong>Use</strong></p><ul>\t<li>All colours of synthetic and fabric.</li>\t<li>Water based protector.</li>\t<li>Protects against rain, snow and salt damage, and prevents water from setting in</li></ul><p><strong>Instructions</strong></p><ul>\t<li>Apply on a dry and clean surface</li>\t<li>Hold bottle upright 15-20 cm (6-8 inches) away and spray several coats evenly</li></ul>",
+            "giftCard": False,
+            "image": {
+                "altText": "Stamen",
+                "options": [
+                    {
+                        "backgrounds": [
+                            {
+                                "background": "wt",
+                                "dimension": [
+                                    {
+                                        "h": "160",
+                                        "w": "160"
+                                    },
+                                    {
+                                        "h": "300",
+                                        "w": "300"
+                                    },
+                                    {
+                                        "h": "400",
+                                        "w": "400"
+                                    },
+                                    {
+                                        "h": "525",
+                                        "w": "525"
+                                    },
+                                    {
+                                        "h": "650",
+                                        "w": "650"
+                                    },
+                                    {
+                                        "h": "800",
+                                        "w": "800"
+                                    },
+                                    {
+                                        "h": "1000",
+                                        "w": "1000"
+                                    }
+                                ]
+                            }
+                        ],
+                        "code": "11003069_main",
+                        "srcTemplate": "//media.callitspring.com/v3/product/stamen/000/stamen_no colour_000_[type]_[proportion]_[background]_[dimension].jpg",
+                        "type": "main"
+                    }
+                ],
+                "srcTemplate": "//media.callitspring.com/v3/product/stamen/000/stamen_no colour_000_[type]_[proportion]_[background]_[dimension].jpg"
+            },
+            "name": "Stamen",
+            "newArrival": False,
+            "nonReturnable": False,
+            "onlineExclusive": False,
+            "outlet": False,
+            "price": {
+                "currencyIso": "CAD",
+                "formattedValue": "$12.99",
+                "priceType": "BUY",
+                "value": 12.99
+            },
+            "repurchasable": False,
+            "sale": False,
+            "stock": {
+                "stockLevel": 18218,
+                "stockLevelStatus": "inStock"
+            },
+            "url": "/CIS/Men/Shoe-Care/Stamen/p/11003069",
+            "variantSizes": [
+                {
+                    "code": "50190949",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "One Size",
+                    "stockLevelStatus": "inStock",
+                    "value": "One Size"
+                }
+            ],
+            "social": {}
+        },
+        {
+            "availableForPickup": False,
+            "brandStyleName": "NOVI Cleaning Wipes",
+            "clearance": False,
+            "code": "11004477",
+            "colourGroupName": "No Colour",
+            "comingSoon": False,
+            "description": "<p><strong>Use</strong></p><p>&nbsp;</p><ul>\t<li>Removes dirt and salt stains on&nbsp;synthetic or fabric&nbsp;in seconds</li>\t<li>Protects against permanent damage</li></ul><p><strong>Instructions</strong></p><ul>\t<li>Remove wipe, unfold and wipe footwear thoroughly</li></ul>",
+            "giftCard": False,
+            "image": {
+                "altText": "Corwith",
+                "options": [
+                    {
+                        "backgrounds": [
+                            {
+                                "background": "wt",
+                                "dimension": [
+                                    {
+                                        "h": "160",
+                                        "w": "160"
+                                    },
+                                    {
+                                        "h": "300",
+                                        "w": "300"
+                                    },
+                                    {
+                                        "h": "400",
+                                        "w": "400"
+                                    },
+                                    {
+                                        "h": "525",
+                                        "w": "525"
+                                    },
+                                    {
+                                        "h": "650",
+                                        "w": "650"
+                                    },
+                                    {
+                                        "h": "800",
+                                        "w": "800"
+                                    },
+                                    {
+                                        "h": "1000",
+                                        "w": "1000"
+                                    }
+                                ]
+                            }
+                        ],
+                        "code": "11004477_main",
+                        "srcTemplate": "//media.callitspring.com/v3/product/corwith/000/corwith_no colour_000_[type]_[proportion]_[background]_[dimension].jpg",
+                        "type": "main"
+                    }
+                ],
+                "srcTemplate": "//media.callitspring.com/v3/product/corwith/000/corwith_no colour_000_[type]_[proportion]_[background]_[dimension].jpg"
+            },
+            "name": "Corwith",
+            "newArrival": False,
+            "nonReturnable": False,
+            "onlineExclusive": False,
+            "outlet": False,
+            "price": {
+                "currencyIso": "CAD",
+                "formattedValue": "$7.99",
+                "priceType": "BUY",
+                "value": 7.99
+            },
+            "repurchasable": False,
+            "sale": False,
+            "stock": {
+                "stockLevel": 25392,
+                "stockLevelStatus": "inStock"
+            },
+            "url": "/CIS/Men/Shoe-Care/Corwith/p/11004477",
+            "variantSizes": [
+                {
+                    "code": "94841715",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "One Size",
+                    "stockLevelStatus": "inStock",
+                    "value": "One Size"
+                }
+            ],
+            "social": {}
+        },
+        {
+            "availableForPickup": False,
+            "brandStyleName": "NOVI Synthetic Spray & Shine",
+            "clearance": False,
+            "code": "11004613",
+            "colourGroupName": "No Colour",
+            "comingSoon": False,
+            "description": "<p>&nbsp;</p><p><strong>Use</strong></p><ul>\t<li>Effectively removes dirt and stains</li>\t<li>Works to restore shine on all fabric</li>\t<li>It&#39;s 3-in-1 functionality cleans, conditions and protects in one application</li></ul><p><strong>Instructions</strong></p><ul>\t<li>Spray product surface lightly</li>\t<li>Wipe gently with a clean, dry cloth using a circular motion</li>\t<li>Repeat if necessary</li></ul>",
+            "giftCard": False,
+            "image": {
+                "altText": "Bursera",
+                "options": [
+                    {
+                        "backgrounds": [
+                            {
+                                "background": "wt",
+                                "dimension": [
+                                    {
+                                        "h": "160",
+                                        "w": "160"
+                                    },
+                                    {
+                                        "h": "300",
+                                        "w": "300"
+                                    },
+                                    {
+                                        "h": "400",
+                                        "w": "400"
+                                    },
+                                    {
+                                        "h": "525",
+                                        "w": "525"
+                                    },
+                                    {
+                                        "h": "650",
+                                        "w": "650"
+                                    },
+                                    {
+                                        "h": "800",
+                                        "w": "800"
+                                    },
+                                    {
+                                        "h": "1000",
+                                        "w": "1000"
+                                    }
+                                ]
+                            }
+                        ],
+                        "code": "11004613_main",
+                        "srcTemplate": "//media.callitspring.com/v3/product/bursera/000/bursera_no colour_000_[type]_[proportion]_[background]_[dimension].jpg",
+                        "type": "main"
+                    }
+                ],
+                "srcTemplate": "//media.callitspring.com/v3/product/bursera/000/bursera_no colour_000_[type]_[proportion]_[background]_[dimension].jpg"
+            },
+            "name": "Bursera",
+            "newArrival": False,
+            "nonReturnable": False,
+            "onlineExclusive": False,
+            "outlet": False,
+            "price": {
+                "currencyIso": "CAD",
+                "formattedValue": "$7.99",
+                "priceType": "BUY",
+                "value": 7.99
+            },
+            "repurchasable": False,
+            "sale": False,
+            "stock": {
+                "stockLevel": 13525,
+                "stockLevelStatus": "inStock"
+            },
+            "url": "/CIS/Men/Shoe-Care/Bursera/p/11004613",
+            "variantSizes": [
+                {
+                    "code": "60687481",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "One Size",
+                    "stockLevelStatus": "inStock",
+                    "value": "One Size"
+                }
+            ],
+            "social": {}
+        },
+        {
+            "availableForPickup": False,
+            "brandStyleName": "NOVI Gel Sandal Cushion",
+            "clearance": False,
+            "code": "11004338",
+            "colourGroupName": "White",
+            "comingSoon": False,
+            "description": "<p><strong>Use</strong></p><ul><li>These gel sandal cushions provide more comfort</li><li>Prevents from sliding forward in the shoe</li><li>Protect toes against rubbing</li><li> They adjust to all sizes of all strappy footwear</li></ul><p><strong>Instructions</strong></p><ul><li>Insert inside at the front part of the sandal</li></ul>",
+            "giftCard": False,
+            "image": {
+                "altText": "Sturdnant",
+                "options": [
+                    {
+                        "backgrounds": [
+                            {
+                                "background": "wt",
+                                "dimension": [
+                                    {
+                                        "h": "160",
+                                        "w": "160"
+                                    },
+                                    {
+                                        "h": "300",
+                                        "w": "300"
+                                    },
+                                    {
+                                        "h": "400",
+                                        "w": "400"
+                                    },
+                                    {
+                                        "h": "525",
+                                        "w": "525"
+                                    },
+                                    {
+                                        "h": "650",
+                                        "w": "650"
+                                    },
+                                    {
+                                        "h": "800",
+                                        "w": "800"
+                                    },
+                                    {
+                                        "h": "1000",
+                                        "w": "1000"
+                                    }
+                                ]
+                            }
+                        ],
+                        "code": "11004338_main",
+                        "srcTemplate": "//media.callitspring.com/v3/product/sturdnant/103/sturdnant_white_103_[type]_[proportion]_[background]_[dimension].jpg",
+                        "type": "main"
+                    }
+                ],
+                "srcTemplate": "//media.callitspring.com/v3/product/sturdnant/103/sturdnant_white_103_[type]_[proportion]_[background]_[dimension].jpg"
+            },
+            "name": "Sturdnant",
+            "newArrival": False,
+            "nonReturnable": False,
+            "onlineExclusive": False,
+            "outlet": False,
+            "price": {
+                "currencyIso": "CAD",
+                "formattedValue": "$5.99",
+                "priceType": "BUY",
+                "value": 5.99
+            },
+            "repurchasable": False,
+            "sale": False,
+            "stock": {
+                "stockLevel": 5010,
+                "stockLevelStatus": "inStock"
+            },
+            "url": "/CIS/Men/Shoe-Care/Sturdnant/p/11004338",
+            "variantSizes": [
+                {
+                    "code": "94997058",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "One Size",
+                    "stockLevelStatus": "inStock",
+                    "value": "One Size"
+                }
+            ],
+            "social": {}
+        },
+        {
+            "availableForPickup": False,
+            "brandStyleName": "NOVI Men's Outsole Grip",
+            "clearance": False,
+            "code": "11700337",
+            "colourGroupName": "White",
+            "comingSoon": False,
+            "giftCard": False,
+            "image": {
+                "altText": "Genty",
+                "options": [
+                    {
+                        "backgrounds": [
+                            {
+                                "background": "wt",
+                                "dimension": [
+                                    {
+                                        "h": "160",
+                                        "w": "160"
+                                    },
+                                    {
+                                        "h": "300",
+                                        "w": "300"
+                                    },
+                                    {
+                                        "h": "400",
+                                        "w": "400"
+                                    },
+                                    {
+                                        "h": "525",
+                                        "w": "525"
+                                    },
+                                    {
+                                        "h": "650",
+                                        "w": "650"
+                                    },
+                                    {
+                                        "h": "800",
+                                        "w": "800"
+                                    },
+                                    {
+                                        "h": "1000",
+                                        "w": "1000"
+                                    }
+                                ]
+                            }
+                        ],
+                        "code": "11700337_main",
+                        "srcTemplate": "//media.callitspring.com/v3/product/genty/103/genty_white_103_[type]_[proportion]_[background]_[dimension].jpg",
+                        "type": "main"
+                    }
+                ],
+                "srcTemplate": "//media.callitspring.com/v3/product/genty/103/genty_white_103_[type]_[proportion]_[background]_[dimension].jpg"
+            },
+            "name": "Genty",
+            "newArrival": False,
+            "nonReturnable": False,
+            "onlineExclusive": False,
+            "outlet": False,
+            "price": {
+                "currencyIso": "CAD",
+                "formattedValue": "$6.99",
+                "priceType": "BUY",
+                "value": 6.99
+            },
+            "repurchasable": False,
+            "sale": False,
+            "stock": {
+                "stockLevel": 7259,
+                "stockLevelStatus": "inStock"
+            },
+            "url": "/CIS/Men/Shoe-Care/Genty/p/11700337",
+            "variantSizes": [
+                {
+                    "code": "15177876",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "One Size",
+                    "stockLevelStatus": "inStock",
+                    "value": "One Size"
+                }
+            ],
+            "social": {}
+        },
+        {
+            "availableForPickup": False,
+            "brandStyleName": "NOVI Men's Comfort Insoles",
+            "clearance": False,
+            "code": "12762421",
+            "colourGroupName": "Beige",
+            "comingSoon": False,
+            "giftCard": False,
+            "image": {
+                "altText": "Alga-m",
+                "options": [
+                    {
+                        "backgrounds": [
+                            {
+                                "background": "wt",
+                                "dimension": [
+                                    {
+                                        "h": "160",
+                                        "w": "160"
+                                    },
+                                    {
+                                        "h": "300",
+                                        "w": "300"
+                                    },
+                                    {
+                                        "h": "400",
+                                        "w": "400"
+                                    },
+                                    {
+                                        "h": "525",
+                                        "w": "525"
+                                    },
+                                    {
+                                        "h": "650",
+                                        "w": "650"
+                                    },
+                                    {
+                                        "h": "800",
+                                        "w": "800"
+                                    },
+                                    {
+                                        "h": "1000",
+                                        "w": "1000"
+                                    }
+                                ]
+                            }
+                        ],
+                        "code": "12762421_main",
+                        "srcTemplate": "//media.callitspring.com/v3/product/alga-m/101/alga-m_beige_101_[type]_[proportion]_[background]_[dimension].jpg",
+                        "type": "main"
+                    }
+                ],
+                "srcTemplate": "//media.callitspring.com/v3/product/alga-m/101/alga-m_beige_101_[type]_[proportion]_[background]_[dimension].jpg"
+            },
+            "name": "Alga-m",
+            "newArrival": False,
+            "nonReturnable": False,
+            "onlineExclusive": False,
+            "outlet": False,
+            "price": {
+                "currencyIso": "CAD",
+                "formattedValue": "$10.99",
+                "priceType": "BUY",
+                "value": 10.99
+            },
+            "repurchasable": False,
+            "sale": False,
+            "stock": {
+                "stockLevel": 13140,
+                "stockLevelStatus": "inStock"
+            },
+            "url": "/CIS/Men/Shoe-Care/Alga-m/p/12762421",
+            "variantSizes": [
+                {
+                    "code": "15479893",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "7",
+                    "stockLevelStatus": "inStock",
+                    "value": "7"
+                },
+                {
+                    "code": "15479894",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "8",
+                    "stockLevelStatus": "inStock",
+                    "value": "8"
+                },
+                {
+                    "code": "15479955",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "9",
+                    "stockLevelStatus": "inStock",
+                    "value": "9"
+                },
+                {
+                    "code": "15479956",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "10",
+                    "stockLevelStatus": "inStock",
+                    "value": "10"
+                },
+                {
+                    "code": "15479957",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "11",
+                    "stockLevelStatus": "inStock",
+                    "value": "11"
+                },
+                {
+                    "code": "15479958",
+                    "comingSoon": False,
+                    "repurchasable": False,
+                    "size": "12",
+                    "stockLevelStatus": "inStock",
+                    "value": "12"
+                }
+            ],
+            "social": {}
+        }
+    ],
+    "pagination": {
+        "currentFilters": [],
+        "currentPage": 0,
+        "pageSize": 100,
+        "sort": "relevance",
+        "totalPages": 1,
+        "totalResults": 13
+    },
+    "spellingSuggestion": None,
+    "availableFilters": [
+        {
+            "name": "Price",
+            "multiSelect": True,
+            "key": "price",
+            "values": [
+                "$19.99 & Under"
+            ]
+        },
+        {
+            "name": "genderFacet",
+            "multiSelect": True,
+            "key": "genderFacet",
+            "values": [
+                "UNISEX"
+            ]
+        }
+    ],
+    "keywordRedirectUrl": None,
+    "category": {
+        "type": "categoryHierarchyWsDTO",
+        "id": "332",
+        "lastModified": "2021-04-15T08:21:36.526-04:00",
+        "name": "Shoe Care",
+        "url": "/caCIS/catalogs/caCISSapFmsProductCatalog/Online/categories/332",
+        "clearanceCategory": False,
+        "currentPage": 0,
+        "metaData": [
+            {
+                "content": "Shoe Care",
+                "name": "pageTitle"
+            },
+            {
+                "content": "Shop Shoe Care at Call It Spring. We've got evertything you need to keep you shoes looking great!",
+                "name": "description"
+            },
+            {
+                "name": "metaTitle"
+            }
+        ],
+        "newArrivalCategory": False,
+        "numberOfPages": 1,
+        "outletCategory": False,
+        "pageSize": 20,
+        "saleCategory": False,
+        "totalNumber": 13
+    }
+}

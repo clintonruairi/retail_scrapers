@@ -1,0 +1,3538 @@
+{
+    "entities": {
+        "product": {
+            "9ac6280c-0961-4c3c-af16-236abadd0b63": {
+                "productId": "9ac6280c-0961-4c3c-af16-236abadd0b63",
+                "retailerProductId": "608960EA",
+                "name": "Blue Buffalo Small Chicken Br Dog Food 2.2 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/ae2b40e2-cffb-4cca-841a-1c104ea5f8e7"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "19.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.91"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/ae2b40e2-cffb-4cca-841a-1c104ea5f8e7/300x300.jpg",
+                    "description": "Blue Buffalo Small Chicken Br Dog Food 2.2 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/ae2b40e2-cffb-4cca-841a-1c104ea5f8e7/500x500.jpg",
+                        "description": "Blue Buffalo Small Chicken Br Dog Food 2.2 kg"
+                    }
+                ],
+                "size": {
+                    "value": "2.2kg"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "true"
+            },
+            "a5c25844-5578-4125-85a5-a751d5cdc9ea": {
+                "productId": "a5c25844-5578-4125-85a5-a751d5cdc9ea",
+                "retailerProductId": "605937EA",
+                "name": "Blue Buffalo Pate Turkey & Chicken Cat Food Pate 90 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/937116ac-4c67-473b-bd78-b056072e315a"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "1.59"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.77"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/937116ac-4c67-473b-bd78-b056072e315a/300x300.jpg",
+                    "description": "Blue Buffalo Pate Turkey & Chicken Cat Food Pate 90 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/937116ac-4c67-473b-bd78-b056072e315a/500x500.jpg",
+                        "description": "Blue Buffalo Pate Turkey & Chicken Cat Food Pate 90 g"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "f85d86f6-d793-4fe4-8162-7d010c42e4c9",
+                        "description": "Buy Any 8 for $10.00 (Add 8)",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "f85d86f6-d793-4fe4-8162-7d010c42e4c9",
+                    "description": "Buy Any 8 for $10.00 (Add 8)",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "90g"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "true"
+            },
+            "7e12694f-b803-4d4b-89f7-e57626dc6b37": {
+                "productId": "7e12694f-b803-4d4b-89f7-e57626dc6b37",
+                "retailerProductId": "605956EA",
+                "name": "Blue Buffalo Bursts Savory Seafood Cat Treats 60 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/96fa876e-dc24-4100-8236-0f349b5087f0"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "2.69"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "4.48"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/96fa876e-dc24-4100-8236-0f349b5087f0/300x300.jpg",
+                    "description": "Blue Buffalo Bursts Savory Seafood Cat Treats 60 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/96fa876e-dc24-4100-8236-0f349b5087f0/500x500.jpg",
+                        "description": "Blue Buffalo Bursts Savory Seafood Cat Treats 60 g"
+                    }
+                ],
+                "size": {
+                    "value": "60g"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "true"
+            },
+            "c68badb0-b66c-45f2-8c7d-e6934741dcb3": {
+                "productId": "c68badb0-b66c-45f2-8c7d-e6934741dcb3",
+                "retailerProductId": "605935EA",
+                "name": "Blue Buffalo Flaked Tuna Cat Food 90 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/55ff28bf-2479-427f-ad70-ededfcd3769f"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "1.59"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.87"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/55ff28bf-2479-427f-ad70-ededfcd3769f/300x300.jpg",
+                    "description": "Blue Buffalo Flaked Tuna Cat Food 90 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/55ff28bf-2479-427f-ad70-ededfcd3769f/500x500.jpg",
+                        "description": "Blue Buffalo Flaked Tuna Cat Food 90 g"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "f85d86f6-d793-4fe4-8162-7d010c42e4c9",
+                        "description": "Buy Any 8 for $10.00 (Add 8)",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "f85d86f6-d793-4fe4-8162-7d010c42e4c9",
+                    "description": "Buy Any 8 for $10.00 (Add 8)",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "85g"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "false"
+            },
+            "dcac9fad-2816-43aa-a9ca-0ac1b7bc3352": {
+                "productId": "dcac9fad-2816-43aa-a9ca-0ac1b7bc3352",
+                "retailerProductId": "954839EA",
+                "name": "Friskies Party Mix Original Crunch Cat Treats 454 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/4eb18d25-473e-4ac2-8e08-af1910bde628"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "7.49"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "6.49"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "1.65"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.43"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/4eb18d25-473e-4ac2-8e08-af1910bde628/300x300.jpg",
+                    "description": "Friskies Party Mix Original Crunch Cat Treats 454 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/4eb18d25-473e-4ac2-8e08-af1910bde628/500x500.jpg",
+                        "description": "Friskies Party Mix Original Crunch Cat Treats 454 g"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "b0764669-8e1e-4dab-a497-adeda3c402d3",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "b0764669-8e1e-4dab-a497-adeda3c402d3",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "454g"
+                },
+                "isInProductList": false,
+                "brand": "Friskies",
+                "featured": "false"
+            },
+            "e753e5b0-d138-49ff-8105-37063c8ac94d": {
+                "productId": "e753e5b0-d138-49ff-8105-37063c8ac94d",
+                "retailerProductId": "954974EA",
+                "name": "Beyond Grain-Free Ocean Whitefish & Egg Cat Food 2.26 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/709b0734-c28c-43b1-b6e5-c3761ac8c4ad"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "29.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "24.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "1.33"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.11"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/709b0734-c28c-43b1-b6e5-c3761ac8c4ad/300x300.jpg",
+                    "description": "Beyond Grain-Free Ocean Whitefish & Egg Cat Food 2.26 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/709b0734-c28c-43b1-b6e5-c3761ac8c4ad/500x500.jpg",
+                        "description": "Beyond Grain-Free Ocean Whitefish & Egg Cat Food 2.26 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "547e966e-2e2e-4ab8-9cb0-089ec0002613",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "547e966e-2e2e-4ab8-9cb0-089ec0002613",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "2.26kg"
+                },
+                "isInProductList": false,
+                "brand": "Purina",
+                "featured": "false"
+            },
+            "6929ee88-1f2b-4f13-a1d6-73669ebf0a54": {
+                "productId": "6929ee88-1f2b-4f13-a1d6-73669ebf0a54",
+                "retailerProductId": "359994EA",
+                "name": "Purina Friskies Chef's Blend Cat Food 7.5 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/59ae1bfb-60fa-41ae-9855-f19fcfe5607d",
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/0b8fe45f-4923-40d7-8d57-d5a9b882b0dd"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "19.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "15.88"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "0.27"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.21"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/59ae1bfb-60fa-41ae-9855-f19fcfe5607d/300x300.jpg",
+                    "description": "Purina Friskies Chef's Blend Cat Food 7.5 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/59ae1bfb-60fa-41ae-9855-f19fcfe5607d/500x500.jpg",
+                        "description": "Purina Friskies Chef's Blend Cat Food 7.5 kg"
+                    },
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/0b8fe45f-4923-40d7-8d57-d5a9b882b0dd/500x500.jpg",
+                        "description": "Purina Friskies Chef's Blend Cat Food 7.5 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "e1c09417-fca0-42d8-b133-bdff4a3e6797",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "e1c09417-fca0-42d8-b133-bdff4a3e6797",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "7.5kg"
+                },
+                "isInProductList": false,
+                "brand": "Purina",
+                "featured": "false"
+            },
+            "d3f95c3d-afd1-43d8-a213-b1da374c4461": {
+                "productId": "d3f95c3d-afd1-43d8-a213-b1da374c4461",
+                "retailerProductId": "383996EA",
+                "name": "Whiskas Tuna Cat Food 4 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/f5e13b49-fbd7-4822-8467-9bbc09f1331e",
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/1ad8460d-fa02-4d7c-bc9c-b669c289d2f5"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "14.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "8.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "0.37"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.22"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/f5e13b49-fbd7-4822-8467-9bbc09f1331e/300x300.jpg",
+                    "description": "Whiskas Tuna Cat Food 4 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/f5e13b49-fbd7-4822-8467-9bbc09f1331e/500x500.jpg",
+                        "description": "Whiskas Tuna Cat Food 4 kg"
+                    },
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/1ad8460d-fa02-4d7c-bc9c-b669c289d2f5/500x500.jpg",
+                        "description": "Whiskas Tuna Cat Food 4 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "ad7eb396-c7ea-448d-9bb9-b7e1aedd543a",
+                        "description": "While Supplies Last",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "ad7eb396-c7ea-448d-9bb9-b7e1aedd543a",
+                    "description": "While Supplies Last",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "4kg"
+                },
+                "isInProductList": false,
+                "brand": "Whiskas",
+                "featured": "false"
+            },
+            "7b0ec20d-c97d-4be3-81af-ae42496932a6": {
+                "productId": "7b0ec20d-c97d-4be3-81af-ae42496932a6",
+                "retailerProductId": "954973EA",
+                "name": "Beyond Simply Salmon & Brown Rice Cat Food 2.72 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/f7a8a146-926d-4904-9e6a-462ee175eb33"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "29.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "24.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "1.10"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.92"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/f7a8a146-926d-4904-9e6a-462ee175eb33/300x300.jpg",
+                    "description": "Beyond Simply Salmon & Brown Rice Cat Food 2.72 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/f7a8a146-926d-4904-9e6a-462ee175eb33/500x500.jpg",
+                        "description": "Beyond Simply Salmon & Brown Rice Cat Food 2.72 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "547e966e-2e2e-4ab8-9cb0-089ec0002613",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "547e966e-2e2e-4ab8-9cb0-089ec0002613",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "2.72kg"
+                },
+                "isInProductList": false,
+                "brand": "Purina",
+                "featured": "false"
+            },
+            "1ce224ac-05ad-4e87-85c7-98e878ec74bc": {
+                "productId": "1ce224ac-05ad-4e87-85c7-98e878ec74bc",
+                "retailerProductId": "954842EA",
+                "name": "Friskies Party Mix Gravy-licious Crunch Cat Treats 454 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/2706e21e-fdf5-44be-840e-e7c0b242150a"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "7.49"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "6.49"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "1.65"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.43"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/2706e21e-fdf5-44be-840e-e7c0b242150a/300x300.jpg",
+                    "description": "Friskies Party Mix Gravy-licious Crunch Cat Treats 454 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/2706e21e-fdf5-44be-840e-e7c0b242150a/500x500.jpg",
+                        "description": "Friskies Party Mix Gravy-licious Crunch Cat Treats 454 g"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "b0764669-8e1e-4dab-a497-adeda3c402d3",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "b0764669-8e1e-4dab-a497-adeda3c402d3",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "454g"
+                },
+                "isInProductList": false,
+                "brand": "Friskies",
+                "featured": "false"
+            },
+            "4cf8cd1d-4f92-49a9-bf37-d69218ecbf76": {
+                "productId": "4cf8cd1d-4f92-49a9-bf37-d69218ecbf76",
+                "retailerProductId": "633902EA",
+                "name": "Nutro Wholesome Essentials Salmon & Brown Rice Adult Cat Food 1.36 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/df0d4416-e645-44af-8cf9-b83e3c94da82",
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/3ac6a96d-754e-4e7b-8569-2fc76e84e4ca",
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/d229a5e6-622b-4ace-985a-bb2ee28d1b0e",
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/c65d21ed-e46d-4a7d-827a-edef839655af"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "15.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "11.19"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "1.18"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.83"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/df0d4416-e645-44af-8cf9-b83e3c94da82/300x300.jpg",
+                    "description": "Nutro Wholesome Essentials Salmon & Brown Rice Adult Cat Food 1.36 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/df0d4416-e645-44af-8cf9-b83e3c94da82/500x500.jpg",
+                        "description": "Nutro Wholesome Essentials Salmon & Brown Rice Adult Cat Food 1.36 kg"
+                    },
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/3ac6a96d-754e-4e7b-8569-2fc76e84e4ca/500x500.jpg",
+                        "description": "Nutro Wholesome Essentials Salmon & Brown Rice Adult Cat Food 1.36 kg"
+                    },
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/d229a5e6-622b-4ace-985a-bb2ee28d1b0e/500x500.jpg",
+                        "description": "Nutro Wholesome Essentials Salmon & Brown Rice Adult Cat Food 1.36 kg"
+                    },
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/c65d21ed-e46d-4a7d-827a-edef839655af/500x500.jpg",
+                        "description": "Nutro Wholesome Essentials Salmon & Brown Rice Adult Cat Food 1.36 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "090566c2-7d15-4377-ba92-35b77c179a97",
+                        "description": "While Supplies Last",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "090566c2-7d15-4377-ba92-35b77c179a97",
+                    "description": "While Supplies Last",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "1.36kg"
+                },
+                "isInProductList": false,
+                "brand": "Nutro",
+                "featured": "false"
+            },
+            "5c3c8e3f-07d6-4cbb-be2d-b980594d5b81": {
+                "productId": "5c3c8e3f-07d6-4cbb-be2d-b980594d5b81",
+                "retailerProductId": "954965EA",
+                "name": "Purina Simply Chicken & Oatmeal Cat Food 2.72 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/07c3872b-d239-43b3-88dd-053d143e9fcc"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "29.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "24.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "1.10"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.92"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/07c3872b-d239-43b3-88dd-053d143e9fcc/300x300.jpg",
+                    "description": "Purina Simply Chicken & Oatmeal Cat Food 2.72 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/07c3872b-d239-43b3-88dd-053d143e9fcc/500x500.jpg",
+                        "description": "Purina Simply Chicken & Oatmeal Cat Food 2.72 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "547e966e-2e2e-4ab8-9cb0-089ec0002613",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "547e966e-2e2e-4ab8-9cb0-089ec0002613",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "2.72kg"
+                },
+                "isInProductList": false,
+                "brand": "Purina",
+                "featured": "false"
+            },
+            "6928b3a3-bc64-4539-9545-088fc733bbb9": {
+                "productId": "6928b3a3-bc64-4539-9545-088fc733bbb9",
+                "retailerProductId": "954840EA",
+                "name": "Friskies Party Mix Ocean Crunch Cat Treats 454 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/8a807ad2-e39e-437e-bd42-55cc3463b63e"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "7.49"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "6.49"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "1.65"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.43"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/8a807ad2-e39e-437e-bd42-55cc3463b63e/300x300.jpg",
+                    "description": "Friskies Party Mix Ocean Crunch Cat Treats 454 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/8a807ad2-e39e-437e-bd42-55cc3463b63e/500x500.jpg",
+                        "description": "Friskies Party Mix Ocean Crunch Cat Treats 454 g"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "b0764669-8e1e-4dab-a497-adeda3c402d3",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "b0764669-8e1e-4dab-a497-adeda3c402d3",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "454g"
+                },
+                "isInProductList": false,
+                "brand": "Friskies",
+                "featured": "false"
+            },
+            "6e94b5bd-8f6c-48aa-83a7-e7dcc3b54c4a": {
+                "productId": "6e94b5bd-8f6c-48aa-83a7-e7dcc3b54c4a",
+                "retailerProductId": "552802EA",
+                "name": "Meow Mix Hairball Control Cat Food 3.2 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/9fed244b-ca22-4cb8-977f-38e97283a9ce"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "13.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "9.79"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "0.44"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.31"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/9fed244b-ca22-4cb8-977f-38e97283a9ce/300x300.jpg",
+                    "description": "Meow Mix Hairball Control Cat Food 3.2 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/9fed244b-ca22-4cb8-977f-38e97283a9ce/500x500.jpg",
+                        "description": "Meow Mix Hairball Control Cat Food 3.2 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "090566c2-7d15-4377-ba92-35b77c179a97",
+                        "description": "While Supplies Last",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "090566c2-7d15-4377-ba92-35b77c179a97",
+                    "description": "While Supplies Last",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "3.2kg"
+                },
+                "isInProductList": false,
+                "brand": "Meow Mix",
+                "featured": "false"
+            },
+            "49569e6b-46b9-4463-985f-fa1b022336be": {
+                "productId": "49569e6b-46b9-4463-985f-fa1b022336be",
+                "retailerProductId": "588388EA",
+                "name": "Friskies 7 Favourites Dry Cat Food 7.26 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/ebe3d5a6-ba0d-4a7d-9971-fdf890f89c14",
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/154f669c-4bc7-491d-b0cf-776c9d237fd6"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "19.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "15.88"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "0.28"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.22"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/ebe3d5a6-ba0d-4a7d-9971-fdf890f89c14/300x300.jpg",
+                    "description": "Friskies 7 Favourites Dry Cat Food 7.26 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/ebe3d5a6-ba0d-4a7d-9971-fdf890f89c14/500x500.jpg",
+                        "description": "Friskies 7 Favourites Dry Cat Food 7.26 kg"
+                    },
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/154f669c-4bc7-491d-b0cf-776c9d237fd6/500x500.jpg",
+                        "description": "Friskies 7 Favourites Dry Cat Food 7.26 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "e1c09417-fca0-42d8-b133-bdff4a3e6797",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "e1c09417-fca0-42d8-b133-bdff4a3e6797",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "7.26kg"
+                },
+                "isInProductList": false,
+                "brand": "Friskies",
+                "featured": "false"
+            },
+            "84133cc7-3d20-46ce-904e-d57b83f806cf": {
+                "productId": "84133cc7-3d20-46ce-904e-d57b83f806cf",
+                "retailerProductId": "384607EA",
+                "name": "Friskies Grillers Meaty Tenders & Crunch Bites Cat Food 7.5 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/c9cf597e-beba-4f60-bcab-f5604ac6756d",
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/653ae1e9-e8de-45b6-9640-05a1bae0964b"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "19.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "15.88"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "0.27"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.21"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/c9cf597e-beba-4f60-bcab-f5604ac6756d/300x300.jpg",
+                    "description": "Friskies Grillers Meaty Tenders & Crunch Bites Cat Food 7.5 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/c9cf597e-beba-4f60-bcab-f5604ac6756d/500x500.jpg",
+                        "description": "Friskies Grillers Meaty Tenders & Crunch Bites Cat Food 7.5 kg"
+                    },
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/653ae1e9-e8de-45b6-9640-05a1bae0964b/500x500.jpg",
+                        "description": "Friskies Grillers Meaty Tenders & Crunch Bites Cat Food 7.5 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "e1c09417-fca0-42d8-b133-bdff4a3e6797",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "e1c09417-fca0-42d8-b133-bdff4a3e6797",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "7.5kg"
+                },
+                "isInProductList": false,
+                "brand": "Friskies",
+                "featured": "false"
+            },
+            "c1b04778-d63f-4f00-92bf-1554316ba2dc": {
+                "productId": "c1b04778-d63f-4f00-92bf-1554316ba2dc",
+                "retailerProductId": "758929EA",
+                "name": "Friskies Gravy Swirlers Cat Food 7.26 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/1ab0d770-4fec-4154-8a68-95e8a98fb39b",
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a74ecd99-435f-44a1-9d79-f774e5049dbc"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "19.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "15.88"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "0.28"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.22"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/1ab0d770-4fec-4154-8a68-95e8a98fb39b/300x300.jpg",
+                    "description": "Friskies Gravy Swirlers Cat Food 7.26 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/1ab0d770-4fec-4154-8a68-95e8a98fb39b/500x500.jpg",
+                        "description": "Friskies Gravy Swirlers Cat Food 7.26 kg"
+                    },
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a74ecd99-435f-44a1-9d79-f774e5049dbc/500x500.jpg",
+                        "description": "Friskies Gravy Swirlers Cat Food 7.26 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "e1c09417-fca0-42d8-b133-bdff4a3e6797",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "e1c09417-fca0-42d8-b133-bdff4a3e6797",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "7.26kg"
+                },
+                "isInProductList": false,
+                "brand": "Friskies",
+                "featured": "false"
+            },
+            "47bdd367-9083-4bbe-aa7f-a978e3b26d3e": {
+                "productId": "47bdd367-9083-4bbe-aa7f-a978e3b26d3e",
+                "retailerProductId": "334134EA",
+                "name": "Pedigree Marrobone Beef Dog Treats 737 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/4514fa51-9a61-493c-9533-c03e58033769"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "5.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "5.00"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "0.81"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.68"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/4514fa51-9a61-493c-9533-c03e58033769/300x300.jpg",
+                    "description": "Pedigree Marrobone Beef Dog Treats 737 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/4514fa51-9a61-493c-9533-c03e58033769/500x500.jpg",
+                        "description": "Pedigree Marrobone Beef Dog Treats 737 g"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "73c438ed-6261-4bbf-9350-cdd6730e5e6e",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "73c438ed-6261-4bbf-9350-cdd6730e5e6e",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "737g"
+                },
+                "isInProductList": false,
+                "brand": "Pedigree",
+                "featured": "false"
+            },
+            "58e62044-9782-4620-905b-2a815170dcb1": {
+                "productId": "58e62044-9782-4620-905b-2a815170dcb1",
+                "retailerProductId": "292167EA",
+                "name": "Purina Friskies Chef's Blend Cat Food 1.5 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/d44e2955-92c9-457f-b7b9-a8a426fa76a1"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "6.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "5.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "0.47"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.40"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/d44e2955-92c9-457f-b7b9-a8a426fa76a1/300x300.jpg",
+                    "description": "Purina Friskies Chef's Blend Cat Food 1.5 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/d44e2955-92c9-457f-b7b9-a8a426fa76a1/500x500.jpg",
+                        "description": "Purina Friskies Chef's Blend Cat Food 1.5 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "c0141eca-2295-4a73-bc84-82aa6bcdff6b",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "c0141eca-2295-4a73-bc84-82aa6bcdff6b",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "1.5kg"
+                },
+                "isInProductList": false,
+                "brand": "Purina",
+                "featured": "false"
+            },
+            "e6e89589-9eda-40cb-b83e-75df303507e0": {
+                "productId": "e6e89589-9eda-40cb-b83e-75df303507e0",
+                "retailerProductId": "498736EA",
+                "name": "Friskies 7 Favourites Mix Cat Food 1.42 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/4f331485-d9dd-4823-9a64-67718d47d8a0",
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/0dd0fee4-ca5f-476f-aef2-54809477362a"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "6.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "5.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "0.49"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.42"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/4f331485-d9dd-4823-9a64-67718d47d8a0/300x300.jpg",
+                    "description": "Friskies 7 Favourites Mix Cat Food 1.42 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/4f331485-d9dd-4823-9a64-67718d47d8a0/500x500.jpg",
+                        "description": "Friskies 7 Favourites Mix Cat Food 1.42 kg"
+                    },
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/0dd0fee4-ca5f-476f-aef2-54809477362a/500x500.jpg",
+                        "description": "Friskies 7 Favourites Mix Cat Food 1.42 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "c0141eca-2295-4a73-bc84-82aa6bcdff6b",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "c0141eca-2295-4a73-bc84-82aa6bcdff6b",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "1.42kg"
+                },
+                "isInProductList": false,
+                "brand": "Friskies",
+                "featured": "false"
+            },
+            "0015b44c-5deb-4c8d-bc1b-cb033c2a723c": {
+                "productId": "0015b44c-5deb-4c8d-bc1b-cb033c2a723c",
+                "retailerProductId": "347805EA",
+                "name": "Compliments Variety Pack Dog Food 12 x 100 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/364cedee-9fbf-4fed-ae69-3622aa5efff5",
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/7086cee1-6e7b-4f01-9b57-656fa3ce80d2"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "10.49"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "9.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "0.87"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.83"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/364cedee-9fbf-4fed-ae69-3622aa5efff5/300x300.jpg",
+                    "description": "Compliments Variety Pack Dog Food 12 x 100 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/364cedee-9fbf-4fed-ae69-3622aa5efff5/500x500.jpg",
+                        "description": "Compliments Variety Pack Dog Food 12 x 100 g"
+                    },
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/7086cee1-6e7b-4f01-9b57-656fa3ce80d2/500x500.jpg",
+                        "description": "Compliments Variety Pack Dog Food 12 x 100 g"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "1a87406d-737c-496c-a4f5-20e6b54cd5ab",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "1a87406d-737c-496c-a4f5-20e6b54cd5ab",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "12 x 100g"
+                },
+                "isInProductList": false,
+                "brand": "Compliments",
+                "featured": "false"
+            },
+            "2d6339c8-2de1-4d9f-9bf7-05705a5618a1": {
+                "productId": "2d6339c8-2de1-4d9f-9bf7-05705a5618a1",
+                "retailerProductId": "634206EA",
+                "name": "Nutro Wholesome Essentials Healthy Weight Lamb & Rice Adult Dog Food 13.61 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/66351722-03cc-46a4-b4bf-08fb13eb4936"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "64.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "45.49"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.kg",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "4.78"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "3.35"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/66351722-03cc-46a4-b4bf-08fb13eb4936/300x300.jpg",
+                    "description": "Nutro Wholesome Essentials Healthy Weight Lamb & Rice Adult Dog Food 13.61 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/66351722-03cc-46a4-b4bf-08fb13eb4936/500x500.jpg",
+                        "description": "Nutro Wholesome Essentials Healthy Weight Lamb & Rice Adult Dog Food 13.61 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "090566c2-7d15-4377-ba92-35b77c179a97",
+                        "description": "While Supplies Last",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "090566c2-7d15-4377-ba92-35b77c179a97",
+                    "description": "While Supplies Last",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "13.61kg"
+                },
+                "isInProductList": false,
+                "brand": "Nutro",
+                "featured": "false"
+            },
+            "c5abe130-f0ea-47aa-93c2-a09eeac47317": {
+                "productId": "c5abe130-f0ea-47aa-93c2-a09eeac47317",
+                "retailerProductId": "412789EA",
+                "name": "Milk-Bone Wonder Bones Chicken Small Breed Dog Treats 533 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/c18ffd29-7ab6-43ac-b454-e925bfe8f36f"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "11.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "9.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "2.25"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.87"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/c18ffd29-7ab6-43ac-b454-e925bfe8f36f/300x300.jpg",
+                    "description": "Milk-Bone Wonder Bones Chicken Small Breed Dog Treats 533 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/c18ffd29-7ab6-43ac-b454-e925bfe8f36f/500x500.jpg",
+                        "description": "Milk-Bone Wonder Bones Chicken Small Breed Dog Treats 533 g"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "51fa1b4a-b73e-45c7-8f20-187c507ae0a8",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "51fa1b4a-b73e-45c7-8f20-187c507ae0a8",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "533g"
+                },
+                "isInProductList": false,
+                "brand": "Milk-Bone",
+                "featured": "false"
+            },
+            "9ee5ec7e-a0a1-4b59-940c-46ec46af1af1": {
+                "productId": "9ee5ec7e-a0a1-4b59-940c-46ec46af1af1",
+                "retailerProductId": "412791EA",
+                "name": "Milk-Bone Wonder Bones Chicken Medium Breed Dog Treats 533 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/3446f1d5-7e9e-4097-8de1-6cf78994b052"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "11.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "9.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "2.25"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.87"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/3446f1d5-7e9e-4097-8de1-6cf78994b052/300x300.jpg",
+                    "description": "Milk-Bone Wonder Bones Chicken Medium Breed Dog Treats 533 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/3446f1d5-7e9e-4097-8de1-6cf78994b052/500x500.jpg",
+                        "description": "Milk-Bone Wonder Bones Chicken Medium Breed Dog Treats 533 g"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "40fd699d-b9dd-4fb4-b6b9-7509e813e521",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "40fd699d-b9dd-4fb4-b6b9-7509e813e521",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "533g"
+                },
+                "isInProductList": false,
+                "brand": "Milk-Bone",
+                "featured": "false"
+            },
+            "effac02b-fcc5-42c7-b0c0-65b7d4a2577d": {
+                "productId": "effac02b-fcc5-42c7-b0c0-65b7d4a2577d",
+                "retailerProductId": "342863EA",
+                "name": "Iams Proactive Health Dog Food Large Breed 13.61 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/53c0da9a-abcd-4aea-947e-6c39af786073"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "44.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "22.49"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.kg",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "3.31"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.65"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/53c0da9a-abcd-4aea-947e-6c39af786073/300x300.jpg",
+                    "description": "Iams Proactive Health Dog Food Large Breed 13.61 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/53c0da9a-abcd-4aea-947e-6c39af786073/500x500.jpg",
+                        "description": "Iams Proactive Health Dog Food Large Breed 13.61 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "e9495119-1090-4fa1-9565-3044376aaccf",
+                        "description": "While Supplies Last",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "e9495119-1090-4fa1-9565-3044376aaccf",
+                    "description": "While Supplies Last",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "13.608kg"
+                },
+                "isInProductList": false,
+                "brand": "IAMS",
+                "featured": "false"
+            },
+            "c18f06b7-d3d0-43d7-bb69-3feb9ed458c7": {
+                "productId": "c18f06b7-d3d0-43d7-bb69-3feb9ed458c7",
+                "retailerProductId": "635386EA",
+                "name": "Nutro Wholesome Essentials Lamb & Rice Senior Dog Food 13.61 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a32be17a-f01b-4569-b946-80889cf411b3"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "64.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "38.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.kg",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "4.78"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "2.87"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a32be17a-f01b-4569-b946-80889cf411b3/300x300.jpg",
+                    "description": "Nutro Wholesome Essentials Lamb & Rice Senior Dog Food 13.61 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a32be17a-f01b-4569-b946-80889cf411b3/500x500.jpg",
+                        "description": "Nutro Wholesome Essentials Lamb & Rice Senior Dog Food 13.61 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "ad7eb396-c7ea-448d-9bb9-b7e1aedd543a",
+                        "description": "While Supplies Last",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "ad7eb396-c7ea-448d-9bb9-b7e1aedd543a",
+                    "description": "While Supplies Last",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "13.61kg"
+                },
+                "isInProductList": false,
+                "brand": "Nutro",
+                "featured": "false"
+            },
+            "0e47f9bf-24fc-4b89-898f-f8ca0d225fc4": {
+                "productId": "0e47f9bf-24fc-4b89-898f-f8ca0d225fc4",
+                "retailerProductId": "634199EA",
+                "name": "Nutro Wholesome Essentials Chicken, Brown Rice & Sweet Potato Adult Dog Food 13.61 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a9614687-ef18-45f4-94ff-a006d59ac3ec"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "64.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "38.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.kg",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "4.78"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "2.87"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a9614687-ef18-45f4-94ff-a006d59ac3ec/300x300.jpg",
+                    "description": "Nutro Wholesome Essentials Chicken, Brown Rice & Sweet Potato Adult Dog Food 13.61 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a9614687-ef18-45f4-94ff-a006d59ac3ec/500x500.jpg",
+                        "description": "Nutro Wholesome Essentials Chicken, Brown Rice & Sweet Potato Adult Dog Food 13.61 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "ad7eb396-c7ea-448d-9bb9-b7e1aedd543a",
+                        "description": "While Supplies Last",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "ad7eb396-c7ea-448d-9bb9-b7e1aedd543a",
+                    "description": "While Supplies Last",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "13.61kg"
+                },
+                "isInProductList": false,
+                "brand": "Nutro",
+                "featured": "false"
+            },
+            "84aaa4e0-fa94-4f1e-aa9b-6e56579dafd4": {
+                "productId": "84aaa4e0-fa94-4f1e-aa9b-6e56579dafd4",
+                "retailerProductId": "955212EA",
+                "name": "Beyond Simply 9 Chicken & Barley Dog Food 10.8 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/39685003-fe70-4c08-90ad-0ee4e0a39204"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "47.49"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "42.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.kg",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "4.40"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "3.98"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/39685003-fe70-4c08-90ad-0ee4e0a39204/300x300.jpg",
+                    "description": "Beyond Simply 9 Chicken & Barley Dog Food 10.8 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/39685003-fe70-4c08-90ad-0ee4e0a39204/500x500.jpg",
+                        "description": "Beyond Simply 9 Chicken & Barley Dog Food 10.8 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "6afb6fe6-0018-4af1-9d6c-e95579377509",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "6afb6fe6-0018-4af1-9d6c-e95579377509",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "10.8kg"
+                },
+                "isInProductList": false,
+                "brand": "Purina",
+                "featured": "false"
+            },
+            "89e613e1-1568-4b9c-b816-f855931ac4f2": {
+                "productId": "89e613e1-1568-4b9c-b816-f855931ac4f2",
+                "retailerProductId": "635125EA",
+                "name": "Nutro Wholesome Essentials Chicken, Brown Rice & Sweet Potato Large Breed Dog Food 13.61 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/28a300d0-91fd-4ac5-9dc5-47531984a89e"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "64.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "32.49"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.kg",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "4.78"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "2.39"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/28a300d0-91fd-4ac5-9dc5-47531984a89e/300x300.jpg",
+                    "description": "Nutro Wholesome Essentials Chicken, Brown Rice & Sweet Potato Large Breed Dog Food 13.61 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/28a300d0-91fd-4ac5-9dc5-47531984a89e/500x500.jpg",
+                        "description": "Nutro Wholesome Essentials Chicken, Brown Rice & Sweet Potato Large Breed Dog Food 13.61 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "e9495119-1090-4fa1-9565-3044376aaccf",
+                        "description": "While Supplies Last",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "e9495119-1090-4fa1-9565-3044376aaccf",
+                    "description": "While Supplies Last",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "13.61kg"
+                },
+                "isInProductList": false,
+                "brand": "Nutro",
+                "featured": "false"
+            },
+            "bd682e34-c8e3-4f5c-ae1e-989d6e9c9be2": {
+                "productId": "bd682e34-c8e3-4f5c-ae1e-989d6e9c9be2",
+                "retailerProductId": "950625EA",
+                "name": "Milk-Bone Brushing Chews Medium Breed Dog Treats 557 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/e60a3351-6c8a-454c-9c1b-2f66cf249f94"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "10.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "9.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "1.97"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.79"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/e60a3351-6c8a-454c-9c1b-2f66cf249f94/300x300.jpg",
+                    "description": "Milk-Bone Brushing Chews Medium Breed Dog Treats 557 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/e60a3351-6c8a-454c-9c1b-2f66cf249f94/500x500.jpg",
+                        "description": "Milk-Bone Brushing Chews Medium Breed Dog Treats 557 g"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "18e0ec1b-6835-404b-86c0-77f99f16d0ca",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "18e0ec1b-6835-404b-86c0-77f99f16d0ca",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "25 x 22.28g"
+                },
+                "isInProductList": false,
+                "brand": "Milk-Bone",
+                "featured": "false"
+            },
+            "67a9d902-1601-4eb6-901c-fcc757987a00": {
+                "productId": "67a9d902-1601-4eb6-901c-fcc757987a00",
+                "retailerProductId": "626263EA",
+                "name": "Greenies Petite Original Breed Dog Treats 170 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/06bcb4aa-5eea-4dc3-9f9a-cb06c642d560"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "9.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "9.49"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "5.88"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "5.58"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/06bcb4aa-5eea-4dc3-9f9a-cb06c642d560/300x300.jpg",
+                    "description": "Greenies Petite Original Breed Dog Treats 170 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/06bcb4aa-5eea-4dc3-9f9a-cb06c642d560/500x500.jpg",
+                        "description": "Greenies Petite Original Breed Dog Treats 170 g"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "e1b06a19-48bd-476d-9f9b-2efc1bc616b1",
+                        "description": "",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "e1b06a19-48bd-476d-9f9b-2efc1bc616b1",
+                    "description": "",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "170g"
+                },
+                "isInProductList": false,
+                "brand": "Greenies",
+                "featured": "false"
+            },
+            "121727f4-e485-4eb9-8e11-ff75f97f81c3": {
+                "productId": "121727f4-e485-4eb9-8e11-ff75f97f81c3",
+                "retailerProductId": "512119EA",
+                "name": "Beggin' Venison Dog Treats 963 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/2b93b27c-109d-4369-8e76-c45a5a9593b5"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "14.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "10.49"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "1.56"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.09"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/2b93b27c-109d-4369-8e76-c45a5a9593b5/300x300.jpg",
+                    "description": "Beggin' Venison Dog Treats 963 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/2b93b27c-109d-4369-8e76-c45a5a9593b5/500x500.jpg",
+                        "description": "Beggin' Venison Dog Treats 963 g"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "090566c2-7d15-4377-ba92-35b77c179a97",
+                        "description": "While Supplies Last",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "090566c2-7d15-4377-ba92-35b77c179a97",
+                    "description": "While Supplies Last",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "963g"
+                },
+                "isInProductList": false,
+                "brand": "Beggin Adventures",
+                "featured": "false"
+            },
+            "a9320297-fa0a-42ea-a6d0-3e96837fab47": {
+                "productId": "a9320297-fa0a-42ea-a6d0-3e96837fab47",
+                "retailerProductId": "634494EA",
+                "name": "Nutro Wholesome Essentials Lamb & Rice Large Breed Food 13.61 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/10959546-993b-4b13-b37d-0cefd0ed84a3"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "64.99"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "32.49"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.kg",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "4.78"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "2.39"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/10959546-993b-4b13-b37d-0cefd0ed84a3/300x300.jpg",
+                    "description": "Nutro Wholesome Essentials Lamb & Rice Large Breed Food 13.61 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/10959546-993b-4b13-b37d-0cefd0ed84a3/500x500.jpg",
+                        "description": "Nutro Wholesome Essentials Lamb & Rice Large Breed Food 13.61 kg"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "e9495119-1090-4fa1-9565-3044376aaccf",
+                        "description": "While Supplies Last",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "e9495119-1090-4fa1-9565-3044376aaccf",
+                    "description": "While Supplies Last",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "13.61kg"
+                },
+                "isInProductList": false,
+                "brand": "Nutro",
+                "featured": "false"
+            },
+            "cb64ae44-c2ec-40f5-ba34-f9ce6466c940": {
+                "productId": "cb64ae44-c2ec-40f5-ba34-f9ce6466c940",
+                "retailerProductId": "954916EA",
+                "name": "Dentalife ActivFresh Medium Dog Treats 521 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/b4b032a4-051e-43e1-812b-bae5d3d3ed0c"
+                ],
+                "price": {
+                    "original": {
+                        "currency": "CAD",
+                        "amount": "9.49"
+                    },
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "6.64"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "original": {
+                            "currency": "CAD",
+                            "amount": "2.16"
+                        },
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.51"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/b4b032a4-051e-43e1-812b-bae5d3d3ed0c/300x300.jpg",
+                    "description": "Dentalife ActivFresh Medium Dog Treats 521 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/b4b032a4-051e-43e1-812b-bae5d3d3ed0c/500x500.jpg",
+                        "description": "Dentalife ActivFresh Medium Dog Treats 521 g"
+                    }
+                ],
+                "offers": [
+                    {
+                        "id": "090566c2-7d15-4377-ba92-35b77c179a97",
+                        "description": "While Supplies Last",
+                        "type": "OFFER"
+                    }
+                ],
+                "offer": {
+                    "id": "090566c2-7d15-4377-ba92-35b77c179a97",
+                    "description": "While Supplies Last",
+                    "type": "OFFER"
+                },
+                "size": {
+                    "value": "439g"
+                },
+                "isInProductList": false,
+                "brand": "Purina",
+                "featured": "false"
+            },
+            "3d147627-c6c9-461d-9a17-e6cae3800f97": {
+                "productId": "3d147627-c6c9-461d-9a17-e6cae3800f97",
+                "retailerProductId": "513496EA",
+                "name": "Friskies Cat Food Poultry Lovers Variety Pack Chicken & Salmon, Shredded Turkey & Cheese, Chunks Chicken Dinner 12 cans 156 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/3786fd44-e9ff-4990-94f2-590e7ed1ce08",
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/0cf4d20d-0020-4769-b170-25eed8b84b31"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "21.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.44"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/3786fd44-e9ff-4990-94f2-590e7ed1ce08/300x300.jpg",
+                    "description": "Friskies Cat Food Poultry Lovers Variety Pack Chicken & Salmon, Shredded Turkey & Cheese, Chunks Chicken Dinner 12 cans 156 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/3786fd44-e9ff-4990-94f2-590e7ed1ce08/500x500.jpg",
+                        "description": "Friskies Cat Food Poultry Lovers Variety Pack Chicken & Salmon, Shredded Turkey & Cheese, Chunks Chicken Dinner 12 cans 156 g"
+                    },
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/0cf4d20d-0020-4769-b170-25eed8b84b31/500x500.jpg",
+                        "description": "Friskies Cat Food Poultry Lovers Variety Pack Chicken & Salmon, Shredded Turkey & Cheese, Chunks Chicken Dinner 12 cans 156 g"
+                    }
+                ],
+                "size": {
+                    "value": "4.992kg"
+                },
+                "isInProductList": false,
+                "brand": "Friskies",
+                "featured": "false"
+            },
+            "f211cfa3-c5e2-4a56-9976-b048fbab04cc": {
+                "productId": "f211cfa3-c5e2-4a56-9976-b048fbab04cc",
+                "retailerProductId": "513747EA",
+                "name": "Friskies Shredded Cate Food Variety Pack Turkey & Cheese, Chicken in Gravy, Chicken & Salmon, Ocean Whitefish & Tuna 32 cans 156 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/e808b8fa-5233-452a-a2ed-8c8a0df0e707",
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/bd2a6273-a240-49d0-a516-3294b7931ffe"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "21.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "14.10"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/e808b8fa-5233-452a-a2ed-8c8a0df0e707/300x300.jpg",
+                    "description": "Friskies Shredded Cate Food Variety Pack Turkey & Cheese, Chicken in Gravy, Chicken & Salmon, Ocean Whitefish & Tuna 32 cans 156 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/e808b8fa-5233-452a-a2ed-8c8a0df0e707/500x500.jpg",
+                        "description": "Friskies Shredded Cate Food Variety Pack Turkey & Cheese, Chicken in Gravy, Chicken & Salmon, Ocean Whitefish & Tuna 32 cans 156 g"
+                    },
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/bd2a6273-a240-49d0-a516-3294b7931ffe/500x500.jpg",
+                        "description": "Friskies Shredded Cate Food Variety Pack Turkey & Cheese, Chicken in Gravy, Chicken & Salmon, Ocean Whitefish & Tuna 32 cans 156 g"
+                    }
+                ],
+                "size": {
+                    "value": "156g"
+                },
+                "isInProductList": false,
+                "brand": "Friskies",
+                "featured": "false"
+            },
+            "87a0a1c6-1279-4eac-af4d-3909c9ffa24e": {
+                "productId": "87a0a1c6-1279-4eac-af4d-3909c9ffa24e",
+                "retailerProductId": "609329EA",
+                "name": "Blue Buffalo Delights New York Strip Dog Food 99 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a3f2aafb-be17-4302-a2b7-360c9d550fe6"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "1.59"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.61"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a3f2aafb-be17-4302-a2b7-360c9d550fe6/300x300.jpg",
+                    "description": "Blue Buffalo Delights New York Strip Dog Food 99 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a3f2aafb-be17-4302-a2b7-360c9d550fe6/500x500.jpg",
+                        "description": "Blue Buffalo Delights New York Strip Dog Food 99 g"
+                    }
+                ],
+                "size": {
+                    "value": "99g"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "false"
+            },
+            "b89bdd4e-0914-4036-b908-c4c5b8269220": {
+                "productId": "b89bdd4e-0914-4036-b908-c4c5b8269220",
+                "retailerProductId": "605987EA",
+                "name": "Blue Buffalo Bursts Savory Seafood Cat Treats 340 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/f9090916-9a19-4f01-a13c-ccecc220ade2"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "9.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "2.94"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/f9090916-9a19-4f01-a13c-ccecc220ade2/300x300.jpg",
+                    "description": "Blue Buffalo Bursts Savory Seafood Cat Treats 340 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/f9090916-9a19-4f01-a13c-ccecc220ade2/500x500.jpg",
+                        "description": "Blue Buffalo Bursts Savory Seafood Cat Treats 340 g"
+                    }
+                ],
+                "size": {
+                    "value": "340g"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "false"
+            },
+            "d3c612e4-02e8-4754-afe9-0c53769c6a5a": {
+                "productId": "d3c612e4-02e8-4754-afe9-0c53769c6a5a",
+                "retailerProductId": "609343EA",
+                "name": "Blue Buffalo Delights Roasted Turkey Dog Food 99 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/9204b3cc-b4c4-4083-85a3-a9681d89ab17"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "1.59"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.61"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/9204b3cc-b4c4-4083-85a3-a9681d89ab17/300x300.jpg",
+                    "description": "Blue Buffalo Delights Roasted Turkey Dog Food 99 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/9204b3cc-b4c4-4083-85a3-a9681d89ab17/500x500.jpg",
+                        "description": "Blue Buffalo Delights Roasted Turkey Dog Food 99 g"
+                    }
+                ],
+                "size": {
+                    "value": "99g"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "false"
+            },
+            "2d8e51fd-1622-4dfa-997a-aed3da706a9a": {
+                "productId": "2d8e51fd-1622-4dfa-997a-aed3da706a9a",
+                "retailerProductId": "606045EA",
+                "name": "Blue Buffalo Salmon Flavoured Indoor Cat Food 0.9 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/bec23d34-73c5-4dc0-bdfe-723b892c69a8"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "9.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "11.10"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/bec23d34-73c5-4dc0-bdfe-723b892c69a8/300x300.jpg",
+                    "description": "Blue Buffalo Salmon Flavoured Indoor Cat Food 0.9 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/bec23d34-73c5-4dc0-bdfe-723b892c69a8/500x500.jpg",
+                        "description": "Blue Buffalo Salmon Flavoured Indoor Cat Food 0.9 kg"
+                    }
+                ],
+                "size": {
+                    "value": "90g"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "false"
+            },
+            "c1934e95-1ee5-45ed-8c7e-246667dadd48": {
+                "productId": "c1934e95-1ee5-45ed-8c7e-246667dadd48",
+                "retailerProductId": "606232EA",
+                "name": "Blue Buffalo Healthy Gourmet Variety Pack Adult Pate Cat Food 12 x 155 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a8ccb418-e528-4ca5-b579-b487571cca36"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "23.49"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.26"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a8ccb418-e528-4ca5-b579-b487571cca36/300x300.jpg",
+                    "description": "Blue Buffalo Healthy Gourmet Variety Pack Adult Pate Cat Food 12 x 155 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a8ccb418-e528-4ca5-b579-b487571cca36/500x500.jpg",
+                        "description": "Blue Buffalo Healthy Gourmet Variety Pack Adult Pate Cat Food 12 x 155 g"
+                    }
+                ],
+                "size": {
+                    "value": "1.86kg"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "false"
+            },
+            "c3057882-646e-4282-bb02-4a8f13113631": {
+                "productId": "c3057882-646e-4282-bb02-4a8f13113631",
+                "retailerProductId": "605964EA",
+                "name": "Blue Buffalo Chicken Flavour Kitten Cat Food 900 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/8c1149d3-acce-4b7e-ba09-cafb52a4e8e1"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "9.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.11"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/8c1149d3-acce-4b7e-ba09-cafb52a4e8e1/300x300.jpg",
+                    "description": "Blue Buffalo Chicken Flavour Kitten Cat Food 900 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/8c1149d3-acce-4b7e-ba09-cafb52a4e8e1/500x500.jpg",
+                        "description": "Blue Buffalo Chicken Flavour Kitten Cat Food 900 g"
+                    }
+                ],
+                "size": {
+                    "value": "900g"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "false"
+            },
+            "52193420-f449-4719-ad20-e24468b539a1": {
+                "productId": "52193420-f449-4719-ad20-e24468b539a1",
+                "retailerProductId": "609325EA",
+                "name": "Blue Buffalo Delights Rotisserie Chicken Dog Food 99 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/e42bb9de-4944-402f-8cca-94db19f0b6de"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "1.59"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.61"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/e42bb9de-4944-402f-8cca-94db19f0b6de/300x300.jpg",
+                    "description": "Blue Buffalo Delights Rotisserie Chicken Dog Food 99 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/e42bb9de-4944-402f-8cca-94db19f0b6de/500x500.jpg",
+                        "description": "Blue Buffalo Delights Rotisserie Chicken Dog Food 99 g"
+                    }
+                ],
+                "size": {
+                    "value": "99g"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "false"
+            },
+            "4f71437d-9dfb-468f-8c97-c1538811c949": {
+                "productId": "4f71437d-9dfb-468f-8c97-c1538811c949",
+                "retailerProductId": "608962EA",
+                "name": "Blue Buffalo Chicken and Brown Rice Adult Dog Food 2.2 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/3e3c25de-7ea9-40df-b548-3df39e9e0b8e"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "19.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.91"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/3e3c25de-7ea9-40df-b548-3df39e9e0b8e/300x300.jpg",
+                    "description": "Blue Buffalo Chicken and Brown Rice Adult Dog Food 2.2 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/3e3c25de-7ea9-40df-b548-3df39e9e0b8e/500x500.jpg",
+                        "description": "Blue Buffalo Chicken and Brown Rice Adult Dog Food 2.2 kg"
+                    }
+                ],
+                "size": {
+                    "value": "2.2kg"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "false"
+            },
+            "a5ba23bd-f34b-41c7-add3-536a930340e3": {
+                "productId": "a5ba23bd-f34b-41c7-add3-536a930340e3",
+                "retailerProductId": "606001EA",
+                "name": "Blue Buffalo Chicken Flavour Mature Cat Food 2.2 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/f676452b-c14c-471d-bdf2-ed35b1b639ed"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "19.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.91"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/f676452b-c14c-471d-bdf2-ed35b1b639ed/300x300.jpg",
+                    "description": "Blue Buffalo Chicken Flavour Mature Cat Food 2.2 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/f676452b-c14c-471d-bdf2-ed35b1b639ed/500x500.jpg",
+                        "description": "Blue Buffalo Chicken Flavour Mature Cat Food 2.2 kg"
+                    }
+                ],
+                "size": {
+                    "value": "2.2kg"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "false"
+            },
+            "86c24eac-e410-4891-8559-b52fe81bdd51": {
+                "productId": "86c24eac-e410-4891-8559-b52fe81bdd51",
+                "retailerProductId": "606024EA",
+                "name": "Blue Buffalo Chicken Flavour Kitten Cat Food 2.2 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/1e35d60a-4eec-4dc9-8f05-79dca960e235"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "19.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.91"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/1e35d60a-4eec-4dc9-8f05-79dca960e235/300x300.jpg",
+                    "description": "Blue Buffalo Chicken Flavour Kitten Cat Food 2.2 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/1e35d60a-4eec-4dc9-8f05-79dca960e235/500x500.jpg",
+                        "description": "Blue Buffalo Chicken Flavour Kitten Cat Food 2.2 kg"
+                    }
+                ],
+                "size": {
+                    "value": "2.2kg"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "false"
+            },
+            "7b0c3ffa-b0b3-493c-818f-80da011b4efc": {
+                "productId": "7b0c3ffa-b0b3-493c-818f-80da011b4efc",
+                "retailerProductId": "606043EA",
+                "name": "Blue Buffalo Chicken & Brown Rice Indoor Cat Food 2.2 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/4e7346c4-f3a4-43f5-9689-11ad8df4a512"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "19.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.91"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/4e7346c4-f3a4-43f5-9689-11ad8df4a512/300x300.jpg",
+                    "description": "Blue Buffalo Chicken & Brown Rice Indoor Cat Food 2.2 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/4e7346c4-f3a4-43f5-9689-11ad8df4a512/500x500.jpg",
+                        "description": "Blue Buffalo Chicken & Brown Rice Indoor Cat Food 2.2 kg"
+                    }
+                ],
+                "size": {
+                    "value": "2.2kg"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "false"
+            },
+            "b411d5cd-91d6-4389-884a-a53f45cde8ee": {
+                "productId": "b411d5cd-91d6-4389-884a-a53f45cde8ee",
+                "retailerProductId": "606056EA",
+                "name": "Blue Buffalo Sensitive Stomach Chicken Cat Food 900 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/6546fcc2-193f-4c80-a3b5-48cfb97a564a"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "9.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "1.11"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/6546fcc2-193f-4c80-a3b5-48cfb97a564a/300x300.jpg",
+                    "description": "Blue Buffalo Sensitive Stomach Chicken Cat Food 900 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/6546fcc2-193f-4c80-a3b5-48cfb97a564a/500x500.jpg",
+                        "description": "Blue Buffalo Sensitive Stomach Chicken Cat Food 900 g"
+                    }
+                ],
+                "size": {
+                    "value": "900g"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "false"
+            },
+            "ba033882-37e4-4dff-af05-d93422dece50": {
+                "productId": "ba033882-37e4-4dff-af05-d93422dece50",
+                "retailerProductId": "608966EA",
+                "name": "Blue Buffalo Dog Food Chicken Brown Rice Puppy 2.2 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/cefef2f2-1b3a-45bf-a1e2-69bc37161499"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "19.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.91"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/cefef2f2-1b3a-45bf-a1e2-69bc37161499/300x300.jpg",
+                    "description": "Blue Buffalo Dog Food Chicken Brown Rice Puppy 2.2 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/cefef2f2-1b3a-45bf-a1e2-69bc37161499/500x500.jpg",
+                        "description": "Blue Buffalo Dog Food Chicken Brown Rice Puppy 2.2 kg"
+                    }
+                ],
+                "size": {
+                    "value": "2.2kg"
+                },
+                "isInProductList": false,
+                "brand": "BlueBuff",
+                "featured": "false"
+            },
+            "04578ba3-5ce9-41c7-a091-8d008669cc00": {
+                "productId": "04578ba3-5ce9-41c7-a091-8d008669cc00",
+                "retailerProductId": "609551EA",
+                "name": "Blue Buffalo Puppy Chicken & Brown Rice Large Breed Dog Food 9.9 kg",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/1328f93a-3709-4750-84f7-8f86cf233de1"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "49.99"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.100gram",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "0.50"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/1328f93a-3709-4750-84f7-8f86cf233de1/300x300.jpg",
+                    "description": "Blue Buffalo Puppy Chicken & Brown Rice Large Breed Dog Food 9.9 kg"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/1328f93a-3709-4750-84f7-8f86cf233de1/500x500.jpg",
+                        "description": "Blue Buffalo Puppy Chicken & Brown Rice Large Breed Dog Food 9.9 kg"
+                    }
+                ],
+                "size": {
+                    "value": "9.9kg"
+                },
+                "isInProductList": false,
+                "brand": "Blue Buffalo",
+                "featured": "false"
+            }
+        }
+    },
+    "result": {
+        "productGroups": [
+            {
+                "type": "featured",
+                "products": [
+                    "9ac6280c-0961-4c3c-af16-236abadd0b63",
+                    "a5c25844-5578-4125-85a5-a751d5cdc9ea",
+                    "7e12694f-b803-4d4b-89f7-e57626dc6b37"
+                ],
+                "name": "fop.headertitle.other",
+                "clusterCategories": [],
+                "clusterBreadcrumbs": [],
+                "campaignName": "Blue Buffalo February Products Featured In Category Pet Food ON",
+                "campaignId": "683",
+                "viewportConfig": {
+                    "xs": 1,
+                    "sm": 2,
+                    "md": 3,
+                    "lg": 3
+                },
+                "additionalProductAttributes": [
+                    {
+                        "campaignName": "Blue Buffalo February Products Featured In Category Pet Food ON",
+                        "campaignId": "683"
+                    },
+                    {
+                        "campaignName": "Blue Buffalo February Products Featured In Category Pet Food ON",
+                        "campaignId": "683"
+                    },
+                    {
+                        "campaignName": "Blue Buffalo February Products Featured In Category Pet Food ON",
+                        "campaignId": "683"
+                    }
+                ]
+            },
+            {
+                "type": "on_offer",
+                "products": [
+                    "c68badb0-b66c-45f2-8c7d-e6934741dcb3",
+                    "dcac9fad-2816-43aa-a9ca-0ac1b7bc3352",
+                    "e753e5b0-d138-49ff-8105-37063c8ac94d",
+                    "6929ee88-1f2b-4f13-a1d6-73669ebf0a54",
+                    "d3f95c3d-afd1-43d8-a213-b1da374c4461",
+                    "7b0ec20d-c97d-4be3-81af-ae42496932a6",
+                    "1ce224ac-05ad-4e87-85c7-98e878ec74bc",
+                    "4cf8cd1d-4f92-49a9-bf37-d69218ecbf76",
+                    "5c3c8e3f-07d6-4cbb-be2d-b980594d5b81",
+                    "6928b3a3-bc64-4539-9545-088fc733bbb9",
+                    "6e94b5bd-8f6c-48aa-83a7-e7dcc3b54c4a",
+                    "49569e6b-46b9-4463-985f-fa1b022336be",
+                    "84133cc7-3d20-46ce-904e-d57b83f806cf",
+                    "c1b04778-d63f-4f00-92bf-1554316ba2dc",
+                    "47bdd367-9083-4bbe-aa7f-a978e3b26d3e",
+                    "58e62044-9782-4620-905b-2a815170dcb1",
+                    "e6e89589-9eda-40cb-b83e-75df303507e0",
+                    "0015b44c-5deb-4c8d-bc1b-cb033c2a723c",
+                    "2d6339c8-2de1-4d9f-9bf7-05705a5618a1",
+                    "c5abe130-f0ea-47aa-93c2-a09eeac47317",
+                    "9ee5ec7e-a0a1-4b59-940c-46ec46af1af1",
+                    "effac02b-fcc5-42c7-b0c0-65b7d4a2577d",
+                    "c18f06b7-d3d0-43d7-bb69-3feb9ed458c7",
+                    "0e47f9bf-24fc-4b89-898f-f8ca0d225fc4",
+                    "84aaa4e0-fa94-4f1e-aa9b-6e56579dafd4",
+                    "89e613e1-1568-4b9c-b816-f855931ac4f2",
+                    "bd682e34-c8e3-4f5c-ae1e-989d6e9c9be2",
+                    "67a9d902-1601-4eb6-901c-fcc757987a00",
+                    "121727f4-e485-4eb9-8e11-ff75f97f81c3",
+                    "a9320297-fa0a-42ea-a6d0-3e96837fab47",
+                    "cb64ae44-c2ec-40f5-ba34-f9ce6466c940"
+                ],
+                "name": "fop.headertitle.onoffer",
+                "clusterCategories": [],
+                "clusterBreadcrumbs": [],
+                "additionalProductAttributes": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                ]
+            },
+            {
+                "type": "group",
+                "products": [
+                    "3d147627-c6c9-461d-9a17-e6cae3800f97",
+                    "f211cfa3-c5e2-4a56-9976-b048fbab04cc",
+                    "87a0a1c6-1279-4eac-af4d-3909c9ffa24e",
+                    "b89bdd4e-0914-4036-b908-c4c5b8269220",
+                    "d3c612e4-02e8-4754-afe9-0c53769c6a5a",
+                    "2d8e51fd-1622-4dfa-997a-aed3da706a9a",
+                    "c1934e95-1ee5-45ed-8c7e-246667dadd48",
+                    "c3057882-646e-4282-bb02-4a8f13113631",
+                    "52193420-f449-4719-ad20-e24468b539a1",
+                    "4f71437d-9dfb-468f-8c97-c1538811c949",
+                    "a5ba23bd-f34b-41c7-add3-536a930340e3",
+                    "86c24eac-e410-4891-8559-b52fe81bdd51",
+                    "7b0c3ffa-b0b3-493c-818f-80da011b4efc",
+                    "b411d5cd-91d6-4389-884a-a53f45cde8ee",
+                    "ba033882-37e4-4dff-af05-d93422dece50",
+                    "04578ba3-5ce9-41c7-a091-8d008669cc00",
+                    "e71ff544-ad4f-402d-86f9-ef424166a388",
+                    "80326651-8e64-4db8-a9b2-33e847dba087",
+                    "3f37cca9-407b-4ce7-9d3d-3d5782f86a1a",
+                    "4f52f242-b750-4f68-8581-b22877471615",
+                    "206f835a-4585-40f7-8728-76c713c6b8f7",
+                    "611219d7-e0ce-4ec9-99df-7e2dab0c0ec6",
+                    "92e0aa3f-b667-43e7-8b28-1376b9417723",
+                    "b006d047-5ee6-4774-87cf-a18267d2cc96",
+                    "50448851-3d7b-4ad2-abf2-8be5b3e32e24",
+                    "6009a37f-390b-4036-8125-7e49099dfbcf",
+                    "deebbf05-7642-456f-942f-d2eb80dd02e2",
+                    "7553167f-f714-418c-8ecd-d161ca48cbe4",
+                    "8a6f2f98-8fb8-487d-a67a-08d86d284947",
+                    "5254cb15-c5ec-4a4c-99ee-50c8b87c6163",
+                    "9ac6280c-0961-4c3c-af16-236abadd0b63",
+                    "f28eab81-6b34-4b6a-8bd5-a483a057c1d1",
+                    "84ea38ad-602e-45a3-9265-8f6db3013197",
+                    "ace9218b-5d36-4b0e-ad70-54d202122a7b",
+                    "fbdab4f2-433f-4662-94d7-cc1e890d5b55",
+                    "ceb54d90-1275-4d39-86b1-f0ab3cf2e79d",
+                    "7318afa4-2a06-44ae-9cf9-5a78f8fd6424",
+                    "ccebc8b4-6cd8-4741-80f1-76d4575ba045",
+                    "8bb15f68-0d0e-4392-bd37-b25583afe87a",
+                    "0c508d92-ff3e-4247-b785-0d84b0824ff3",
+                    "dfe49cc0-46a8-4f91-bbe4-46c8e49f6275",
+                    "fdf3e572-6f68-4a09-b90c-12a633b70527",
+                    "5d1fc198-7a6b-45af-95e2-433d629de126",
+                    "26c67828-0195-49e1-bf33-04ce0408b208",
+                    "8f96bea7-fa60-4fa6-b9a9-6195b37586e4",
+                    "15b5633c-ed68-4178-88ab-ea40623d4a79",
+                    "1a7f0e4c-448c-4c67-9df0-139ca0c81b50",
+                    "d57d8d5a-ce4d-46bb-bdd8-4391e6e2e9b3",
+                    "f7d42400-0320-4dc2-93d8-cd10333907dc",
+                    "3c4b0547-79de-470f-8254-ec91bce030ad",
+                    "fa1bc2da-420a-44ae-85fa-332d60413a88",
+                    "6ab5b747-b79a-4f0e-98f0-478c38e7afb9",
+                    "be21fb0e-9a87-4397-a3e1-839cf4779773",
+                    "8bd64c00-c172-4f27-bf5b-80efe9a1ef54",
+                    "a47bf24f-47dc-42b7-9949-7004debcc879",
+                    "a2fc9cb8-1483-44d0-95dc-ecf51fd47ce0",
+                    "51044ac8-eb4f-4809-bd14-78cf929cb122",
+                    "c90f4175-dd80-41c6-a39b-aa58008de728",
+                    "dcc62230-fc6e-40a0-87cc-292d310b7c7c",
+                    "34554e18-561d-482d-95bc-6136a800142e",
+                    "a0fb5f06-2de4-4295-9e52-339929c8c6b7",
+                    "432e278e-90f3-467c-a887-e767e93d8ae3",
+                    "e013cd7c-ad28-4deb-918b-f15f529a407a",
+                    "c8268c1d-5a60-4381-832d-b10774c8c7f0",
+                    "9e85100c-2b1b-4ac2-8cdc-f42f0f0e88ea",
+                    "8ea86615-379c-4575-a94f-826431acb147",
+                    "c576dc35-a6d3-4b6b-aafa-19e8c5542ec0",
+                    "15af8223-d319-407a-9521-d312b984e57a",
+                    "8d5cf3a0-e605-4e18-ae32-e701c2047bd6",
+                    "c376ee0a-253b-4b88-8b46-f3a4ae65e369",
+                    "4529901f-5355-49db-82bf-b0129ab97916",
+                    "626859d4-a373-4543-9154-e8ec8d10da60",
+                    "1d3c6b02-5489-4b5b-9ba2-d840ef8a65c1",
+                    "609a7cc1-2f67-4756-a789-83c6241e2225",
+                    "bdac4375-f2c4-4409-bd89-4084a9021d75",
+                    "4d27a655-5d19-45a6-bd4d-3dff995b18ba",
+                    "289d1317-0db2-4124-ad6e-206dde7c56a2",
+                    "f238db9f-eeb7-447c-a4f7-0b9ff16aba8e",
+                    "81d7f1a1-cdf6-45e5-9ed0-92525d98f696",
+                    "9f0a7007-b748-44b3-865a-2fd946c2f476",
+                    "7c8ee65f-a6a6-4510-b9bd-70c8b4d7094f",
+                    "bd4f8a91-0ece-43f1-94d0-a4b74bc0a9df",
+                    "f14c3b59-e9be-4df5-a053-9b182e03ab9c",
+                    "0a3e94a8-36b6-458a-83f9-153b06c072d8",
+                    "0cd96c3c-f182-45df-a4d8-042ca0e4a133",
+                    "aadb399b-cc63-4f7c-b295-d26dca621122",
+                    "fc772573-0229-4b30-ad4e-efaa65c5346c",
+                    "567b6e23-5f8c-4f8c-acb6-cc096f479956",
+                    "c041bbbe-465a-49e5-bd1b-1e6bae3d8888",
+                    "4a5cf4a8-569d-45da-b213-f263ecf77840",
+                    "c391c712-246e-4159-8be6-75d6bdd2a205",
+                    "d01f4e64-b3d2-4ecd-9952-1762ee3943ae",
+                    "8e107088-d2c2-4124-8ede-6297900e82d6",
+                    "0d5cfba4-5807-4eea-be7b-4a4f303fd69f",
+                    "1ed921be-492f-4ca7-a59d-27b03d5c4806",
+                    "adfcb448-cd5c-456f-8481-90310f5cb2f4",
+                    "41f8efae-5af6-40ae-868f-e92c92600339",
+                    "dd895416-04d5-42e9-b0f9-a613d1206888",
+                    "4150aa0a-88e3-40c7-8346-2212fb025ab7",
+                    "15223f1f-2ebe-4e6e-8bbf-457fc405b858",
+                    "44466119-4790-4550-b52b-b58cff55bf3d",
+                    "b4a0bd6b-7597-47de-b0e0-1d3ffbf0c173",
+                    "3f59f66b-ffa7-47f8-a9ca-3a32b730c11c",
+                    "ed7570d9-dec0-435b-b2e6-0efcf7a53f95",
+                    "139de500-c84f-48ed-b260-af9ff85fc654",
+                    "c55d0301-5218-4c47-823a-e7e1a5541e58",
+                    "13dc306c-d4a4-43c6-84c7-618732249296",
+                    "da51ad93-198c-4d6a-9ce0-2f287ad9475f",
+                    "e9a7c4a2-54f9-4cc2-8bb6-4fc770bf5d24",
+                    "5dc72bd0-1e47-40b6-8be0-0efb44d5a1cc",
+                    "e934e8f6-99a3-4bbb-9179-2b18cdf21332",
+                    "57b57f64-6baa-4d9f-a3be-f088657eb919",
+                    "5361e035-039c-4429-b69f-a65be522de71",
+                    "20d3288d-13bf-42d4-b1ad-56f22ede3a98",
+                    "44a38580-d1b6-4612-ba9b-18564a095ff9",
+                    "36351b5a-48db-4546-a0cf-30ab3a85d6a2",
+                    "c7665cf6-477f-4f53-987a-8907e1a42dd3",
+                    "8ddb481e-bfe9-4c98-b904-5bedacbd5a40",
+                    "b58096fe-69f4-4b42-9ced-18c165f81819",
+                    "e7963a9f-384a-4ac2-940b-84550f1ad438",
+                    "1aafc5f1-33a2-4e36-a5e6-f5cfde5eec35",
+                    "a1c84598-c870-43e9-9c43-a1a8e2db2b51",
+                    "606826c1-e2b8-4bfb-81aa-caa0ebb4dc08",
+                    "72741006-fd87-40e2-bb9e-b7a34e08dec8",
+                    "b1a18b2e-fe7a-4923-8c23-8f0cc4529625",
+                    "4f6dd053-783e-481e-b64b-966ba61ac28f",
+                    "86b720ca-7170-475f-85e5-7494ab24de71",
+                    "ae40551f-4b96-4348-b64e-bca124c2d2ce",
+                    "08e409fd-ee82-41f1-8089-56e17d728d29",
+                    "4fd85ae3-ac34-469e-9537-81819d95ec16",
+                    "b8161c66-15bb-4946-b178-04c9e125a7df",
+                    "f3e60768-44e1-453f-8ef9-519fd120b316",
+                    "c6abb6e2-0324-4898-8372-07bb0e2a8743",
+                    "f60bc0e8-7102-4b5f-b30a-5ad78b013d8d",
+                    "7ad7c7bd-7b23-4bed-a8ca-ef736be7541e",
+                    "5861abc8-71ba-4dc4-b1c8-208dfbb426a7",
+                    "81431653-ab39-4f82-ab11-0f1895be013e",
+                    "1e9ee92e-6b02-4e74-b684-7f48b5d41e95",
+                    "41db1ad6-20d7-43ee-a15b-77831a4e2fbc",
+                    "e0be3530-af41-46c4-b23e-78165993aa81",
+                    "91a40bd8-69fd-40ce-b04a-e92835eddcb3",
+                    "cd0dc81f-f80e-4e97-9c4e-f5d5dbb69ca3",
+                    "4086bd9a-8c88-4c2d-9a4a-d3b01a4104a1",
+                    "b2e505ef-702c-4408-955f-fe253d7e41d4",
+                    "00817dfd-3843-4202-9238-ccf4d3949a1a",
+                    "47f0a393-7f8b-41b0-94a5-dc097714f35d",
+                    "e9380edd-efbb-4a35-9d6c-f5620b9fb037",
+                    "4fbcbcc0-e68b-4cc3-9dcb-0941758afb24",
+                    "dfe9b387-b1b9-4741-a261-7b1717268eb9",
+                    "9b243237-a2e8-4d1c-92d1-7b0a400101c7",
+                    "a139c552-6cc8-437b-b8b0-da3258a6d131",
+                    "6c63f3ae-e992-4246-b1cc-3a63e34b73a3",
+                    "2d829629-4402-43c4-a2b9-219bffbdaff5",
+                    "43e834a4-6917-4e2d-8326-6f68579bdb1c",
+                    "82a57ac2-9ac8-4360-b0a9-14ee76afab98",
+                    "64675384-b963-4785-926d-2c8c7841d091",
+                    "c0bede4c-e474-470a-b5f3-09fdea42bfae",
+                    "73b894bd-6398-4ac8-a9b4-aa6dad923ceb",
+                    "bdcaf63e-240b-4926-b519-22cff112cd4b",
+                    "dc4c52f0-9005-4d5a-b270-b21725d33d70",
+                    "3651b252-c6c9-40d0-88c2-6979008e0859",
+                    "60205b8d-bfba-411a-a182-37774d735e20",
+                    "07f5995a-3719-4383-96e2-a5b0a3b11b6a",
+                    "b61ac6f2-9b42-4486-9f80-8c639a2b983f",
+                    "9d421744-fdab-43b2-a75f-c59ab279dde8",
+                    "e93ecc13-6a39-4f70-9204-1c809a05b611",
+                    "502374a4-17fd-42fb-aa2b-57c58833803d",
+                    "c4325a93-2a96-4a16-8700-7a1df0584c92",
+                    "9297d16c-cad4-4216-b71d-5e13a270fc4c",
+                    "2cadf9bc-9342-4972-aa87-720e3bdc8faa",
+                    "332b8d8e-2eba-46ad-a4f9-4dd303b6fe18",
+                    "911290f0-0ba8-4522-8cf9-ce54ac028034",
+                    "ed884aa5-f3ea-46dd-95d0-43812571578c",
+                    "569087b7-b486-4cb2-a23d-a7378f5cf76d",
+                    "93f08fec-c1b9-41f4-9af0-c29fda087092",
+                    "893b42a3-9538-4c84-a8dc-e6b4a1bb48c5",
+                    "56027dce-aa38-4e71-9218-be40b26510a9",
+                    "2e87884e-dc32-4211-bdcb-69be0879354c",
+                    "de41599c-8fb8-473f-a473-c0ada4ba1abc",
+                    "e64a1119-06da-4c50-bcad-85f2ff3d927e",
+                    "e5264bea-92f8-4104-8aab-9d7435436d7c",
+                    "d9752266-8ee6-485a-9df3-dedcb841c37e",
+                    "189b9b1e-61be-429c-8b4b-8f1a57d71da0",
+                    "35c88506-4c7f-4dd7-b48f-83056f735889",
+                    "b94313e3-2d61-480f-b9c4-ae392c60d225",
+                    "0b622406-56ee-45b4-acb5-2cc08a25c327",
+                    "f6e3064c-cf6c-485a-8cf8-d57c9502ebe5",
+                    "f376c7b2-3059-430b-8c2c-b7bd0d0f8341",
+                    "0a28e3bf-2186-4138-b36d-81cdce33546a",
+                    "df311771-4547-4012-bbb0-4585deee114c",
+                    "6b7b0cff-7771-4529-ad2a-da5254545ff2",
+                    "a429d11d-26e0-430c-a65d-54446906589f",
+                    "b160a42b-3a99-468a-9503-c00e0c3bb473",
+                    "07fff9fa-47d3-478a-88bd-eed21b777ce4",
+                    "767eb9fb-b448-4157-b079-e21857f464f6",
+                    "1fcd59dc-55f5-4e90-907a-7cfbd594fce6",
+                    "1e6bbbd2-1f90-48f2-9581-105a25a33405",
+                    "70a4d57d-abd5-48a3-9798-8fef1e2bd7fb",
+                    "c3ca4eca-ae9c-4ca0-8682-23167633f324",
+                    "b22a5813-46e1-42fa-853e-38f0095a24d5",
+                    "ae674a75-d65c-4392-ada5-f1cee815024e",
+                    "74b61263-e6f2-4af9-b6bc-8f8b4b133f4c",
+                    "fcdd1ed7-fba5-4557-a6df-db18bff838e9",
+                    "af2a48d5-d998-4a7c-a9af-82f7cf063b87",
+                    "1368aae9-ed04-461e-9d91-f696c4d1836c",
+                    "f7cd5533-ca1d-4b1c-8c49-d8049b27c5dd",
+                    "2ff90628-401b-4f59-a3b5-e1401f4d31eb",
+                    "627b1a86-9675-4516-901e-0ec37f9a9e7d",
+                    "1a657b18-1b6f-40cb-a19f-d83d87084e9d",
+                    "5133c7eb-f722-4ae2-b708-f911aa063ac0",
+                    "ed46154f-2172-4225-bbbe-49c28afa0611",
+                    "0fceb3f2-e53f-45cb-9d01-d7dce925ac41",
+                    "096d0619-303e-4b1e-b264-e024bd26818b",
+                    "c84de686-2f9d-4439-a042-07f53116f88d",
+                    "47c0cd6e-6a3f-4708-8ab0-3d0ee6731ca5",
+                    "a246b1d8-89a7-491d-ab3e-63f40594b677",
+                    "79861509-5736-4621-abb2-9d1292c9351c",
+                    "8e01fa79-cd8e-4263-bd0f-cbb6b75449d0",
+                    "506aa930-322f-40e0-83c6-9532476dbf7a",
+                    "e7153707-a3bc-420f-a14e-ad574991cb97",
+                    "1f6995a0-260a-4607-9390-2d0f5890d6cb",
+                    "6510ea98-a36e-4a89-8979-d09bf1a99802",
+                    "cf4d7b9a-1a88-4843-a693-c9fa69628e0a",
+                    "1c88a9cc-16b1-4c70-9137-c21036cc4d10",
+                    "20976529-be6c-448d-be90-f8cc0d7d198d",
+                    "32112e49-88ac-4980-bd5f-233a1589d186",
+                    "4c557a0b-8ce7-4f7c-84b5-e38f3d5bfc9e",
+                    "b19b5689-3676-4a70-b782-bae45b17066f",
+                    "69fc2d61-7f4e-4e89-ad0b-0eb223f374a2",
+                    "33a3cc09-a976-4a60-86d7-fd45e9fda543",
+                    "d911ee61-f0d9-429a-bbf4-b1d320b17ace",
+                    "85c09eec-5b32-4eb5-82af-761244435bb9",
+                    "5ce6fe69-d949-4db3-82b4-c29256a0ecad",
+                    "0e70604b-93c8-4a1f-aeeb-1d49de51abcd",
+                    "53094575-4b93-4c72-853b-5ffdd7de0fe4",
+                    "76b620c3-7d88-493f-8c1c-53b73bf2f802",
+                    "57278e70-a7a6-46f7-a725-752a5394486c",
+                    "1107d535-06d0-471b-ba64-25418325f103",
+                    "0d52667d-9e4e-4d30-8b22-12ee3663e261",
+                    "d86cdb06-5f78-47f5-88d4-5837d4eaa756",
+                    "83b1a87e-98a7-4bb3-a73f-d844757e00b6",
+                    "b8ecfa8e-28f7-46ae-afbb-915e5dc3045f",
+                    "448d337a-18d7-4dc8-b3a7-94f7cf0ed8a4",
+                    "6131066b-c3cd-460a-a7d5-5a582b3b6d56",
+                    "8347f0c2-de48-4467-a004-c890c4143236",
+                    "e99d4a3f-c3ac-4bda-8f91-3fefa60916ea",
+                    "f60d277d-f1e1-40a8-83f6-7dc57a02b8a5",
+                    "eb90b1fd-f694-4dd4-9c3d-e3601c72e255",
+                    "e7e76bf6-0aa4-457f-bf62-1e165cd75f24",
+                    "8c2cf535-5af2-4055-b67b-7002f0478676",
+                    "53da4334-dca5-4fa1-8c3b-eaff6057f763",
+                    "7416fde9-2732-4f37-a144-85f48c0aa8cd",
+                    "0a5b9770-897e-49ce-8bcc-060aa1faae7c",
+                    "8ae88c41-6a76-4092-944b-dac787e54f51",
+                    "046502f5-1a21-4ba0-b489-82c504e59f45",
+                    "4a905a4e-bafc-48c6-8e76-8048c5b29510",
+                    "f16c39dd-dd7a-4a25-be38-b8e3d5d57649",
+                    "d72cd3f9-a5d8-45ca-85c6-f835373364df",
+                    "4e67051f-7e19-4766-8ef4-c1f41508e152",
+                    "d5437120-3748-4006-8be0-94e39cc5e208",
+                    "0d0f3d84-82fa-467b-87b9-535036e6f4e8",
+                    "4e6d1ac7-067a-4123-87ee-a11b48986672",
+                    "3cfb06af-682f-48fc-ac03-f2cd934496d4",
+                    "620710b2-f206-4a6c-9c25-a3806aed5c39",
+                    "2ff04c73-52aa-47c6-aeff-4d7584dfa606",
+                    "e3dd6a3f-9628-4c0a-9065-89a5040b8f50"
+                ],
+                "name": "fop.headertitle.other",
+                "clusterCategories": [],
+                "clusterBreadcrumbs": [],
+                "additionalProductAttributes": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                ]
+            }
+        ],
+        "banners": [
+            {
+                "id": "838",
+                "name": "L1 Category Banner Pets",
+                "altText": "Shop pet products",
+                "url": "https://voila.ca/assets/content/creatives/16d7f19c-d96c-472c-a398-a09308154931/34a0930f0c.png",
+                "contentType": "image/png",
+                "width": "1064",
+                "height": "922",
+                "target": {
+                    "linkType": "CATEGORY",
+                    "ids": [],
+                    "values": [
+                        "2166b706-8066-402f-b9c0-c198c279fcac"
+                    ]
+                },
+                "tags": []
+            }
+        ],
+        "advertisingBanners": [
+            {
+                "id": "838",
+                "name": "L1 Category Banner Pets",
+                "altText": "Shop pet products",
+                "url": "https://voila.ca/assets/content/creatives/16d7f19c-d96c-472c-a398-a09308154931/34a0930f0c.png",
+                "contentType": "image/png",
+                "width": "1064",
+                "height": "922",
+                "target": {
+                    "linkType": "CATEGORY",
+                    "ids": [],
+                    "values": [
+                        "2166b706-8066-402f-b9c0-c198c279fcac"
+                    ]
+                },
+                "tags": []
+            }
+        ],
+        "breadcrumbs": [
+            {
+                "name": "Pets",
+                "id": "2166b706-8066-402f-b9c0-c198c279fcac"
+            }
+        ],
+        "sortOptions": [
+            {
+                "id": "favorite",
+                "messageKey": "sorting.option.favorite",
+                "selected": true
+            },
+            {
+                "id": "pricePerAscending",
+                "messageKey": "sorting.option.price.per.ascending",
+                "selected": false
+            },
+            {
+                "id": "pricePerDescending",
+                "messageKey": "sorting.option.price.per.descending",
+                "selected": false
+            },
+            {
+                "id": "nameAscending",
+                "messageKey": "sorting.option.name.ascending",
+                "selected": false
+            },
+            {
+                "id": "nameDescending",
+                "messageKey": "sorting.option.name.descending",
+                "selected": false
+            },
+            {
+                "id": "priceAscending",
+                "messageKey": "sorting.option.price.ascending",
+                "selected": false
+            },
+            {
+                "id": "priceDescending",
+                "messageKey": "sorting.option.price.descending",
+                "selected": false
+            }
+        ],
+        "categories": [
+            {
+                "id": "b3b51edd-6b5b-449b-987b-a2c9eeb56aa9",
+                "name": "Cat Accessories",
+                "productCount": 8,
+                "children": []
+            },
+            {
+                "id": "8ea31410-cf88-4653-a0fe-f6afd242e32c",
+                "name": "Cat Food",
+                "productCount": 243,
+                "children": []
+            },
+            {
+                "id": "58817a2b-e63c-42f9-a55c-6ed29dae2fe0",
+                "name": "Cat Treats",
+                "productCount": 32,
+                "children": []
+            },
+            {
+                "id": "650aca11-f651-4c1f-b819-3cf6b3331a1a",
+                "name": "Cat Litter",
+                "productCount": 25,
+                "children": []
+            },
+            {
+                "id": "e869de3c-a4ac-444c-a5ff-4ec9e9289e22",
+                "name": "Dog Food",
+                "productCount": 192,
+                "children": []
+            },
+            {
+                "id": "dd23f405-3e40-49ee-a948-c1b7ab4ff1be",
+                "name": "Dog Treats",
+                "productCount": 115,
+                "children": []
+            },
+            {
+                "id": "56f5bebd-f519-4a1e-89fd-1715ac4472e9",
+                "name": "Dog Accessories",
+                "productCount": 15,
+                "children": []
+            },
+            {
+                "id": "da5744ab-bf84-41bc-be48-6fa6f9eec944",
+                "name": "Bird & Small Animal Food",
+                "productCount": 7,
+                "children": []
+            },
+            {
+                "id": "639e5640-c3c9-4545-86ec-ef633a978b75",
+                "name": "Pet Health Care & Supplements",
+                "productCount": 5,
+                "children": []
+            }
+        ],
+        "filters": [
+            {
+                "id": "filterGroup1",
+                "label": "Food content",
+                "attributes": [
+                    {
+                        "id": "lactoseFree",
+                        "label": "Lactose Free",
+                        "selected": false
+                    },
+                    {
+                        "id": "nutFree",
+                        "label": "Nut Free",
+                        "selected": false
+                    },
+                    {
+                        "id": "peanutFree",
+                        "label": "Peanut Free",
+                        "selected": false
+                    },
+                    {
+                        "id": "glutenFree",
+                        "label": "Gluten Free",
+                        "selected": false
+                    }
+                ]
+            },
+            {
+                "id": "filterGroup2",
+                "label": "Food Preference",
+                "attributes": [
+                    {
+                        "id": "organic",
+                        "label": "Organic",
+                        "selected": false
+                    },
+                    {
+                        "id": "vegan",
+                        "label": "Vegan",
+                        "selected": false
+                    },
+                    {
+                        "id": "vegetarian",
+                        "label": "Vegetarian",
+                        "selected": false
+                    },
+                    {
+                        "id": "halal",
+                        "label": "Halal",
+                        "selected": false
+                    },
+                    {
+                        "id": "kosher",
+                        "label": "Kosher",
+                        "selected": false
+                    }
+                ]
+            }
+        ],
+        "totalProducts": 300
+    }
+}

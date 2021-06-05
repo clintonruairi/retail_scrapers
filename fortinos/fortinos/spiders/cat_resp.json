@@ -1,0 +1,3892 @@
+{
+    "query": null,
+    "requestId": "376eaead-60ac-4886-8077-e7f26f9ce79b",
+    "correctedQuery": null,
+    "results": [
+        {
+            "code": "21342706_EA",
+            "name": "Chicken Thighs Frozen",
+            "description": null,
+            "brand": null,
+            "link": "/chicken-thighs-frozen/p/21342706_EA",
+            "imageAssets": null,
+            "packageSize": "1 ea",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 9.94,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 2,
+                    "type": "SPECIAL"
+                },
+                "wasPrice": {
+                    "value": 11.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": null,
+                    "type": null
+                },
+                "comparisonPrices": [
+                    {
+                        "value": 9.94,
+                        "unit": "ea",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": {
+                    "type": "SALE",
+                    "text": "SAVE $2.05",
+                    "expiryDate": "2021-07-14T00:00:00Z",
+                    "promoType": null
+                },
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "2.0",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "21342706",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21342868_EA",
+            "name": "Boneless Skinless Chicken Breast",
+            "description": null,
+            "brand": null,
+            "link": "/boneless-skinless-chicken-breast/p/21342868_EA",
+            "imageAssets": null,
+            "packageSize": "1 ea",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 24.94,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 2,
+                    "type": "SPECIAL"
+                },
+                "wasPrice": {
+                    "value": 27.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": null,
+                    "type": null
+                },
+                "comparisonPrices": [
+                    {
+                        "value": 24.94,
+                        "unit": "ea",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": {
+                    "type": "SALE",
+                    "text": "SAVE $3.05",
+                    "expiryDate": "2021-07-14T00:00:00Z",
+                    "promoType": null
+                },
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "2.0",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "21342868",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20999704_KG",
+            "name": "Halal Chicken Thighs",
+            "description": null,
+            "brand": "SUFRA",
+            "link": "/halal-chicken-thighs/p/20999704_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20999704/b1/en/front/20999704_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20999704/b1/en/front/20999704_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20999704/b1/en/front/20999704_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20999704/b1/en/front/20999704_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20999704/b1/en/front/20999704_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20999704/b1/en/front/20999704_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 7.88,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 7.69,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 3.49,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "1.02509",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20999704",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21025079_KG",
+            "name": "A & H Free Sausages Tray Pack",
+            "description": null,
+            "brand": "Fortinos",
+            "link": "/a-h-free-sausages-tray-pack/p/21025079_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21025079/b1/en/front/21025079_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21025079/b1/en/front/21025079_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21025079/b1/en/front/21025079_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21025079/b1/en/front/21025079_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21025079/b1/en/front/21025079_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21025079/b1/en/front/21025079_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 8.94,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 15.41,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 6.99,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.58",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "21025079",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21385294_KG",
+            "name": "BBQ Flattened Chicken",
+            "description": null,
+            "brand": null,
+            "link": "/bbq-flattened-chicken/p/21385294_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21385294/b1/en/front/21385294_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21385294/b1/en/front/21385294_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21385294/b1/en/front/21385294_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21385294/b1/en/front/21385294_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21385294/b1/en/front/21385294_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21385294/b1/en/front/21385294_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 13.21,
+                    "unit": "kg",
+                    "quantity": 1,
+                    "reasonCode": 1,
+                    "type": "SPECIAL"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 13.21,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_WEIGHT",
+                "unit": "kg",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 999,
+                "weighted": true
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "21385294",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20742312_KG",
+            "name": "Beef Braising Ribs",
+            "description": "Cut from Canada AA or higher. <br><br>Beef short ribs (or back ribs) are rectangles of beef containing layers of fat, meat, and rib bone. They are usually taken from the chuck and short plate cuts of the cow. Short ribs are best enjoyed braised and slow cooked with liquid to produce tender meat and flavourful au jus.",
+            "brand": null,
+            "link": "/beef-braising-ribs/p/20742312_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20742312/b1/en/front/20742312_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20742312/b1/en/front/20742312_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20742312/b1/en/front/20742312_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20742312/b1/en/front/20742312_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20742312/b1/en/front/20742312_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20742312/b1/en/front/20742312_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 12.42,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 17.61,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 7.99,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.705049728",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20742312",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20749303_KG",
+            "name": "Flank Steak, London Broil",
+            "description": "Cut from Canada AA or higher. <br><br>Flank steak is a thin, boneless cut of beef that is typically marinated, cooked whole, and sliced. Add flank steak to your stir-fry or fajitas, or grill and serve with a side of sautéed mushrooms.",
+            "brand": null,
+            "link": "/flank-steak-london-broil/p/20749303_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20749303/b1/en/front/20749303_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20749303/b1/en/front/20749303_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20749303/b1/en/front/20749303_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20749303/b1/en/front/20749303_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20749303/b1/en/front/20749303_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20749303/b1/en/front/20749303_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 9.2,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 26.43,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 11.99,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.348",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20749303",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20749326_KG",
+            "name": "Pork Leg Schnitzel",
+            "description": null,
+            "brand": null,
+            "link": "/pork-leg-schnitzel/p/20749326_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20749326/b1/en/front/20749326_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20749326/b1/en/front/20749326_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20749326/b1/en/front/20749326_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20749326/b1/en/front/20749326_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20749326/b1/en/front/20749326_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20749326/b1/en/front/20749326_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 3.96,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 15.41,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 6.99,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.256955595",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20749326",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20172566_KG",
+            "name": "Kosher Chicken Legs",
+            "description": "Chicken is a flavourful and versatile white meat available both whole and as parts. Use breast, leg, and thigh meat in your favourite chicken recipes for salads, pastas, and soups.",
+            "brand": "Marvid Poultry",
+            "link": "/kosher-chicken-legs/p/20172566_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20172566/b1/en/front/20172566_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20172566/b1/en/front/20172566_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20172566/b1/en/front/20172566_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20172566/b1/en/front/20172566_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20172566/b1/en/front/20172566_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20172566/b1/en/front/20172566_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 6.39,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 9.19,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 4.17,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.69496",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20172566",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20985041_KG",
+            "name": "White Veal Outside Round Cutlet",
+            "description": null,
+            "brand": null,
+            "link": "/white-veal-outside-round-cutlet/p/20985041_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20985041/b1/en/front/20985041_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20985041/b1/en/front/20985041_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20985041/b1/en/front/20985041_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20985041/b1/en/front/20985041_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20985041/b1/en/front/20985041_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20985041/b1/en/front/20985041_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 21.82,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 48.48,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 22,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.45",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20985041",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20187266_KG",
+            "name": "Air Chilled Chicken Breast, Bone-In Club Pack",
+            "description": null,
+            "brand": "President's Choice",
+            "link": "/air-chilled-chicken-breast-bone-in-club-pack/p/20187266_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20187266/b1/en/front/20187266_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20187266/b1/en/front/20187266_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20187266/b1/en/front/20187266_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20187266/b1/en/front/20187266_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20187266/b1/en/front/20187266_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20187266/b1/en/front/20187266_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 13.55,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 11,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 4.99,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "1.232248198",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20187266",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20999709_KG",
+            "name": "Halal Chicken Breast",
+            "description": null,
+            "brand": "SUFRA",
+            "link": "/halal-chicken-breast/p/20999709_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20999709/b1/en/front/20999709_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20999709/b1/en/front/20999709_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20999709/b1/en/front/20999709_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20999709/b1/en/front/20999709_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20999709/b1/en/front/20999709_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20999709/b1/en/front/20999709_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 15.59,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 15.41,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 6.99,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "1.012",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20999709",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21105394_KG",
+            "name": "Pork Back Ribs Frozen",
+            "description": null,
+            "brand": null,
+            "link": "/pork-back-ribs-frozen/p/21105394_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21105394/b1/en/front/21105394_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21105394/b1/en/front/21105394_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21105394/b1/en/front/21105394_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21105394/b1/en/front/21105394_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21105394/b1/en/front/21105394_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21105394/b1/en/front/21105394_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 26.95,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 13.21,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "2.04",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "21105394",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20814933_KG",
+            "name": "Marinating Sirloin Tip Steak",
+            "description": "Cut from Canada AA or higher. <br><br>Sirloin tip is a flavourful cut of beef from the round section of the cow. Try using sirloin tip steak for kabobs or fajitas.",
+            "brand": null,
+            "link": "/marinating-sirloin-tip-steak/p/20814933_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20814933/b1/en/front/20814933_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20814933/b1/en/front/20814933_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20814933/b1/en/front/20814933_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20814933/b1/en/front/20814933_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20814933/b1/en/front/20814933_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20814933/b1/en/front/20814933_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 11.01,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 22.02,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 9.99,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.5",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20814933",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20959314_EA",
+            "name": "Free From Peameal-Style Sliced Cured Pork Loin",
+            "description": "For Canadians who love the flavour of peameal bacon, this option is made from vegetable grain-fed pork raised without antibiotics or hormones.* Trimmed, wet cured and rolled in cornmeal, it contains pork and natural ingredients – and no preservatives.† Adds savoury flavour to eggs Benedict, omelettes, hash browns and sandwiches. Or grill with mustard and maple for a smoky-sweet Canadian-inspired experience.",
+            "brand": "President's Choice",
+            "link": "/free-from-peameal-style-sliced-cured-pork-loin/p/20959314_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20959314/b1/en/front/20959314_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20959314/b1/en/front/20959314_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20959314/b1/en/front/20959314_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20959314/b1/en/front/20959314_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20959314/b1/en/front/20959314_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20959314/b1/en/front/20959314_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "375 g",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 7.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 2.13,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": "OK",
+            "upcs": null,
+            "articleNumber": "20959314",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21036398_KG",
+            "name": "St Louis Side Ribs",
+            "description": null,
+            "brand": null,
+            "link": "/st-louis-side-ribs/p/21036398_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21036398/b1/en/front/21036398_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21036398/b1/en/front/21036398_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21036398/b1/en/front/21036398_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21036398/b1/en/front/21036398_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21036398/b1/en/front/21036398_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21036398/b1/en/front/21036398_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 14.45,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 14.31,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 6.49,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "1.01",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "21036398",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20963788_KG",
+            "name": "A & H Free Sausages, Hot Tray Pack",
+            "description": null,
+            "brand": "Fortinos",
+            "link": "/a-h-free-sausages-hot-tray-pack/p/20963788_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20963788/b1/en/front/20963788_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20963788/b1/en/front/20963788_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20963788/b1/en/front/20963788_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20963788/b1/en/front/20963788_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20963788/b1/en/front/20963788_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20963788/b1/en/front/20963788_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 8.78,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 15.41,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 6.99,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 500,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.57",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20963788",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20811353_KG",
+            "name": "Mehadrin Minced Beef, Regular",
+            "description": null,
+            "brand": null,
+            "link": "/mehadrin-minced-beef-regular/p/20811353_KG",
+            "imageAssets": null,
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 10.08,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 18.66,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 8.47,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.54",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20811353",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20940326_EA",
+            "name": "Organic Chicken Breast Bonelesss Skinless",
+            "description": "Chicken is a flavourful and versatile white meat available both whole and as parts. Use breast, leg, and thigh meat in your favourite chicken recipes for salads, pastas, and soups.",
+            "brand": null,
+            "link": "/organic-chicken-breast-bonelesss-skinless/p/20940326_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20940326/b1/en/front/20940326_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20940326/b1/en/front/20940326_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20940326/b1/en/front/20940326_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20940326/b1/en/front/20940326_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20940326/b1/en/front/20940326_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20940326/b1/en/front/20940326_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "1 kg",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 24.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 2.5,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20940326",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20999707_KG",
+            "name": "Halal Chicken Drumsticks",
+            "description": null,
+            "brand": "SUFRA",
+            "link": "/halal-chicken-drumsticks/p/20999707_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20999707/b1/en/front/20999707_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20999707/b1/en/front/20999707_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20999707/b1/en/front/20999707_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20999707/b1/en/front/20999707_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20999707/b1/en/front/20999707_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20999707/b1/en/front/20999707_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 7.73,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 7.69,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 3.49,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "1.005",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20999707",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21028637_KG",
+            "name": "Hayter's Turkey Breast Scaloppini",
+            "description": null,
+            "brand": null,
+            "link": "/hayter-s-turkey-breast-scaloppini/p/21028637_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21028637/b1/en/front/21028637_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21028637/b1/en/front/21028637_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21028637/b1/en/front/21028637_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21028637/b1/en/front/21028637_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21028637/b1/en/front/21028637_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21028637/b1/en/front/21028637_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 11.5,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 26.43,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.435024964",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "21028637",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21028629_KG",
+            "name": "Turkey Thigh",
+            "description": null,
+            "brand": null,
+            "link": "/turkey-thigh/p/21028629_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21028629/b1/en/front/21028629_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21028629/b1/en/front/21028629_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21028629/b1/en/front/21028629_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21028629/b1/en/front/21028629_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21028629/b1/en/front/21028629_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21028629/b1/en/front/21028629_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 7.64,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 9.9,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.772004879",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "21028629",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21290154_EA",
+            "name": "Fully Cooked Maple Breakfast Sausages",
+            "description": "This easy-to-prepare sausage carries a Maple Flavour that no one can deny at the start of the day.;\n;;\n;<li>Made with only premium cuts of pork</li>;\n;<li>Gluten free</li>;\n;<li>No artificial colours, flavours, MSG, or corn syrup</li>",
+            "brand": "Johnsonville",
+            "link": "/fully-cooked-maple-breakfast-sausages/p/21290154_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21290154/b1/en/front/21290154_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21290154/b1/en/front/21290154_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21290154/b1/en/front/21290154_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21290154/b1/en/front/21290154_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21290154/b1/en/front/21290154_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21290154/b1/en/front/21290154_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "250 g",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 5.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 1,
+                    "type": "SPECIAL"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 2.4,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": "OK",
+            "upcs": null,
+            "articleNumber": "21290154",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21027900_EA",
+            "name": "Turkey Burger",
+            "description": null,
+            "brand": null,
+            "link": "/turkey-burger/p/21027900_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21027900/b1/en/front/21027900_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21027900/b1/en/front/21027900_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21027900/b1/en/front/21027900_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21027900/b1/en/front/21027900_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21027900/b1/en/front/21027900_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21027900/b1/en/front/21027900_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "450 g",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 6.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 1.55,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "21027900",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20176742_KG",
+            "name": "Chicken Breast Cutlet",
+            "description": "Chicken is a flavourful and versatile white meat available both whole and as parts. Use breast, leg, and thigh meat in your favourite chicken recipes for salads, pastas, and soups.<br><br><div style=\"background: #000; position: relative; padding-top: 0; height: 0; overflow: hidden; padding-bottom: 40%\">  <iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" width=\"1280px\" height=\"500px\" frameborder=\"0\" allowfullscreen=\"\" mozallowfullscreen=\"\" webkitallowfullscreen=\"\" src=\"https://www.youtube.com/embed/eSPR_VhSWU0?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff\">  </iframe></div>",
+            "brand": "PC Blue Menu",
+            "link": "/chicken-breast-cutlet/p/20176742_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20176742/b1/en/front/20176742_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20176742/b1/en/front/20176742_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20176742/b1/en/front/20176742_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20176742/b1/en/front/20176742_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20176742/b1/en/front/20176742_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20176742/b1/en/front/20176742_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 10.56,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 26.43,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 11.99,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.399464732",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20176742",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20999703_KG",
+            "name": "Halal Whole Chicken",
+            "description": null,
+            "brand": "SUFRA",
+            "link": "/halal-whole-chicken/p/20999703_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20999703/b1/en/front/20999703_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20999703/b1/en/front/20999703_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20999703/b1/en/front/20999703_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20999703/b1/en/front/20999703_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20999703/b1/en/front/20999703_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20999703/b1/en/front/20999703_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 11.35,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 7.69,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 3.49,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "1.475525919",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20999703",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20822343_KG",
+            "name": "Pork Rib Loin & Sirloin Chop",
+            "description": null,
+            "brand": null,
+            "link": "/pork-rib-loin-sirloin-chop/p/20822343_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20822343/b1/en/front/20822343_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20822343/b1/en/front/20822343_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20822343/b1/en/front/20822343_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20822343/b1/en/front/20822343_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20822343/b1/en/front/20822343_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20822343/b1/en/front/20822343_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 13.35,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 8.8,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 3.99,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "1.517",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20822343",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20826455_KG",
+            "name": "Pork Loin Center Cut, Boneless, Fast Fry, Club Pack",
+            "description": "Pork loin is the tender, lean meat from the back of the pig. Tenderloin is lean and quick cooking, making it a great choice for kebabs and stir-fries, while loin is typically tied and roasted with herbs and vegetables.  Try pork chops fried with sautéed apples on the side, and serve grilled back ribs with plenty of your favourite sauce.",
+            "brand": null,
+            "link": "/pork-loin-center-cut-boneless-fast-fry-club-pack/p/20826455_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20826455/b1/en/front/20826455_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20826455/b1/en/front/20826455_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20826455/b1/en/front/20826455_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20826455/b1/en/front/20826455_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20826455/b1/en/front/20826455_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20826455/b1/en/front/20826455_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 5.5,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 1.54,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 15.41,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.356706502",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20826455",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20829888_KG",
+            "name": "Kosher Chicken Thighs",
+            "description": "Chicken is a flavourful and versatile white meat available both whole and as parts. Use breast, leg, and thigh meat in your favourite chicken recipes for salads, pastas, and soups.",
+            "brand": "Marvid Poultry",
+            "link": "/kosher-chicken-thighs/p/20829888_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20829888/b1/en/front/20829888_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20829888/b1/en/front/20829888_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20829888/b1/en/front/20829888_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20829888/b1/en/front/20829888_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20829888/b1/en/front/20829888_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20829888/b1/en/front/20829888_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 12.98,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 21.98,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 9.97,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.590343569",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20829888",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21025498_EA",
+            "name": "Bacon Wrapped Turkey",
+            "description": null,
+            "brand": "Marcangelo",
+            "link": "/bacon-wrapped-turkey/p/21025498_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21025498/b1/en/front/21025498_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21025498/b1/en/front/21025498_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21025498/b1/en/front/21025498_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21025498/b1/en/front/21025498_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21025498/b1/en/front/21025498_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21025498/b1/en/front/21025498_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "340 g",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 11.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 2,
+                    "type": "SPECIAL"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 3.53,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "21025498",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20086749_EA",
+            "name": "Kosher Beef Franks",
+            "description": null,
+            "brand": "Baldwin St.",
+            "link": "/kosher-beef-franks/p/20086749_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20086749/b1/en/front/20086749_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20086749/b1/en/front/20086749_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20086749/b1/en/front/20086749_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20086749/b1/en/front/20086749_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20086749/b1/en/front/20086749_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20086749/b1/en/front/20086749_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "8x375.0 g",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 9.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 0.33,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": "OK",
+            "upcs": null,
+            "articleNumber": "20086749",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20062762_EA",
+            "name": "All Beef Cocktail Sausage",
+            "description": null,
+            "brand": "Baldwin St.",
+            "link": "/all-beef-cocktail-sausage/p/20062762_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20062762/b1/en/front/20062762_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20062762/b1/en/front/20062762_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20062762/b1/en/front/20062762_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20062762/b1/en/front/20062762_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20062762/b1/en/front/20062762_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20062762/b1/en/front/20062762_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "375 g",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 7.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 2.13,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": "OK",
+            "upcs": null,
+            "articleNumber": "20062762",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20062868_KG",
+            "name": "Air Chilled Chicken Drum Sticks, Club Pack",
+            "description": null,
+            "brand": "President's Choice",
+            "link": "/air-chilled-chicken-drum-sticks-club-pack/p/20062868_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20062868/b1/en/front/20062868_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20062868/b1/en/front/20062868_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20062868/b1/en/front/20062868_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20062868/b1/en/front/20062868_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20062868/b1/en/front/20062868_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20062868/b1/en/front/20062868_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 11.08,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 11.66,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 5.29,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.95",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20062868",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20114226_EA",
+            "name": "Ham Steak",
+            "description": "Naturally hardwood smoked",
+            "brand": "President's Choice",
+            "link": "/ham-steak/p/20114226_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20114226/b1/en/front/20114226_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20114226/b1/en/front/20114226_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20114226/b1/en/front/20114226_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20114226/b1/en/front/20114226_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20114226/b1/en/front/20114226_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20114226/b1/en/front/20114226_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "175 g",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 4.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 2.85,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": "OK",
+            "upcs": null,
+            "articleNumber": "20114226",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21374664_KG",
+            "name": "Organic Grade A Whole Chicken",
+            "description": null,
+            "brand": "Yorkshire Valley Farms",
+            "link": "/organic-grade-a-whole-chicken/p/21374664_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21374664/b1/en/front/21374664_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21374664/b1/en/front/21374664_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21374664/b1/en/front/21374664_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21374664/b1/en/front/21374664_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21374664/b1/en/front/21374664_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21374664/b1/en/front/21374664_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 20.57,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 13.21,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "1.557373195",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "21374664",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20088885_KG",
+            "name": "Frozen Grade A Geese",
+            "description": "Geese are large birds with rich, flavourful meat and fatty skin. A roast goose for dinner is a popular holiday tradition in Europe. Try roasting goose with pears or apples or cooking it wrapped in bacon.",
+            "brand": null,
+            "link": "/frozen-grade-a-geese/p/20088885_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20088885/b1/en/front/20088885_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20088885/b1/en/front/20088885_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20088885/b1/en/front/20088885_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20088885/b1/en/front/20088885_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20088885/b1/en/front/20088885_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20088885/b1/en/front/20088885_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 63.08,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 15.77,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 7.16,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "4.0",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20088885",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20089413_KG",
+            "name": "Air Chilled Chicken, Whole",
+            "description": "Chicken is a flavourful and versatile white meat available both whole and as parts. Use breast, leg, and thigh meat in your favourite chicken recipes for salads, pastas, and soups. Roast whole chicken with potatoes and vegetables for a comforting dinner, and bake chicken wings with your favourite marinade for an easy, crowd-pleasing meal.",
+            "brand": "President's Choice",
+            "link": "/air-chilled-chicken-whole/p/20089413_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20089413/b1/en/front/20089413_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20089413/b1/en/front/20089413_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20089413/b1/en/front/20089413_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20089413/b1/en/front/20089413_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20089413/b1/en/front/20089413_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20089413/b1/en/front/20089413_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 13.84,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 7.69,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 3.49,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "1.8",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20089413",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20818547_KG",
+            "name": "Bottom Blade Simmering Steak, Boneless",
+            "description": "Cut from Canada AA or higher. <br><br>Blade steaks and roasts are flavourful, fatty cuts of beef with a tough texture that becomes tender with slow cooking. Try braised blade steak along with your favourite vegetables and use blade roast to make a classic pot roast.",
+            "brand": null,
+            "link": "/bottom-blade-simmering-steak-boneless/p/20818547_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20818547/b1/en/front/20818547_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20818547/b1/en/front/20818547_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20818547/b1/en/front/20818547_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20818547/b1/en/front/20818547_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20818547/b1/en/front/20818547_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20818547/b1/en/front/20818547_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 8.85,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 20.92,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 9.49,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.423019109",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20818547",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21186128_EA",
+            "name": "Beef & Pork Chevapi",
+            "description": null,
+            "brand": "Fortinos",
+            "link": "/beef-pork-chevapi/p/21186128_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21186128/b1/en/front/21186128_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21186128/b1/en/front/21186128_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21186128/b1/en/front/21186128_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21186128/b1/en/front/21186128_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21186128/b1/en/front/21186128_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21186128/b1/en/front/21186128_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "360 g",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 4.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 1.39,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "21186128",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20822907_KG",
+            "name": "Pork Loin Chop, Bone In, Center Cut",
+            "description": "Pork loin is the tender, lean meat from the back of the pig. Tenderloin is lean and quick cooking, making it a great choice for kebabs and stir-fries, while loin is typically tied and roasted with herbs and vegetables. Try pork chops fried with sautéed apples on the side, and serve grilled back ribs with plenty of your favourite sauce.",
+            "brand": null,
+            "link": "/pork-loin-chop-bone-in-center-cut/p/20822907_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20822907/b1/en/front/20822907_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20822907/b1/en/front/20822907_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20822907/b1/en/front/20822907_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20822907/b1/en/front/20822907_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20822907/b1/en/front/20822907_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20822907/b1/en/front/20822907_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 7.13,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 13.21,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 5.99,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.54",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20822907",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "20798455_KG",
+            "name": "Striploin Steak Fast Fry Vm",
+            "description": null,
+            "brand": null,
+            "link": "/striploin-steak-fast-fry-vm/p/20798455_KG",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/20798455/b1/en/front/20798455_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/20798455/b1/en/front/20798455_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/20798455/b1/en/front/20798455_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20798455/b1/en/front/20798455_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20798455/b1/en/front/20798455_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20798455/b1/en/front/20798455_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 14.23,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 40.76,
+                        "unit": "kg",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    },
+                    {
+                        "value": 18.49,
+                        "unit": "lb",
+                        "quantity": 1,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": "0.349",
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "20798455",
+            "uom": "KG",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21094873_EA",
+            "name": "Natural Top Dogs Less Salt Hot Dogs",
+            "description": "Serve up a classic family favourite with Maple Leaf® Natural Top Dogs™ Less Salt Hot Dogs. Made with premium meat and natural ingredients with no fillers, these low-salt hot dogs offer delicious flavour that both kids and grown-ups will love. Containing 25 percent less salt than Maple Leaf® Natural Top Dogs™ Original Hot Dogs, these hot dogs are great as ready-to-eat meals at home or for grilling outdoors. Made for families, the Maple Leaf® brand offers premium meat using only natural ingredients with no artificial preservatives, flavours, colours, or sweeteners.<ul><li>READY TO ENJOY ANYTIME: These hot dogs are a convenient ready-to-eat meal that kids love</li><li>FREE OF FILLERS: Maple Leaf® brand hot dogs are made with premium meat and natural ingredients with no fillers</li><li>LOW-SALT ALTERNATIVE: Contains 25 percent less salt than Maple Leaf® Natural Top Dogs™ Original hot dogs for delicious flavour with less sodium</li><li>SEASONED JUST RIGHT: Seasoned with sugar, spice, smoke, and just a hint of salt</li><li>MADE WITH NATURAL INGREDIENTS: Maple Leaf® brand products contain no artificial flavours, preservatives, colours, sweeteners, or animal byproducts</li></ul>",
+            "brand": "Maple Leaf",
+            "link": "/natural-top-dogs-less-salt-hot-dogs/p/21094873_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21094873/b1/en/front/21094873_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21094873/b1/en/front/21094873_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21094873/b1/en/front/21094873_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21094873/b1/en/front/21094873_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21094873/b1/en/front/21094873_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21094873/b1/en/front/21094873_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "375 g",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 4.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 2,
+                    "type": "SPECIAL"
+                },
+                "wasPrice": {
+                    "value": 5.79,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": null,
+                    "type": null
+                },
+                "comparisonPrices": [
+                    {
+                        "value": 1.33,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": {
+                    "type": "SALE",
+                    "text": "SAVE $0.80",
+                    "expiryDate": "2021-05-26T00:00:00Z",
+                    "promoType": null
+                },
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": "OK",
+            "upcs": null,
+            "articleNumber": "21094873",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21094876_EA",
+            "name": "Cheddar Jalapeno Smokies",
+            "description": "Plump and juicy, these all-pork smoked sausages are made with real cheddar cheese and jalapeño pieces you can taste in every melt-in-your-mouth bite. With a kick of heat that will appeal to everyone, they’re delicious with all your favourite toppings – try chili for a real crowd pleaser.",
+            "brand": "President's Choice",
+            "link": "/cheddar-jalapeno-smokies/p/21094876_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21094876/b1/en/front/21094876_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21094876/b1/en/front/21094876_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21094876/b1/en/front/21094876_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21094876/b1/en/front/21094876_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21094876/b1/en/front/21094876_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21094876/b1/en/front/21094876_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "1000 g",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 9.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 1,
+                    "type": "SPECIAL"
+                },
+                "wasPrice": {
+                    "value": 10.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": null,
+                    "type": null
+                },
+                "comparisonPrices": [
+                    {
+                        "value": 1,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": {
+                    "type": "SALE",
+                    "text": "SAVE $1.00",
+                    "expiryDate": "2021-05-26T00:00:00Z",
+                    "promoType": null
+                },
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": "OK",
+            "upcs": null,
+            "articleNumber": "21094876",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21094880_EA",
+            "name": "Fully Cooked Natural Pork Breakfast Sausage Patties",
+            "description": "Have breakfast on the table in no time with Maple Leaf® Natural Pork Breakfast Sausage Patties. These pre-cooked sausage patties are made with our quality cuts of pork carefully cooked to a perfect golden brown outside and tender and juicy inside. Made with natural ingredients including sea salt, cane sugar, and spices, this savoury breakfast sausage is fully cooked and ready to eat. Maple Leaf® Natural Pork Breakfast Sausage patties are delicious served with eggs, pancakes, or your favourite breakfast food. Made for families, the Maple Leaf® brand offers premium meat using only natural ingredients with no artificial preservatives, flavours, colours, or sweeteners.<ul><li>READY ANYTIME: Fully cooked sausage patties are a quick and delicious breakfast food</li><li>QUALITY CUTS: Maple Leaf® brand uses only our quality cuts of pork to create this natural breakfast sausage</li><li>TENDER TEXTURE: This sausage is fully cooked for the perfect texture and golden brown colour</li><li>SEASONED JUST RIGHT: Cooked pork sausage is seasoned with just the right amount of sea salt, cane sugar, and spices</li><li>MADE WITH NATURAL INGREDIENTS: Maple Leaf® brand products contain no artificial flavours, preservatives, colours, sweeteners, or animal byproducts</li></ul>",
+            "brand": "Maple Leaf",
+            "link": "/fully-cooked-natural-pork-breakfast-sausage-pattie/p/21094880_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21094880/b1/en/front/21094880_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21094880/b1/en/front/21094880_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21094880/b1/en/front/21094880_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21094880/b1/en/front/21094880_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21094880/b1/en/front/21094880_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21094880/b1/en/front/21094880_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "300 g",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 6.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 2.33,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": "OK",
+            "upcs": null,
+            "articleNumber": "21094880",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21094887_EA",
+            "name": "Natural Pork Breakfast Sausage, Fully Cooked",
+            "description": "Have breakfast on the table in no time with Maple Leaf® Natural Pork Breakfast Sausages. These pre-cooked sausage links are made with our quality cuts of pork carefully cooked to a perfect golden brown outside and tender and juicy inside. Made with natural ingredients, these savoury breakfast sausages are fully cooked and ready to eat. Maple Leaf® Natural Pork Breakfast Sausages are delicious served with eggs, pancakes, or your favourite breakfast food. Made for families, the Maple Leaf® brand offers quality meat using only natural ingredients with no artificial preservatives, flavours, colours, or sweeteners.<ul><li>READY ANYTIME: Fully cooked sausage is a quick and delicious breakfast food</li><li>QUALITY CUTS: Maple Leaf® brand uses only our quality cuts of pork to create these natural breakfast sausages</li><li>FULLY COOKED: This sausage is fully cooked to a perfect texture and golden brown colour</li><li>SEASONED JUST RIGHT: Cooked pork sausage is seasoned with just the right amount of sea salt, cane sugar, and spices</li><li>MADE WITH NATURAL INGREDIENTS: Maple Leaf® brand products contain no artificial flavours, preservatives, colours, sweeteners, or animal byproducts</li></ul>",
+            "brand": "Maple Leaf",
+            "link": "/natural-pork-breakfast-sausage-fully-cooked/p/21094887_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21094887/b1/en/front/21094887_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21094887/b1/en/front/21094887_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21094887/b1/en/front/21094887_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21094887/b1/en/front/21094887_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21094887/b1/en/front/21094887_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21094887/b1/en/front/21094887_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "300 g",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 6.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 2.33,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": "OK",
+            "upcs": null,
+            "articleNumber": "21094887",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21182968_EA",
+            "name": "Natural Top Dogs BBQ Hot Dogs",
+            "description": "Serve up a classic family favourite with no fillers with Maple Leaf® Natural Top Dogs™ BBQ Hot Dogs. Made with premium meat and natural ingredients, these BBQ-format hot dogs offer delicious flavour that both kids and grown-ups will love. Whether you’re firing up the grill at home or the campground, these gourmet BBQ hot dogs are sure to please everyone at the party. Made for families, the Maple Leaf® brand offers premium meat using only natural ingredients with no artificial preservatives, flavours, colours, or sweeteners.<ul><li>READY TO ENJOY ANYTIME: These hot dogs are a convenient ready-to-eat meal that kids love</li><li>HIGH-QUALITY MEATS: Maple Leaf® brand hot dogs are made with premium meat and natural ingredients</li><li>BBQ FORMAT: These gourmet BBQ hot dogs are the perfect size for grilling</li><li>SEASONED JUST RIGHT: Seasoned with only natural ingredients</li><li>MADE WITH NATURAL INGREDIENTS: Maple Leaf® brand products contain no artificial flavours, preservatives, colours, sweeteners, or animal byproducts</li></ul>",
+            "brand": "Maple Leaf",
+            "link": "/natural-top-dogs-bbq-hot-dogs/p/21182968_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21182968/b1/en/front/21182968_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21182968/b1/en/front/21182968_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21182968/b1/en/front/21182968_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21182968/b1/en/front/21182968_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21182968/b1/en/front/21182968_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21182968/b1/en/front/21182968_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "375 g",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 4.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 2,
+                    "type": "SPECIAL"
+                },
+                "wasPrice": {
+                    "value": 5.79,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": null,
+                    "type": null
+                },
+                "comparisonPrices": [
+                    {
+                        "value": 1.33,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": {
+                    "type": "SALE",
+                    "text": "SAVE $0.80",
+                    "expiryDate": "2021-05-26T00:00:00Z",
+                    "promoType": null
+                },
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": "OK",
+            "upcs": null,
+            "articleNumber": "21182968",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21100070_EA",
+            "name": "Extra Lean Ground Chicken Org",
+            "description": null,
+            "brand": "Yorkshire Valley Farms",
+            "link": "/extra-lean-ground-chicken-org/p/21100070_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21100070/b1/en/front/21100070_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21100070/b1/en/front/21100070_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21100070/b1/en/front/21100070_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21100070/b1/en/front/21100070_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21100070/b1/en/front/21100070_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21100070/b1/en/front/21100070_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "454 g",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 12.49,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 2.75,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "21100070",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        },
+        {
+            "code": "21218152_EA",
+            "name": "Lean Ground Beef",
+            "description": "Free From Grass Fed Australian Angus Beef, Lean Ground Beef",
+            "brand": "President's Choice",
+            "link": "/lean-ground-beef/p/21218152_EA",
+            "imageAssets": [
+                {
+                    "smallUrl": "https://assets.shop.loblaws.ca/products/21218152/b1/en/front/21218152_front_a01_@2.png",
+                    "mediumUrl": "https://assets.shop.loblaws.ca/products/21218152/b1/en/front/21218152_front_a01_@2.png",
+                    "largeUrl": "https://assets.shop.loblaws.ca/products/21218152/b1/en/front/21218152_front_a01_@2.png",
+                    "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21218152/b1/en/front/21218152_front_a01_@2.png",
+                    "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21218152/b1/en/front/21218152_front_a01_@2.png",
+                    "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21218152/b1/en/front/21218152_front_a01_@2.png"
+                }
+            ],
+            "packageSize": "454 g",
+            "shoppable": true,
+            "prices": {
+                "price": {
+                    "value": 9.99,
+                    "unit": "ea",
+                    "quantity": 1,
+                    "reasonCode": 4,
+                    "type": "REGULAR"
+                },
+                "wasPrice": null,
+                "comparisonPrices": [
+                    {
+                        "value": 2.2,
+                        "unit": "g",
+                        "quantity": 100,
+                        "reasonCode": null,
+                        "type": null
+                    }
+                ]
+            },
+            "pricingUnits": {
+                "type": "SOLD_BY_EACH",
+                "unit": "ea",
+                "interval": 1,
+                "minOrderQuantity": 1,
+                "maxOrderQuantity": 25,
+                "weighted": false
+            },
+            "badges": {
+                "textBadge": null,
+                "loyaltyBadge": null,
+                "dealBadge": null,
+                "newItemBadge": null
+            },
+            "breadcrumbs": null,
+            "averageWeight": null,
+            "stockStatus": null,
+            "upcs": null,
+            "articleNumber": "21218152",
+            "uom": "EA",
+            "ingredients": null,
+            "promotions": null,
+            "nutritionFacts": null,
+            "taxes": null,
+            "fees": null,
+            "dietaryCallouts": null,
+            "sellerId": "1436",
+            "sellerName": "fortinos",
+            "isVariant": false,
+            "offerType": "OG"
+        }
+    ],
+    "pagination": {
+        "pageNumber": 1,
+        "pageSize": 48,
+        "totalResults": 371
+    },
+    "sorts": [
+        {
+            "code": "recommended",
+            "name": "Relevance",
+            "selected": true
+        },
+        {
+            "code": "price-asc",
+            "name": "Price (Low to High)",
+            "selected": false
+        },
+        {
+            "code": "price-desc",
+            "name": "Price (High to Low)",
+            "selected": false
+        },
+        {
+            "code": "title-asc",
+            "name": "A-Z (alphabetical)",
+            "selected": false
+        }
+    ],
+    "filterGroups": [
+        {
+            "code": "promotions",
+            "name": "Promotion",
+            "multiSelect": true,
+            "values": [
+                {
+                    "code": "$1,$2,$3,$4,$5",
+                    "name": "$1,$2,$3,$4,$5",
+                    "count": 10,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Price Reduction",
+                    "name": "Price Reduction",
+                    "count": 35,
+                    "disabled": null,
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "code": "price ranges",
+            "name": "Price Ranges",
+            "multiSelect": true,
+            "values": [
+                {
+                    "code": "$0-$4.99",
+                    "name": "$0-$4.99",
+                    "count": 32,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "$5-$9.99",
+                    "name": "$5-$9.99",
+                    "count": 194,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "$10-$14.99",
+                    "name": "$10-$14.99",
+                    "count": 73,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "$15-$19.99",
+                    "name": "$15-$19.99",
+                    "count": 26,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "$20-$29.99",
+                    "name": "$20-$29.99",
+                    "count": 29,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "$30-$49.99",
+                    "name": "$30-$49.99",
+                    "count": 10,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "$50-$99.99",
+                    "name": "$50-$99.99",
+                    "count": 7,
+                    "disabled": null,
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "code": "productBrand",
+            "name": "Brand",
+            "multiSelect": true,
+            "values": [
+                {
+                    "code": "President's Choice",
+                    "name": "President's Choice",
+                    "count": 45,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Fortinos",
+                    "name": "Fortinos",
+                    "count": 27,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Maple Leaf",
+                    "name": "Maple Leaf",
+                    "count": 16,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Schneider",
+                    "name": "Schneider",
+                    "count": 14,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Johnsonville",
+                    "name": "Johnsonville",
+                    "count": 13,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Lazar",
+                    "name": "Lazar",
+                    "count": 11,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Marvid Poultry",
+                    "name": "Marvid Poultry",
+                    "count": 8,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "PC Blue Menu",
+                    "name": "PC Blue Menu",
+                    "count": 8,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "SUFRA",
+                    "name": "SUFRA",
+                    "count": 6,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Brome Lake",
+                    "name": "Brome Lake",
+                    "count": 4,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Maple Lodge Farms LT",
+                    "name": "Maple Lodge Farms LT",
+                    "count": 4,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Zabiha Halal",
+                    "name": "Zabiha Halal",
+                    "count": 4,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Aaron's",
+                    "name": "Aaron's",
+                    "count": 3,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Butterball",
+                    "name": "Butterball",
+                    "count": 3,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Marcangelo",
+                    "name": "Marcangelo",
+                    "count": 3,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Baldwin St.",
+                    "name": "Baldwin St.",
+                    "count": 2,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Beyond Meat",
+                    "name": "Beyond Meat",
+                    "count": 2,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Greenfield Natural Meat Co.",
+                    "name": "Greenfield Natural Meat Co.",
+                    "count": 2,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "No Name",
+                    "name": "No Name",
+                    "count": 2,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Ovation",
+                    "name": "Ovation",
+                    "count": 2,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Rea",
+                    "name": "Rea",
+                    "count": 2,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Yorkshire Valley Farms",
+                    "name": "Yorkshire Valley Farms",
+                    "count": 2,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Beretta",
+                    "name": "Beretta",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Cooks",
+                    "name": "Cooks",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Etnico",
+                    "name": "Etnico",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Hayter's Farm",
+                    "name": "Hayter's Farm",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Kingway",
+                    "name": "Kingway",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Lightlife",
+                    "name": "Lightlife",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Lous",
+                    "name": "Lous",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false
+                },
+                {
+                    "code": "Shopsys",
+                    "name": "Shopsys",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "code": "category",
+            "name": "Aisle",
+            "multiSelect": false,
+            "values": [
+                {
+                    "code": "28170",
+                    "name": "Bacon, Sausages & Hot Dogs",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false,
+                    "categoryType": "clp",
+                    "url": "/food/meat/bacon-sausages-hot-dogs/c/28170"
+                },
+                {
+                    "code": "28171",
+                    "name": "Lamb & Veal",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false,
+                    "categoryType": "plp",
+                    "url": "/food/meat/lamb-veal/c/28171"
+                },
+                {
+                    "code": "28172",
+                    "name": "Frozen",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false,
+                    "categoryType": "clp",
+                    "url": "/food/meat/frozen/c/28172"
+                },
+                {
+                    "code": "28173",
+                    "name": "Ready To Cook",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false,
+                    "categoryType": "clp",
+                    "url": "/food/meat/ready-to-cook/c/28173"
+                },
+                {
+                    "code": "28174",
+                    "name": "Beef",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false,
+                    "categoryType": "clp",
+                    "url": "/food/meat/beef/c/28174"
+                },
+                {
+                    "code": "28214",
+                    "name": "Chicken & Turkey",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false,
+                    "categoryType": "clp",
+                    "url": "/food/meat/chicken-turkey/c/28214"
+                },
+                {
+                    "code": "28215",
+                    "name": "Pork",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false,
+                    "categoryType": "clp",
+                    "url": "/food/meat/pork/c/28215"
+                },
+                {
+                    "code": "28216",
+                    "name": "Exotic Meats",
+                    "count": 1,
+                    "disabled": null,
+                    "selected": false,
+                    "categoryType": "plp",
+                    "url": "/food/meat/exotic-meats/c/28216"
+                }
+            ]
+        }
+    ],
+    "breadcrumbs": [
+        {
+            "categoryCode": "27985",
+            "name": "Food",
+            "url": "/food/c/27985",
+            "categoryType": "clp"
+        },
+        {
+            "categoryCode": "27998",
+            "name": "Meat",
+            "url": "/food/meat/c/27998",
+            "categoryType": "clp"
+        }
+    ],
+    "categoryName": "Meat",
+    "modelVersion": "CLPTwoStageRanking"
+}

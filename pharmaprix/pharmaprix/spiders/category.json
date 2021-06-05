@@ -1,0 +1,2372 @@
+{
+    "data": {
+        "categoryProductList": {
+            "categoryType": "category",
+            "filterGroups": [
+                {
+                    "name": "Show in stock",
+                    "code": "showInStock",
+                    "count": 0,
+                    "filters": [
+                        {
+                            "name": "Show in stock",
+                            "count": 58,
+                            "queryParam": ":trending:showInStock:true",
+                            "code": "true",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        }
+                    ],
+                    "__typename": "FilterGroup"
+                },
+                {
+                    "name": "Brands",
+                    "code": "brandName",
+                    "count": 0,
+                    "filters": [
+                        {
+                            "name": "Acer",
+                            "count": 1,
+                            "queryParam": ":trending:brandName:Acer",
+                            "code": "Acer",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Amazon",
+                            "count": 6,
+                            "queryParam": ":trending:brandName:Amazon",
+                            "code": "Amazon",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Apple",
+                            "count": 6,
+                            "queryParam": ":trending:brandName:Apple",
+                            "code": "Apple",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Asus",
+                            "count": 2,
+                            "queryParam": ":trending:brandName:Asus",
+                            "code": "Asus",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Canon",
+                            "count": 3,
+                            "queryParam": ":trending:brandName:Canon",
+                            "code": "Canon",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Dlink",
+                            "count": 6,
+                            "queryParam": ":trending:brandName:Dlink",
+                            "code": "Dlink",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Garmin",
+                            "count": 6,
+                            "queryParam": ":trending:brandName:Garmin",
+                            "code": "Garmin",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Google",
+                            "count": 3,
+                            "queryParam": ":trending:brandName:Google",
+                            "code": "Google",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Intuit",
+                            "count": 5,
+                            "queryParam": ":trending:brandName:Intuit",
+                            "code": "Intuit",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Kingston",
+                            "count": 1,
+                            "queryParam": ":trending:brandName:Kingston",
+                            "code": "Kingston",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Kobo",
+                            "count": 2,
+                            "queryParam": ":trending:brandName:Kobo",
+                            "code": "Kobo",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Lenovo",
+                            "count": 2,
+                            "queryParam": ":trending:brandName:Lenovo",
+                            "code": "Lenovo",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Logitech",
+                            "count": 4,
+                            "queryParam": ":trending:brandName:Logitech",
+                            "code": "Logitech",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Nest",
+                            "count": 2,
+                            "queryParam": ":trending:brandName:Nest",
+                            "code": "Nest",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Roku",
+                            "count": 1,
+                            "queryParam": ":trending:brandName:Roku",
+                            "code": "Roku",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Samsung",
+                            "count": 5,
+                            "queryParam": ":trending:brandName:Samsung",
+                            "code": "Samsung",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Sandisk",
+                            "count": 3,
+                            "queryParam": ":trending:brandName:Sandisk",
+                            "code": "Sandisk",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Targus",
+                            "count": 1,
+                            "queryParam": ":trending:brandName:Targus",
+                            "code": "Targus",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Timex",
+                            "count": 2,
+                            "queryParam": ":trending:brandName:Timex",
+                            "code": "Timex",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "iStore",
+                            "count": 4,
+                            "queryParam": ":trending:brandName:iStore",
+                            "code": "iStore",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        }
+                    ],
+                    "__typename": "FilterGroup"
+                },
+                {
+                    "name": "Price",
+                    "code": "price",
+                    "count": 0,
+                    "filters": [
+                        {
+                            "name": "Under $25",
+                            "count": 3,
+                            "queryParam": ":trending:price:under25",
+                            "code": "under25",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "$25 - $50",
+                            "count": 17,
+                            "queryParam": ":trending:price:%2425+-+%2450",
+                            "code": "$25 - $50",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "$50 - $100",
+                            "count": 17,
+                            "queryParam": ":trending:price:%2450+-+%24100",
+                            "code": "$50 - $100",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "Over $100",
+                            "count": 28,
+                            "queryParam": ":trending:price:over100",
+                            "code": "over100",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        }
+                    ],
+                    "__typename": "FilterGroup"
+                },
+                {
+                    "name": "Ratings",
+                    "code": "frontshopStarRating",
+                    "count": 0,
+                    "filters": [
+                        {
+                            "name": "1 star and up",
+                            "count": 8,
+                            "queryParam": ":trending:frontshopStarRating:oneStarUp",
+                            "code": "oneStarUp",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "2 stars and up",
+                            "count": 6,
+                            "queryParam": ":trending:frontshopStarRating:twoStarUp",
+                            "code": "twoStarUp",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "3 stars and up",
+                            "count": 5,
+                            "queryParam": ":trending:frontshopStarRating:threeStarUp",
+                            "code": "threeStarUp",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "4 stars and up",
+                            "count": 5,
+                            "queryParam": ":trending:frontshopStarRating:fourStarUp",
+                            "code": "fourStarUp",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        },
+                        {
+                            "name": "5 stars",
+                            "count": 5,
+                            "queryParam": ":trending:frontshopStarRating:fiveStar",
+                            "code": "fiveStar",
+                            "isSelected": false,
+                            "shadeIconUrl": null,
+                            "__typename": "Filter"
+                        }
+                    ],
+                    "__typename": "FilterGroup"
+                }
+            ],
+            "totalFiltersCount": 0,
+            "products": [
+                {
+                    "brandName": "Canon",
+                    "name": "PG-245XL & CL-246XL Ink Cartridges Value Pack",
+                    "description": "Genuine Canon PG-245XL/CL-246XL Black & Colour Cartridges, Value Pack",
+                    "id": "660685119727",
+                    "flavourAndScent": "Black, Tri- Coloured",
+                    "price": {
+                        "numericalPrice": 74.99,
+                        "formattedPrice": "$74.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/660685119727/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/660685119727/enfr/01/front/260/white.jpg",
+                    "rating": 100,
+                    "reviewCount": 1,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/PG-245XL-%26-CL-246XL-Ink-Cartridges-Value-Pack/p/BB_660685119727?variantCode=660685119727",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Google",
+                    "name": "Chromecast HDMI Streaming Media Player 3rd Generation",
+                    "description": "Google Chromecast Video Streaming Device",
+                    "id": "842776106148",
+                    "flavourAndScent": "Black",
+                    "price": {
+                        "numericalPrice": 39.99,
+                        "formattedPrice": "$39.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/842776106148/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/842776106148/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Connected-Home/Chromecast-HDMI-Streaming-Media-Player-3rd-Generation/p/BB_842776106148?variantCode=842776106148",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Nest",
+                    "name": "Nst-nc5100ef",
+                    "description": "Nest Hello Video Doorbell",
+                    "id": "813917020944",
+                    "flavourAndScent": "White",
+                    "price": {
+                        "numericalPrice": 299.99,
+                        "formattedPrice": "$299.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/813917020944/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/813917020944/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Connected-Home/Nst-nc5100ef/p/BB_813917020944?variantCode=813917020944",
+                    "isOnSale": null,
+                    "badges": null,
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Kobo",
+                    "name": "Libra H20 eReader",
+                    "description": "The perfect balance between innovative digital technology, a comfortable reading experience, and modern design is here",
+                    "id": "681495007813",
+                    "flavourAndScent": "Black",
+                    "price": {
+                        "numericalPrice": 199.99,
+                        "formattedPrice": "$199.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/681495007813/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/681495007813/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Kobo/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Tablets/Libra-H20-eReader/p/BB_681495007813?variantCode=681495007813",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Lenovo",
+                    "name": "C330 2-In 1 Chromebook, 11.6\" 4GB, 64GB",
+                    "description": "C330 Chromebook, 2-in-1 Touchscreen, 4GB, 64GB eMMC, Chrome O/S",
+                    "id": "195042552034",
+                    "flavourAndScent": "White",
+                    "price": {
+                        "numericalPrice": 329.99,
+                        "formattedPrice": "$329.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/195042552034/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/195042552034/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Notebooks/C330-2-In-1-Chromebook%2C-11-6%22-4GB%2C-64GB/p/BB_195042552034?variantCode=195042552034",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Amazon",
+                    "name": "Fire TV Stick Lite",
+                    "description": "Fire TV Stick Lite with Alexa Voice Remote Lite (no TV controls) | HD streaming device | 2020 release",
+                    "id": "840080578330",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 49.99,
+                        "formattedPrice": "$49.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/840080578330/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/840080578330/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Connected-Home/Fire-TV-Stick-Lite/p/BB_840080578330?variantCode=840080578330",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Apple",
+                    "name": "Pencil (1st Generation) for iPad",
+                    "description": "When using iPad, there may be moments when you want even greater precision. The Apple Pencil has been painstakingly designed to expand on the versatility of Multi-Touch. And while the technology inside is unlike anything Apple has ever engineered, picking up Apple Pencil for the first time feels instantly familiar.",
+                    "id": "888462313674",
+                    "flavourAndScent": "White",
+                    "price": {
+                        "numericalPrice": 129.99,
+                        "formattedPrice": "$129.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/888462313674/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/888462313674/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Cameras%2C-Phones-%26-Accessories/Phones-%26-Accessories/Pencil-%281st-Generation%29-for-iPad/p/BB_888462313674?variantCode=888462313674",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Canon",
+                    "name": "PG-240XL & CL-241XL Ink Cartridges Value Pack",
+                    "description": "Genuine Canon PG-240XL & CL-241 Black & Color Ink Cartridges, Value Pack",
+                    "id": "660685118829",
+                    "flavourAndScent": "Black, Tri- Coloured",
+                    "price": {
+                        "numericalPrice": 74.99,
+                        "formattedPrice": "$74.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/0660685118829/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/0660685118829/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/PG-240XL-%26-CL-241XL-Ink-Cartridges-Value-Pack/p/BB_660685118829?variantCode=660685118829",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Asus",
+                    "name": "11.6\" 4GB/32GB Chromebook",
+                    "description": "Introducing the all-new ASUS Chromebook C223, a Chromebook featuring a 11.6\" inch display, metallic finish, and USB Type-C (Gen 1). From note taking in class to work presentations, the ASUS Chromebook C223 lets you communicate, share and play seamlessly.",
+                    "id": "192876748503",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 249.99,
+                        "formattedPrice": "$249.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/192876748503/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/192876748503/enfr/01/front/260/white.jpg",
+                    "rating": 20,
+                    "reviewCount": 1,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Notebooks/11-6%22-4GB-32GB-Chromebook/p/BB_192876748503?variantCode=192876748503",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Canon",
+                    "name": "PG-260XL & CL-261 Ink Cartridges Value Pack",
+                    "description": "Genuine Canon PG-260XL & CL-261 Black & Color Ink Cartridges, Value Pack",
+                    "id": "660685210943",
+                    "flavourAndScent": "Black, Tri- Coloured",
+                    "price": {
+                        "numericalPrice": 74.99,
+                        "formattedPrice": "$74.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/660685210943/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/660685210943/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/PG-260XL-%26-CL-261-Ink-Cartridges-Value-Pack/p/BB_660685210943?variantCode=660685210943",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Asus",
+                    "name": "15.6\" Ryzen R7 8GB/512GB SSD Notebook",
+                    "description": "Whether at work or at play, ASUS M509 is the laptop that delivers powerful performance and immersive visual. Its new frameless four-sided NanoEdge display boasts an ultraslim 5.7mm bezel, giving an amazing 83% screen-to-body ratio for supremely immersive visuals.",
+                    "id": "192876823262",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 699.99,
+                        "formattedPrice": "$699.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/192876823262/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/192876823262/enfr/01/front/260/white.jpg",
+                    "rating": 100,
+                    "reviewCount": 1,
+                    "url": "/Shop/Asus/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Notebooks/15-6%22-Ryzen-R7-8GB-512GB-SSD-Notebook/p/BB_192876823262?variantCode=192876823262",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Lenovo",
+                    "name": "Chromebook S330 4 GB / 64 GB, 14 inch",
+                    "description": "Chromebook S330-Faster, simpler, and more secure, the Lenovo Chromebook S330 brings the latest Chromebook featuresto you—housed in a sleek, stylish, and durable slim laptop chassis in Business Black. Bringing the latestmultimedia in high-definition, this Chromebook features an HD anti-glare display that is near-edgeless,for effortless enjoyment of your favorite multimedia content. Never slowing down and always up-todate,the Lenovo Chromebook S330 offers the latest in digital security while delivering perfect dayto-day performance via powerful processing with integrated graphics, eMMC storage, and LPDDR3memory—all with over 10 hours of battery life.",
+                    "id": "195235083376",
+                    "flavourAndScent": "Black",
+                    "price": {
+                        "numericalPrice": 349.99,
+                        "formattedPrice": "$349.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/195235083376/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/195235083376/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Notebooks/Chromebook-S330-4-GB-64-GB%2C-14-inch/p/BB_195235083376?variantCode=195235083376",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Samsung",
+                    "name": "Galaxy Tab A7 10.4\" 32GB Android 10.0 Tablet",
+                    "description": "Featuring an ultra-wide 10.4\" touchscreen display and Android 10, it presents movies, games, and websites in detailed clarity. It boasts a speedy octa-core processor, 32GB of built-in storage, and 3GB of RAM so you have everything you need to stream, browse, watch, read, and work.",
+                    "id": "887276438863",
+                    "flavourAndScent": "Silver",
+                    "price": {
+                        "numericalPrice": 329.99,
+                        "formattedPrice": "$329.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/887276438863/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/887276438863/enfr/01/front/260/white.jpg",
+                    "rating": 100,
+                    "reviewCount": 1,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Tablets-%26-eReaders/Galaxy-Tab-A7-10-4%22-32GB-Android-10-0-Tablet/p/BB_887276438863?variantCode=887276438863",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Acer",
+                    "name": "11.6\" Spin Touch 4GB/64GB Chromebook",
+                    "description": "Acer Chromebook Spin 11 Convertible Laptop, MediaTek MT8183, 11.6\" HD Touch, 4GB DDR4, 64GB, Bluetooth 4.2.2, Google Chrome, CP311-3H-K9K9. Size : 15.55\" x 3.25\" x 9.55\"",
+                    "id": "193199857521",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 399.99,
+                        "formattedPrice": "$399.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/193199857521/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/193199857521/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Notebooks/11-6%22-Spin-Touch-4GB-64GB-Chromebook/p/BB_193199857521?variantCode=193199857521",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Apple",
+                    "name": "20W USB-C Power Adapter",
+                    "description": "Get fast, efficient charging at home, in the office, or on the go with the Apple 20W USB‑C power adapter. While the power adapter is compatible with any USB‑C-enabled device, Apple recommends pairing it with iPhone 12 Series devices boxed with USB-C-Lightning cables for optimal charging. It also works with the 11\" iPad Pro and 12.9\" iPad Pro (3rd generation) for optimal charging performance.",
+                    "id": "194252156940",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 29.99,
+                        "formattedPrice": "$29.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/194252156940/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/194252156940/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Cameras%2C-Phones-%26-Accessories/Phones-%26-Accessories/20W-USB-C-Power-Adapter/p/BB_194252156940?variantCode=194252156940",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Garmin",
+                    "name": "Venu SQ GPS smartwatch",
+                    "description": "Featuring a bright color display, the Venu Sq GPS smartwatch combines daily style with health monitoring and fitness features that inspire you to keep moving.",
+                    "id": "753759260620",
+                    "flavourAndScent": "Black",
+                    "price": {
+                        "numericalPrice": 279.99,
+                        "formattedPrice": "$279.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/753759260620/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/753759260620/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Smartwatches/Venu-SQ-GPS-smartwatch/p/GS48?variantCode=753759260620",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Garmin",
+                    "name": "Vivosmart 4 Fitness tracker",
+                    "description": "Slim, smart activity tracker blends fashionable design with stylish metal accents and a bright, easy-to-read display; Includes advanced sleep monitoring with REM sleep and can gauge blood oxygen saturation levels; Fitness and health monitoring tools include estimated wrist-based heart rate, all-day stress tracking, relaxation breathing timer, VO2 Max, body battery energy monitor and more;",
+                    "id": "753759205133",
+                    "flavourAndScent": "Purple",
+                    "price": {
+                        "numericalPrice": 179.99,
+                        "formattedPrice": "$179.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/753759205133/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/753759205133/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Smartwatches/Vivosmart-4-Fitness-tracker/p/BB_753759205133?variantCode=753759205133",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Samsung",
+                    "name": "Galaxy Tab S6 Lite 10.4\" 64GB Android Tablet with Exynos 9611 8-Core Processor",
+                    "description": "Make your life conveniently portable with the slim, lightweight Samsung Galaxy Tab S6 Lite. This powerful 10.4\" Android tablet boasts an 8-core Exynos 9611 processor with 4GB of RAM. Its 64GB of built-in storage space gives you plenty of room for all your games, documents, and other files. The included S Pen is perfect for taking notes, drawing, and more.",
+                    "id": "887276410425",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 429.99,
+                        "formattedPrice": "$429.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/887276410425/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/887276410425/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Tablets-%26-eReaders/Galaxy-Tab-S6-Lite-10-4%22-64GB-Android-Tablet-with-Exynos-9611-8-Core-Processor/p/BB_887276410425?variantCode=887276410425",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Apple",
+                    "name": "Magic Keyboard",
+                    "description": "A sleek design, built-in rechargeable battery, and enhanced key features team up to bring you the convenient and comfortable Apple Magic Keyboard. Its improved scissor mechanism beneath each key offers increased stability, while optimized key travel and a lower profile provide a very comfortable and precise typing experience.\nSorry, live chat isn't available right now.\nCheck back another time for expert advice.MLA22LL/A",
+                    "id": "888462650366",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 129.99,
+                        "formattedPrice": "$129.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/888462650366/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/888462650366/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Cameras%2C-Phones-%26-Accessories/Phones-%26-Accessories/Magic-Keyboard/p/BB_888462650366?variantCode=888462650366",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Logitech",
+                    "name": "K360 Wireless Keyboard English",
+                    "description": "The wireless keyboard that’s beautifully convenient and conveniently compact thanks to its space-saving design with familiar layout, three-year battery life and instant access to the things you do most.\nYou can type in more comfort with a layout you’re used to. And it’s about 20% smaller than our standard keyboards, so it fits in your office, your living room or wherever you use your laptop.\n\nThe extended battery life means you won’t spend your time tracking down new batteries.",
+                    "id": "097855085368",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 39.99,
+                        "formattedPrice": "$39.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/97855085368/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/97855085368/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/K360-Wireless-Keyboard-English/p/BB_097855085368?variantCode=097855085368",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": true,
+                    "isFavourite": false,
+                    "variantCount": 0,
+                    "variantUnitDescription": null,
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Intuit",
+                    "name": "Turbotax standard",
+                    "description": "Tax Software - Minimize your Effort & Maximize your Refund with TurboTax® 2020",
+                    "id": "776171947481",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 34.99,
+                        "formattedPrice": "$34.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/776171947481/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/776171947481/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/Turbotax-standard/p/BB_776171947481?variantCode=776171947481",
+                    "isOnSale": null,
+                    "badges": null,
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Google",
+                    "name": "Google Nest Wi-Fi Smart Thermostat",
+                    "description": "Google Nest Wi-Fi Smart Thermostat - Charcoal, 5.00\" x 2.00\" x 4.75\"",
+                    "id": "193575007687",
+                    "flavourAndScent": "Charcoal",
+                    "price": {
+                        "numericalPrice": 179.99,
+                        "formattedPrice": "$179.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/193575007687/en/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/193575007687/en/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Connected-Home/Google-Nest-Wi-Fi-Smart-Thermostat/p/BB_193575007687?variantCode=193575007687",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Kobo",
+                    "name": "Nia eReader",
+                    "description": "Carry up to 6,000 ebooks anywhere you go; with 8GB of data Kobo Nia can accommodate even the largest librairies",
+                    "id": "681495007998",
+                    "flavourAndScent": "Black",
+                    "price": {
+                        "numericalPrice": 139.99,
+                        "formattedPrice": "$139.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/681495007998/en/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/681495007998/en/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Tablets-%26-eReaders/Nia-eReader/p/BB_681495007998?variantCode=681495007998",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Samsung",
+                    "name": "Galaxy Tab A7 10.4\" 32GB Android 10.0 Tablet with 8-Core Processor",
+                    "description": "Enjoy entertainment and productivity on the go with the Samsung Galaxy Tab A7 tablet. Featuring an ultra-wide 10.4\" touchscreen display and Android 10, it presents movies, games, and websites in detailed clarity. It boasts a speedy octa-core processor, 32GB of built-in storage, and 3GB of RAM so you have everything you need to stream, browse, watch, read, and work.",
+                    "id": "887276438719",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 329.99,
+                        "formattedPrice": "$329.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/887276438719/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/887276438719/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Tablets-%26-eReaders/Galaxy-Tab-A7-10-4%22-32GB-Android-10-0-Tablet-with-8-Core-Processor/p/BB_887276438719?variantCode=887276438719",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Samsung",
+                    "name": "Galaxy Tab A 8\" 32GB Android Tablet with Quad-Core Processor",
+                    "description": "Enjoy apps, get some work done, and more with the Samsung Galaxy Tab A 8\" tablet. Its 2GHz quad-core processor, 2GB of RAM, and 32GB of storage space easily handle your apps and photos while the 8MP rear and 2MP front cameras take stunning photos and selfies. Plus, Family Share and Samsung Kids make this tablet suitable for the whole family.",
+                    "id": "887276347523",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 199.99,
+                        "formattedPrice": "$199.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/887276347523/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/887276347523/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Tablets-%26-eReaders/Galaxy-Tab-A-8%22-32GB-Android-Tablet-with-Quad-Core-Processor/p/BB_887276347523?variantCode=887276347523",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Logitech",
+                    "name": "M317 Wireless Mouse",
+                    "description": "The compact contoured design with soft rubber grips keeps you comfortable - even when you're on the go. You'll enjoy smooth cursor control, precise tracking and easy text selection on the surfaces where you use your computer most. The tiny Unifying receiver connects up to six Unifying-compatible devices with a powerful, reliable wireless connection. You can go a long time without battery hassles. The on/off switch helps conserve power, smart sleep mode extends battery life and an indicator light eliminates surprises.",
+                    "id": "097855091345",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 34.99,
+                        "formattedPrice": "$34.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/97855091345/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/97855091345/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/M317-Wireless-Mouse/p/BB_097855091345?variantCode=097855091345",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": true,
+                    "isFavourite": false,
+                    "variantCount": 0,
+                    "variantUnitDescription": null,
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Amazon",
+                    "name": "Fire 7 16Gb Tablet",
+                    "description": "Fire 7 Tablet with 7\" Display, 16GB Black",
+                    "id": "841667168876",
+                    "flavourAndScent": "Blue",
+                    "price": {
+                        "numericalPrice": 69.99,
+                        "formattedPrice": "$69.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/841667168876/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/841667168876/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Tablets-%26-eReaders/Fire-7-16Gb-Tablet/p/BB_841667168876?variantCode=841667168876",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Garmin",
+                    "name": "Venu Black and Slate - Smartwatch",
+                    "description": "Beautiful. Detailed. Alive. Spend more time doing the activities you love, and stay in tune with your body with the striking Venu GPS smartwatch.",
+                    "id": "753759227845",
+                    "flavourAndScent": "Black + Slate",
+                    "price": {
+                        "numericalPrice": 479.99,
+                        "formattedPrice": "$479.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/753759227845/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/753759227845/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Smartwatches/Venu-Black-and-Slate---Smartwatch/p/BB_753759227845?variantCode=753759227845",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Garmin",
+                    "name": "Vivosmart 4 Fitness tracker",
+                    "description": "Slim, smart activity tracker blends fashionable design with stylish metal accents and a bright, easy-to-read display; Includes advanced sleep monitoring with REM sleep and can gauge blood oxygen saturation levels; Fitness and health monitoring tools include estimated wrist-based heart rate, all-day stress tracking, relaxation breathing timer, VO2 Max, body battery energy monitor and more;",
+                    "id": "753759205126",
+                    "flavourAndScent": "Black",
+                    "price": {
+                        "numericalPrice": 179.99,
+                        "formattedPrice": "$179.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/753759205126/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/753759205126/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Smartwatches/Vivosmart-4-Fitness-tracker/p/BB_753759205126?variantCode=753759205126",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Amazon",
+                    "name": "Echo Dot (3rd Gen)",
+                    "description": "Echo Dot is a voice-controlled smart speaker with Alexa, perfect for any room.",
+                    "id": "810019521157",
+                    "flavourAndScent": "White, Grey",
+                    "price": {
+                        "numericalPrice": 54.99,
+                        "formattedPrice": "$54.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/810019521157/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/810019521157/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Connected-Home/Echo-Dot-%283rd-Gen%29/p/BB_810019521157?variantCode=810019521157",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Samsung",
+                    "name": "Galaxy Tab S7 11\" 128GB Android Tablet with Snapdragon 865 Plus 8-Core Processor",
+                    "description": "Stay connected for work, entertainment, and creativity on the go with the Samsung Galaxy Tab S7 11\" tablet. Featuring 128GB of built-in storage, an eight-core Snapdragon 865+ processor, and 6GB of RAM, it has all the power you need to get any task done. It's equipped with front and rear cameras, quad speakers, and the redesigned S Pen for effortless operation.",
+                    "id": "887276443577",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 919.99,
+                        "formattedPrice": "$919.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/887276443577/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/887276443577/enfr/01/front/260/white.jpg",
+                    "rating": 100,
+                    "reviewCount": 1,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Tablets-%26-eReaders/Galaxy-Tab-S7-11%22-128GB-Android-Tablet-with-Snapdragon-865-Plus-8-Core-Processor/p/BB_887276443577?variantCode=887276443577",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Amazon",
+                    "name": "Fire 7 Kids 16G Tablet",
+                    "description": "Fire 7 Kids Edition Tablet includes a Kid-Proof Case with built-in stand",
+                    "id": "810019526589",
+                    "flavourAndScent": "Pink",
+                    "price": {
+                        "numericalPrice": 129.99,
+                        "formattedPrice": "$129.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/810019526589/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/810019526589/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Tablets-%26-eReaders/Fire-7-Kids-16G-Tablet/p/BB_810019526589?variantCode=810019526589",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Garmin",
+                    "name": "Venu SQ White - Smartwatch",
+                    "description": "Featuring a bright color display, the Venu Sq GPS smartwatch combines daily style with health monitoring and fitness features that inspire you to keep moving.",
+                    "id": "753759260637",
+                    "flavourAndScent": "White",
+                    "price": {
+                        "numericalPrice": 279.99,
+                        "formattedPrice": "$279.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/753759260637/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/753759260637/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Garmin/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Smart-Watches/Venu-SQ-White---Smartwatch/p/BB_753759260637?variantCode=753759260637",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "iStore",
+                    "name": "Universal Stylus",
+                    "description": "Type emails, take notes, and sketch while keeping your screen free of smudges and fingerprints. And when you’re all done, simply attach to your tablet, smartphone, or other capacitive device* for easy transport",
+                    "id": "092636347444",
+                    "flavourAndScent": "Black",
+                    "price": {
+                        "numericalPrice": 12.99,
+                        "formattedPrice": "$12.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/092636347444/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/092636347444/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/Universal-Stylus/p/BB_092636347444?variantCode=092636347444",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Nest",
+                    "name": "Nst-nc2100ef",
+                    "description": "Nest Cam Outdoor WiFi Camera",
+                    "id": "813917020159",
+                    "flavourAndScent": "White",
+                    "price": {
+                        "numericalPrice": 249.99,
+                        "formattedPrice": "$249.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/813917020159/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/813917020159/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Connected-Home/Nst-nc2100ef/p/BB_813917020159?variantCode=813917020159",
+                    "isOnSale": null,
+                    "badges": null,
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Garmin",
+                    "name": "Venu Amoled GPS smartwatch",
+                    "description": "Beautiful. Detailed. Alive. Spend more time doing the activities you love, and stay in tune with your body with the striking Venu GPS smartwatch.",
+                    "id": "753759227883",
+                    "flavourAndScent": "Beige",
+                    "price": {
+                        "numericalPrice": 479.99,
+                        "formattedPrice": "$479.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/753759227883/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/753759227883/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Smartwatches/Venu-Amoled-GPS-smartwatch/p/WD07?variantCode=753759227883",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Amazon",
+                    "name": "Fire TV Stick 4k",
+                    "description": "Fire TV Stick 4K streaming device with Alexa built in, Ultra HD, Dolby Vision, includes the Alexa Voice Remote",
+                    "id": "841667184661",
+                    "flavourAndScent": "Black",
+                    "price": {
+                        "numericalPrice": 69.99,
+                        "formattedPrice": "$69.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/841667184661/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/841667184661/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Connected-Home/Fire-TV-Stick-4k/p/BB_841667184661?variantCode=841667184661",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": true,
+                    "isFavourite": false,
+                    "variantCount": 0,
+                    "variantUnitDescription": null,
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Dlink",
+                    "name": "DSC-8000 Mini HD Wi-Fi Camera",
+                    "description": "Be aware of the safety of your home even when you're not there with this D-Link Wi-Fi indoor IP camera. It provides peace of mind with 720p HD video, along with sound and motion sensors that notify you immediately on your smartphone or tablet if activity is detected. You can view live footage on your device or record to the Cloud for later viewing.",
+                    "id": "790069433818",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 69.99,
+                        "formattedPrice": "$69.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/790069433818/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/790069433818/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/DSC-8000-Mini-HD-Wi-Fi-Camera/p/BB_790069433818?variantCode=790069433818",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Timex",
+                    "name": "T121BXC - Digital Alarm Clock",
+                    "description": "Digital Alarm Clock With Battery Backup",
+                    "id": "758859206554",
+                    "flavourAndScent": "black",
+                    "price": {
+                        "numericalPrice": 15.99,
+                        "formattedPrice": "$15.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/758859206554/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/758859206554/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Connected-Home/T121BXC---Digital-Alarm-Clock/p/BB_758859206554?variantCode=758859206554",
+                    "isOnSale": null,
+                    "badges": null,
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Apple",
+                    "name": "MagSafe 15W Wireless Charger",
+                    "description": "The MagSafe Charger from Apple makes wireless charging a snap. Its perfectly aligned magnets attach to your iPhone 12 or iPhone 12 Pro (or any other device with Qi wireless charging capabilities) to provide faster wireless charging. With 15W of power, you're sure to be charged up quickly.",
+                    "id": "194252192375",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 59.99,
+                        "formattedPrice": "$59.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/194252192375/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/194252192375/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Cameras%2C-Phones-%26-Accessories/Phones-%26-Accessories/MagSafe-15W-Wireless-Charger/p/BB_194252192375?variantCode=194252192375",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Amazon",
+                    "name": "Echo Show 5",
+                    "description": "Echo Show 5 – Compact smart display with Alexa – Stay connected with video calling - Charcoal",
+                    "id": "841667160375",
+                    "flavourAndScent": "Charcoal",
+                    "price": {
+                        "numericalPrice": 99.99,
+                        "formattedPrice": "$99.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/841667160375/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/841667160375/enfr/01/front/260/white.jpg",
+                    "rating": 100,
+                    "reviewCount": 1,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Connected-Home/Echo-Show-5/p/BB_841667160375?variantCode=841667160375",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Google",
+                    "name": "Nest Mini 2nd Generation",
+                    "description": "Google Nest Home Mini Gen 2",
+                    "id": "193575000862",
+                    "flavourAndScent": "Charcoal",
+                    "price": {
+                        "numericalPrice": 69.99,
+                        "formattedPrice": "$69.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/193575000862/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/193575000862/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Connected-Home/Nest-Mini-2nd-Generation/p/BB_193575000862?variantCode=193575000862",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Logitech",
+                    "name": "M310 Wireless Mouse",
+                    "description": "With its contoured design and plug-and-forget nano-receiver, the Logitech Wireless Mouse M310 is the easy-to-use, full-size mouse that feels just right. Plus, it gives you the freedom of wireless, so you can work and play with ease no matter where you are.",
+                    "id": "097855107084",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 39.99,
+                        "formattedPrice": "$39.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/97855107084/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/97855107084/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/M310-Wireless-Mouse/p/BB_097855107084?variantCode=097855107084",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": true,
+                    "isFavourite": false,
+                    "variantCount": 0,
+                    "variantUnitDescription": null,
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Logitech",
+                    "name": "M187 Wireless Mini Mouse",
+                    "description": "Logitech’s tiny Unifying receiver instantly connects the mouse to your computer—and up to five more compatible wireless mice and keyboards—using just one USB port. The receiver is so small, it can stay in your laptop. And robust 2.4 GHz wireless gives you cordless freedom plus the reliability of a wired connection.\n• Point-and-click precision\nWith Logitech Advanced Optical Tracking, you have the accurate cursor control you need to do everything on your laptop more quickly and easily.",
+                    "id": "097855082169",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 29.99,
+                        "formattedPrice": "$29.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/97855082169/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/97855082169/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/M187-Wireless-Mini-Mouse/p/BB_097855082169?variantCode=097855082169",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": true,
+                    "isFavourite": false,
+                    "variantCount": 0,
+                    "variantUnitDescription": null,
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Dlink",
+                    "name": "AC750 Dual Band Wi-Fi Range Extender",
+                    "description": "Enhance the Wi-Fi coverage in your home with the D-Link AC750 range extender. It features a Fast Ethernet port and delivers speeds up to 733Mbps, making this great for extending network coverage to Wi-Fi dead zones. As you move around your home, with Mesh Smart Roaming, your mobile device automatically connects to the strongest Wi-Fi signal.",
+                    "id": "790069434082",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 49.99,
+                        "formattedPrice": "$49.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/790069434082/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/790069434082/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Connected-Home/AC750-Dual-Band-Wi-Fi-Range-Extender/p/BB_790069434082?variantCode=790069434082",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Dlink",
+                    "name": "DSP-W320 Outdoor Wi-Fi Plug",
+                    "description": "Add smart functionality to your patio or deck with this D-Link mydlink outdoor Wi-Fi smart plug. It features two outlets so you can independently control two different devices. Turn lights on and off right from your smart phone or set schedules so your devices run during particular days and times to provide security for your home.",
+                    "id": "790069447921",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 59.99,
+                        "formattedPrice": "$59.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/790069447921/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/790069447921/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/DSP-W320-Outdoor-Wi-Fi-Plug/p/BB_790069447921?variantCode=790069447921",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Intuit",
+                    "name": "Turbotax premier",
+                    "description": "Tax Software - Minimize your Effort & Maximize your Refund with TurboTax® 2020",
+                    "id": "776171947436",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 74.99,
+                        "formattedPrice": "$74.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/776171947436/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/776171947436/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/Turbotax-premier/p/BB_776171947436?variantCode=776171947436",
+                    "isOnSale": null,
+                    "badges": null,
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Dlink",
+                    "name": "DCH-S161 Wi-Fi Water Sensor",
+                    "description": "Save yourself the costly mishaps of unseen water damage with this D-Link mydlink Wi-Fi Smart water sensor. It detects leaks or floods via a wireless sensor, triggering a 90dB alarm, as well as an LED signal for sound and sight warnings. Also receive notifications on your smartphone if you aren't at home, avoiding a long standing water disaster.",
+                    "id": "790069442773",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 59.99,
+                        "formattedPrice": "$59.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/790069442773/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/790069442773/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Connected-Home/DCH-S161-Wi-Fi-Water-Sensor/p/BB_790069442773?variantCode=790069442773",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Intuit",
+                    "name": "Turbotax home & business",
+                    "description": "Tax Software - Minimize your Effort & Maximize your Refund with TurboTax® 2020",
+                    "id": "776171947344",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 119.99,
+                        "formattedPrice": "$119.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/776171947344/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/776171947344/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/Turbotax-home-%26-business/p/BB_776171947344?variantCode=776171947344",
+                    "isOnSale": null,
+                    "badges": null,
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Apple",
+                    "name": "Smart Keyboard for iPad (7th Gen), iPad Air (3rd Gen) & iPad Pro 10.5\" - English",
+                    "description": "The Apple Smart Keyboard combines advanced technologies to create a keyboard like no other. It's a full-size English-language keyboard that's fully portable, and it connects to the iPad (7th Gen) and iPad Air (3rd Gen) with the Smart Connector. Just attach the Smart Keyboard and start typing. When you're done, it folds to create a slim, lightweight cover.",
+                    "id": "190199307001",
+                    "flavourAndScent": "Black",
+                    "price": {
+                        "numericalPrice": 219.99,
+                        "formattedPrice": "$219.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/190199307001/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/190199307001/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Cameras%2C-Phones-%26-Accessories/Phones-%26-Accessories/Smart-Keyboard-for-iPad-%287th-Gen%29%2C-iPad-Air-%283rd-Gen%29-%26-iPad-Pro-10-5%22---English/p/BB_190199307001?variantCode=190199307001",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "iStore",
+                    "name": "Type C 4-Port Hub",
+                    "description": "Turn one USB-C port into four USB-A 3.0 ports with the Targus USB-C to 4-Port USB-A Hub. Connect your USB-A peripherals – like mice, keyboards, flash drives and hard drives - by plugging in up to four devices in the USB-A ports and connecting the tethered USB cable into your computer's USB-C port. This hub provides transfer speeds up to 5Gbps",
+                    "id": "092636341435",
+                    "flavourAndScent": "Silver",
+                    "price": {
+                        "numericalPrice": 49.99,
+                        "formattedPrice": "$49.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/092636341435/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/092636341435/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/Type-C-4-Port-Hub/p/BB_092636341435?variantCode=092636341435",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Timex",
+                    "name": "T231GRY6 - AM/FM Clock Radio with Digital Tuning",
+                    "description": "Play Your Music Dual Alarm",
+                    "id": "758859206615",
+                    "flavourAndScent": "gunmetal gray",
+                    "price": {
+                        "numericalPrice": 27.99,
+                        "formattedPrice": "$27.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/758859206615/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/758859206615/enfr/01/front/260/white.jpg",
+                    "rating": 40,
+                    "reviewCount": 1,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Connected-Home/T231GRY6---AM-FM-Clock-Radio-with-Digital-Tuning/p/BB_758859206615?variantCode=758859206615",
+                    "isOnSale": null,
+                    "badges": null,
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Apple",
+                    "name": "Smart Keyboard Folio for iPad Pro 12.9\" (4th Gen) -ENGLISH",
+                    "description": "The Smart Keyboard Folio for the 12.9-inch iPad Pro is a full-size keyboard when you need it to be, provides elegant front and back protection when you don't, and allows for convenient viewing angles. Plus, with no charging or pairing required, you can just attach the keyboard and start typing.\nHave questions",
+                    "id": "190199569027",
+                    "flavourAndScent": "Black",
+                    "price": {
+                        "numericalPrice": 269.99,
+                        "formattedPrice": "$269.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/190199569027/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/190199569027/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Cameras%2C-Phones-%26-Accessories/Phones-%26-Accessories/Smart-Keyboard-Folio-for-iPad-Pro-12-9%22-%284th-Gen%29--ENGLISH/p/BB_190199569027?variantCode=190199569027",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Sandisk",
+                    "name": "32GB Cruzer Glide USB 2.0 Flash Drive",
+                    "description": "32GB Cruzer Glide USB 2.0 Flash Drive",
+                    "id": "619659075620",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 47.99,
+                        "formattedPrice": "$47.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/619659075620/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/619659075620/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/32GB-Cruzer-Glide-USB-2-0-Flash-Drive/p/BB_619659075620?variantCode=619659075620",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "iStore",
+                    "name": "Tech Accessory Pouch",
+                    "description": "Keep your PC and tablet accessories organized and at the ready with the Targus® CitySmart Tech Accessory Pouch. Durable and spacious, it’s perfect for storing and protecting small tech accessories including cables, cords, mice, flash drives and more.",
+                    "id": "092636346171",
+                    "flavourAndScent": "Gray",
+                    "price": {
+                        "numericalPrice": 29.99,
+                        "formattedPrice": "$29.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/092636346171/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/092636346171/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/Tech-Accessory-Pouch/p/BB_092636346171?variantCode=092636346171",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Intuit",
+                    "name": "Turbotax business inc.",
+                    "description": "Tax Software - Minimize your Effort & Maximize your Refund with TurboTax® 2020",
+                    "id": "776171947290",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 249.99,
+                        "formattedPrice": "$249.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/776171947290/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/776171947290/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/Turbotax-business-inc-/p/BB_776171947290?variantCode=776171947290",
+                    "isOnSale": null,
+                    "badges": null,
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Kingston",
+                    "name": "32GB USB 3.0 DataTraveler 100 G3",
+                    "description": null,
+                    "id": "740617218558",
+                    "flavourAndScent": "Black",
+                    "price": {
+                        "numericalPrice": 24.99,
+                        "formattedPrice": "$24.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/740617218558/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/740617218558/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/32GB-USB-3-0-DataTraveler-100-G3/p/BB_740617218558?variantCode=740617218558",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Sandisk",
+                    "name": "64GB Cruzer Glide USB 2.0 Flash Drive",
+                    "description": "64GB Cruzer Glide USB 2.0 Flash Drive",
+                    "id": "619659075637",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 59.99,
+                        "formattedPrice": "$59.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/619659075637/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/619659075637/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/64GB-Cruzer-Glide-USB-2-0-Flash-Drive/p/BB_619659075637?variantCode=619659075637",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "Intuit",
+                    "name": "Turbotax online 8",
+                    "description": "Tax Software - Minimize your Effort & Maximize your Refund with TurboTax® 2020",
+                    "id": "776171947399",
+                    "flavourAndScent": null,
+                    "price": {
+                        "numericalPrice": 34.99,
+                        "formattedPrice": "$34.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/776171947399/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/776171947399/enfr/01/front/260/white.jpg",
+                    "rating": 20,
+                    "reviewCount": 1,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/Turbotax-online-8/p/BB_776171947399?variantCode=776171947399",
+                    "isOnSale": null,
+                    "badges": null,
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                },
+                {
+                    "brandName": "iStore",
+                    "name": "90W Universal Laptop Power Adapter",
+                    "description": "The 90W AC Semi-Slim Universal Laptop Charger is ideal for those who need a second adapter for travel, or a replacement adapter for their current laptop. Built-in power supply protection ensures safe use with over voltage, over current, and over temperature protection to keep all of your mobile devices safe from unexpected surges and spikes.",
+                    "id": "092636306021",
+                    "flavourAndScent": "Black",
+                    "price": {
+                        "numericalPrice": 69.99,
+                        "formattedPrice": "$69.99",
+                        "__typename": "Price"
+                    },
+                    "salePrice": null,
+                    "smallThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/092636306021/enfr/01/front/130/white.jpg",
+                    "largeThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/092636306021/enfr/01/front/260/white.jpg",
+                    "rating": 0,
+                    "reviewCount": null,
+                    "url": "/Shop/Categories/Electronics/Electronics/Computers-%26-Smart-Tech/Computer-Accessories-%26-Software/90W-Universal-Laptop-Power-Adapter/p/BB_092636306021?variantCode=092636306021",
+                    "isOnSale": null,
+                    "badges": [
+                        {
+                            "uid": "new",
+                            "name": "New",
+                            "type": "RIBBON",
+                            "__typename": "Badge"
+                        }
+                    ],
+                    "isOutOfStock": false,
+                    "isFavourite": false,
+                    "variantCount": 1,
+                    "variantUnitDescription": "1 size",
+                    "priceRange": null,
+                    "variantType": "DEFAULT",
+                    "__typename": "Product"
+                }
+            ],
+            "pagination": {
+                "currentPage": 0,
+                "pageSize": 60,
+                "totalPages": 5,
+                "totalResults": 65,
+                "__typename": "Pagination"
+            },
+            "breadcrumbs": [
+                {
+                    "name": "Electronics",
+                    "url": "/Shop/Categories/Electronics/c/FS-EL",
+                    "__typename": "Link"
+                },
+                {
+                    "name": "Electronics",
+                    "url": "/Shop/Categories/Electronics/Electronics/c/FS-EL-Electronics",
+                    "__typename": "Link"
+                }
+            ],
+            "categoryName": "Computers & Smart Tech",
+            "subcategories": [
+                {
+                    "name": "Computer Accessories & Software",
+                    "code": "FS-EL-304",
+                    "__typename": "Subcategories"
+                },
+                {
+                    "name": "Connected Home",
+                    "code": "FS-EL-501",
+                    "__typename": "Subcategories"
+                },
+                {
+                    "name": "Notebooks",
+                    "code": "FS-EL-502",
+                    "__typename": "Subcategories"
+                },
+                {
+                    "name": "Smartwatches",
+                    "code": "FS-EL-505",
+                    "__typename": "Subcategories"
+                },
+                {
+                    "name": "Tablets & eReaders",
+                    "code": "FS-EL-503",
+                    "__typename": "Subcategories"
+                }
+            ],
+            "editorialBrandPageUrl": null,
+            "__typename": "ProductList",
+            "sorts": [
+                {
+                    "value": "trending",
+                    "name": "Recommended",
+                    "selected": true,
+                    "__typename": "Sort"
+                },
+                {
+                    "value": "price-asc",
+                    "name": "Price: low to high",
+                    "selected": false,
+                    "__typename": "Sort"
+                },
+                {
+                    "value": "price-desc",
+                    "name": "Price: high to low",
+                    "selected": false,
+                    "__typename": "Sort"
+                },
+                {
+                    "value": "top-rated",
+                    "name": "Top rated",
+                    "selected": false,
+                    "__typename": "Sort"
+                },
+                {
+                    "value": "newest",
+                    "name": "Newest",
+                    "selected": false,
+                    "__typename": "Sort"
+                }
+            ]
+        }
+    }
+}

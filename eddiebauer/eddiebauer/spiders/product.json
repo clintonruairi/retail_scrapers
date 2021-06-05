@@ -1,0 +1,1563 @@
+{
+    "data": {
+        "product": {
+            "code": "10112655",
+            "name": "CirrusLite Down Hooded Jacket",
+            "slug": "cirruslite-down-hooded-jacket",
+            "description": "<p>The sub-zero warmth and lightweight comfort of Premium Down insulation makes easy work of harsh winter. This hooded jacket's water-repellent nylon shell provides another level of protection.</p><p><b>NOTE:</b> Temperature ratings are based on a controlled laboratory test by an independent university lab. Also consider: your sensitivity to cold and wind-chill; time of exposure; activity level; and use of layering.</p><p>Models shown are 6'0\" to 6'2\" tall, wearing size M/32x32.</p>",
+            "attributes": {
+                "displayName": "Men's CirrusLite Down Hooded Jacket",
+                "rating": 4.4,
+                "numberOfReviews": 257,
+                "dateAvailable": "2020-08-10T05:00:00.000Z",
+                "daysAvailable": "-15",
+                "dropShipIndicator": false,
+                "facetableProductIcons": null,
+                "fit": null,
+                "freightCharges": "0.00",
+                "getTheLook": "",
+                "giftBox": "T",
+                "giftCard": "F",
+                "giftMessage": true,
+                "hazmat": "",
+                "isActive": true,
+                "isCustom": false,
+                "isDisplay": true,
+                "isProductAvailable": true,
+                "legShape": null,
+                "nonreturnable": false,
+                "onlineOnly": "",
+                "pdpTabName1": "OVERVIEW",
+                "perishable": false,
+                "productSimpleUrl": "/product/mens-cirruslite-down-hooded-jacket/10112655",
+                "productUrl": "/product/mens-cirruslite-down-hooded-jacket/10112655",
+                "referenceId": "10112655",
+                "siteAwareAssets": null,
+                "summary": "The sub-zero warmth and lightweight comfort of Premium Down insulation makes easy work of harsh winter. This hooded jacket's water-repellent nylon shell provides another level of protection.",
+                "newPdpIconsDesc": "<ul class='product_icons_list'><li class='icon'><img src='//eddiebauer.scene7.com/is/content/EddieBauer/warmerMinus15?fmt=svg' alt=''/><div class='title'>Temp Rating<br>(Moderate Activity)</div></li><li class='icon'><img src='//eddiebauer.scene7.com/is/content/EddieBauer/FillPower650?fmt=svg' alt=''/><div class='title'>Fill Power</div></li><li class='icon'><img src='//eddiebauer.scene7.com/is/content/EddieBauer/StormRepelDWR?fmt=svg' alt=''/><div class='title'>StormRepel DWR</div></li><li class='icon'><img src='//eddiebauer.scene7.com/is/content/EddieBauer/Lightweight?fmt=svg' alt=''/><div class='title'>Lightweight</div></li><li class='icon'><img src='//eddiebauer.scene7.com/is/content/EddieBauer/SecurePocket?fmt=svg' alt=''/><div class='title'>Secure Pocket</div></li></ul>",
+                "newPdpAwardsDesc": "",
+                "newPdpCareDesc": "Secure all garment closures before laundering. Machine wash warm delicate, separately, using mild detergent only. Do not bleach or use fabric softeners. Rinse thoroughly and remove promptly. Tumble dry low. Do not hang to dry. Do not iron or steam. For best results, dry with clean tennis ball.",
+                "newPdpMaterialContent": "<li>100% nylon</li><li>Imported</li>",
+                "newPdpfeaturesContent": "<li>StormRepel® DWR finish sheds moisture</li><li>650 fill Responsible Down Standard (RDS) down, certified by Control Union <a href=\"/responsible-sourcing\" title=\"Responsible Down Standard (RDS)-certified down insulation\" style=\"color:blue\" >More About RDS</a></li><li>Secure zip hand pockets</li><li>Elastic cuffs and hem help seal out cold</li><li>Down Fill Weight: 109.76g</li><li>Classic. A universal fit. Not too slim, not too relaxed on body. Designed to fit over midweight layers.</li>",
+                "newPdpFeaturedReviewsDesc": "",
+                "pdpFeaturesList": [],
+                "pdpMaterialList": [],
+                "keywords": [],
+                "series": ""
+            },
+            "images": [
+                "0010232_010F1",
+                "0010232_045F1",
+                "0010232_100F2",
+                "0010232_272F1",
+                "0010232_420F1",
+                "0010232_610F1",
+                "0010232_663F1",
+                "0010232_685F1",
+                "0010232_707F1",
+                "0010232_045J1",
+                "0010232_100J1",
+                "0010232_272J1",
+                "0010232_420J1",
+                "0010232_610J1",
+                "0010232_685J1",
+                "0010232_707J1",
+                "0010232_010P1",
+                "0010232_045P1",
+                "0010232_663P1",
+                "0010232_685P1",
+                "0010232_685P2",
+                "0010232_685P3",
+                "0010232_707P1",
+                "0010232_707P2",
+                "0010232_707P3"
+            ],
+            "videos": [],
+            "isNewProduct": false,
+            "hasNewStyle": false,
+            "items": [
+                {
+                    "code": "0010232707000070",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_707C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 129,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 96.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Dk Smoke",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Regular",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010232707000080",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_707C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 129,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 96.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Dk Smoke",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XXL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Regular",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010232707000050",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_707C1",
+                    "quantity": 211,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 129,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 96.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Dk Smoke",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "M",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Regular",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": false,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010232707000040",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_707C1",
+                    "quantity": 9,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 129,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 96.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Dk Smoke",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "S",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Regular",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": false,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010232100000050",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_100C1",
+                    "quantity": 1,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 129,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 96.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Black",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "M",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Regular",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": false,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010232100000060",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_100C1",
+                    "quantity": 7,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 129,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 96.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Black",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "L",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Regular",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": false,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010232100000040",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_100C1",
+                    "quantity": 2,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 129,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 96.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Black",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "S",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Regular",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": false,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010232100000080",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_100C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 129,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 96.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Black",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XXL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Regular",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010232707000060",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_707C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 129,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 96.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Dk Smoke",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "L",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Regular",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010232100000070",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_100C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 129,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 96.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Black",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Regular",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242707000050",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_707C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Dk Smoke",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "M",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242100000050",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_100C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Black",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "M",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242100000060",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_100C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Black",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "L",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242100000080",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_100C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Black",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XXL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242100000070",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_100C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Black",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242707000070",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_707C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Dk Smoke",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242707000080",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_707C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Dk Smoke",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XXL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242100000090",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_100C1",
+                    "quantity": 3,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Black",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XXXL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": false,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242707000090",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_707C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Dk Smoke",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XXXL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242707000060",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_707C1",
+                    "quantity": 1,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Dk Smoke",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "L",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": false,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242010000080",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_010C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Dark Sable",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XXL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242663000090",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_663C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Avocado",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XXXL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242010000070",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_010C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Dark Sable",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242663000080",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_663C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Avocado",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XXL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242010000050",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_010C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Dark Sable",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "M",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242663000070",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_663C1",
+                    "quantity": 1,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Avocado",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": false,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242010000090",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_010C1",
+                    "quantity": 4,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Dark Sable",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "XXXL",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": false,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242663000050",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_663C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Avocado",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "M",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242010000060",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_010C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Dark Sable",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "L",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                },
+                {
+                    "code": "0010242663000060",
+                    "isSkuIdentical": true,
+                    "isDefaultSku": false,
+                    "mainImage": "D0010232_663C1",
+                    "quantity": 0,
+                    "poQuantity": 0,
+                    "fulfillDate": "",
+                    "price": {
+                        "list": {
+                            "currency": "USD",
+                            "amount": 149,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "current": {
+                            "currency": "USD",
+                            "amount": 111.75,
+                            "kind": "792",
+                            "__typename": "Price"
+                        },
+                        "__typename": "SkuPrice"
+                    },
+                    "variants": [
+                        {
+                            "label": "colorName",
+                            "name": "colorName",
+                            "value": "Avocado",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "sizeName",
+                            "name": "sizeName",
+                            "value": "L",
+                            "__typename": "ProductVariant"
+                        },
+                        {
+                            "label": "styleName",
+                            "name": "styleName",
+                            "value": "Tall",
+                            "__typename": "ProductVariant"
+                        }
+                    ],
+                    "hemming": null,
+                    "isNew": false,
+                    "isSoldOut": true,
+                    "__typename": "ProductItem"
+                }
+            ],
+            "ratings": {
+                "value": 4.4,
+                "count": 257,
+                "__typename": "ProductRatings"
+            },
+            "productGroups": [
+                {
+                    "id": "2",
+                    "label": "Men",
+                    "code": "cat20001",
+                    "__typename": "ProductGroups"
+                },
+                {
+                    "id": "1",
+                    "label": "Outerwear",
+                    "code": "cat20015",
+                    "__typename": "ProductGroups"
+                },
+                {
+                    "id": "0",
+                    "label": "Insulated",
+                    "code": "cat580033",
+                    "__typename": "ProductGroups"
+                },
+                {
+                    "id": null,
+                    "label": "Down Insulated",
+                    "code": "cat460003",
+                    "__typename": "ProductGroups"
+                }
+            ],
+            "promo": {
+                "pdp": {
+                    "promoName": null,
+                    "promoDisplayContent": null,
+                    "__typename": "PromoInstance"
+                },
+                "__typename": "PromoWrapper"
+            },
+            "isSoldOut": false,
+            "__typename": "Product"
+        }
+    }
+}

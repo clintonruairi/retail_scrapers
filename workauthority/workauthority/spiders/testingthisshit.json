@@ -1,0 +1,518 @@
+{
+    "id": 4535166468119,
+    "title": "CAT Trademark Hooded Work Sweater - W10646",
+    "handle": "cat-trademark-hooded-work-sweater-w10646",
+    "description": "<p data-mce-fragment=\"1\">A staple for any Cat fan, this pullover work hoodie has a high quality embroidered logo on the front, perfect for showing your love for the Cat brand.</p>",
+    "published_at": "2020-10-13T14:46:10-04:00",
+    "created_at": "2020-09-10T10:33:04-04:00",
+    "vendor": "Cat",
+    "type": "Sweaters",
+    "tags": [
+        "2XL",
+        "50-100",
+        "cat",
+        "caterpillar",
+        "colour-black",
+        "colour-blue",
+        "hoodie",
+        "LRG",
+        "MED",
+        "Mens",
+        "new-arrivals",
+        "size-lrg",
+        "size-med",
+        "size-xl",
+        "sweater",
+        "sweaters",
+        "XL"
+    ],
+    "price": 7699,
+    "price_min": 7699,
+    "price_max": 7699,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+        {
+            "id": 31754387324951,
+            "title": "MED / BLUE",
+            "option1": "MED",
+            "option2": "BLUE",
+            "option3": null,
+            "sku": "882600755753",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 14172362113047,
+                "product_id": 4535166468119,
+                "position": 2,
+                "created_at": "2020-09-10T22:25:49-04:00",
+                "updated_at": "2020-09-10T22:25:49-04:00",
+                "alt": null,
+                "width": 1000,
+                "height": 1000,
+                "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646_ecdfc507-d5fd-4c14-9801-12ce6496802b.jpg?v=1599791149",
+                "variant_ids": [
+                    31754387324951,
+                    31754387390487,
+                    31754387456023,
+                    31754387521559
+                ]
+            },
+            "available": true,
+            "name": "CAT Trademark Hooded Work Sweater - W10646 - MED / BLUE",
+            "public_title": "MED / BLUE",
+            "options": [
+                "MED",
+                "BLUE"
+            ],
+            "price": 7699,
+            "weight": 0,
+            "compare_at_price": null,
+            "inventory_quantity": 1,
+            "inventory_management": "shopify",
+            "inventory_policy": "deny",
+            "barcode": "",
+            "featured_media": {
+                "alt": null,
+                "id": 6345451733015,
+                "position": 2,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 1000,
+                    "width": 1000,
+                    "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646_ecdfc507-d5fd-4c14-9801-12ce6496802b.jpg?v=1599791149"
+                }
+            },
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 31754387357719,
+            "title": "MED / BLACK",
+            "option1": "MED",
+            "option2": "BLACK",
+            "option3": null,
+            "sku": "882600518914",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 14172362080279,
+                "product_id": 4535166468119,
+                "position": 1,
+                "created_at": "2020-09-10T22:25:49-04:00",
+                "updated_at": "2020-09-10T22:25:49-04:00",
+                "alt": null,
+                "width": 1000,
+                "height": 1000,
+                "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646.jpg?v=1599791149",
+                "variant_ids": [
+                    31754387357719,
+                    31754387423255,
+                    31754387488791,
+                    31754387554327
+                ]
+            },
+            "available": false,
+            "name": "CAT Trademark Hooded Work Sweater - W10646 - MED / BLACK",
+            "public_title": "MED / BLACK",
+            "options": [
+                "MED",
+                "BLACK"
+            ],
+            "price": 7699,
+            "weight": 0,
+            "compare_at_price": null,
+            "inventory_quantity": 0,
+            "inventory_management": "shopify",
+            "inventory_policy": "deny",
+            "barcode": "",
+            "featured_media": {
+                "alt": null,
+                "id": 6345451700247,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 1000,
+                    "width": 1000,
+                    "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646.jpg?v=1599791149"
+                }
+            },
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 31754387390487,
+            "title": "LRG / BLUE",
+            "option1": "LRG",
+            "option2": "BLUE",
+            "option3": null,
+            "sku": "882600755760",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 14172362113047,
+                "product_id": 4535166468119,
+                "position": 2,
+                "created_at": "2020-09-10T22:25:49-04:00",
+                "updated_at": "2020-09-10T22:25:49-04:00",
+                "alt": null,
+                "width": 1000,
+                "height": 1000,
+                "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646_ecdfc507-d5fd-4c14-9801-12ce6496802b.jpg?v=1599791149",
+                "variant_ids": [
+                    31754387324951,
+                    31754387390487,
+                    31754387456023,
+                    31754387521559
+                ]
+            },
+            "available": true,
+            "name": "CAT Trademark Hooded Work Sweater - W10646 - LRG / BLUE",
+            "public_title": "LRG / BLUE",
+            "options": [
+                "LRG",
+                "BLUE"
+            ],
+            "price": 7699,
+            "weight": 0,
+            "compare_at_price": null,
+            "inventory_quantity": 2,
+            "inventory_management": "shopify",
+            "inventory_policy": "deny",
+            "barcode": "",
+            "featured_media": {
+                "alt": null,
+                "id": 6345451733015,
+                "position": 2,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 1000,
+                    "width": 1000,
+                    "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646_ecdfc507-d5fd-4c14-9801-12ce6496802b.jpg?v=1599791149"
+                }
+            },
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 31754387423255,
+            "title": "LRG / BLACK",
+            "option1": "LRG",
+            "option2": "BLACK",
+            "option3": null,
+            "sku": "882600518921",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 14172362080279,
+                "product_id": 4535166468119,
+                "position": 1,
+                "created_at": "2020-09-10T22:25:49-04:00",
+                "updated_at": "2020-09-10T22:25:49-04:00",
+                "alt": null,
+                "width": 1000,
+                "height": 1000,
+                "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646.jpg?v=1599791149",
+                "variant_ids": [
+                    31754387357719,
+                    31754387423255,
+                    31754387488791,
+                    31754387554327
+                ]
+            },
+            "available": false,
+            "name": "CAT Trademark Hooded Work Sweater - W10646 - LRG / BLACK",
+            "public_title": "LRG / BLACK",
+            "options": [
+                "LRG",
+                "BLACK"
+            ],
+            "price": 7699,
+            "weight": 0,
+            "compare_at_price": null,
+            "inventory_quantity": 0,
+            "inventory_management": "shopify",
+            "inventory_policy": "deny",
+            "barcode": "",
+            "featured_media": {
+                "alt": null,
+                "id": 6345451700247,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 1000,
+                    "width": 1000,
+                    "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646.jpg?v=1599791149"
+                }
+            },
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 31754387456023,
+            "title": "XL / BLUE",
+            "option1": "XL",
+            "option2": "BLUE",
+            "option3": null,
+            "sku": "882600755777",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 14172362113047,
+                "product_id": 4535166468119,
+                "position": 2,
+                "created_at": "2020-09-10T22:25:49-04:00",
+                "updated_at": "2020-09-10T22:25:49-04:00",
+                "alt": null,
+                "width": 1000,
+                "height": 1000,
+                "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646_ecdfc507-d5fd-4c14-9801-12ce6496802b.jpg?v=1599791149",
+                "variant_ids": [
+                    31754387324951,
+                    31754387390487,
+                    31754387456023,
+                    31754387521559
+                ]
+            },
+            "available": true,
+            "name": "CAT Trademark Hooded Work Sweater - W10646 - XL / BLUE",
+            "public_title": "XL / BLUE",
+            "options": [
+                "XL",
+                "BLUE"
+            ],
+            "price": 7699,
+            "weight": 0,
+            "compare_at_price": null,
+            "inventory_quantity": 1,
+            "inventory_management": "shopify",
+            "inventory_policy": "deny",
+            "barcode": "",
+            "featured_media": {
+                "alt": null,
+                "id": 6345451733015,
+                "position": 2,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 1000,
+                    "width": 1000,
+                    "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646_ecdfc507-d5fd-4c14-9801-12ce6496802b.jpg?v=1599791149"
+                }
+            },
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 31754387488791,
+            "title": "XL / BLACK",
+            "option1": "XL",
+            "option2": "BLACK",
+            "option3": null,
+            "sku": "882600518938",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 14172362080279,
+                "product_id": 4535166468119,
+                "position": 1,
+                "created_at": "2020-09-10T22:25:49-04:00",
+                "updated_at": "2020-09-10T22:25:49-04:00",
+                "alt": null,
+                "width": 1000,
+                "height": 1000,
+                "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646.jpg?v=1599791149",
+                "variant_ids": [
+                    31754387357719,
+                    31754387423255,
+                    31754387488791,
+                    31754387554327
+                ]
+            },
+            "available": false,
+            "name": "CAT Trademark Hooded Work Sweater - W10646 - XL / BLACK",
+            "public_title": "XL / BLACK",
+            "options": [
+                "XL",
+                "BLACK"
+            ],
+            "price": 7699,
+            "weight": 0,
+            "compare_at_price": null,
+            "inventory_quantity": 0,
+            "inventory_management": "shopify",
+            "inventory_policy": "deny",
+            "barcode": "",
+            "featured_media": {
+                "alt": null,
+                "id": 6345451700247,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 1000,
+                    "width": 1000,
+                    "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646.jpg?v=1599791149"
+                }
+            },
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 31754387521559,
+            "title": "2XL / BLUE",
+            "option1": "2XL",
+            "option2": "BLUE",
+            "option3": null,
+            "sku": "882600755784",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 14172362113047,
+                "product_id": 4535166468119,
+                "position": 2,
+                "created_at": "2020-09-10T22:25:49-04:00",
+                "updated_at": "2020-09-10T22:25:49-04:00",
+                "alt": null,
+                "width": 1000,
+                "height": 1000,
+                "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646_ecdfc507-d5fd-4c14-9801-12ce6496802b.jpg?v=1599791149",
+                "variant_ids": [
+                    31754387324951,
+                    31754387390487,
+                    31754387456023,
+                    31754387521559
+                ]
+            },
+            "available": false,
+            "name": "CAT Trademark Hooded Work Sweater - W10646 - 2XL / BLUE",
+            "public_title": "2XL / BLUE",
+            "options": [
+                "2XL",
+                "BLUE"
+            ],
+            "price": 7699,
+            "weight": 0,
+            "compare_at_price": null,
+            "inventory_quantity": 0,
+            "inventory_management": "shopify",
+            "inventory_policy": "deny",
+            "barcode": "",
+            "featured_media": {
+                "alt": null,
+                "id": 6345451733015,
+                "position": 2,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 1000,
+                    "width": 1000,
+                    "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646_ecdfc507-d5fd-4c14-9801-12ce6496802b.jpg?v=1599791149"
+                }
+            },
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        },
+        {
+            "id": 31754387554327,
+            "title": "2XL / BLACK",
+            "option1": "2XL",
+            "option2": "BLACK",
+            "option3": null,
+            "sku": "882600518945",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 14172362080279,
+                "product_id": 4535166468119,
+                "position": 1,
+                "created_at": "2020-09-10T22:25:49-04:00",
+                "updated_at": "2020-09-10T22:25:49-04:00",
+                "alt": null,
+                "width": 1000,
+                "height": 1000,
+                "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646.jpg?v=1599791149",
+                "variant_ids": [
+                    31754387357719,
+                    31754387423255,
+                    31754387488791,
+                    31754387554327
+                ]
+            },
+            "available": false,
+            "name": "CAT Trademark Hooded Work Sweater - W10646 - 2XL / BLACK",
+            "public_title": "2XL / BLACK",
+            "options": [
+                "2XL",
+                "BLACK"
+            ],
+            "price": 7699,
+            "weight": 0,
+            "compare_at_price": null,
+            "inventory_quantity": 0,
+            "inventory_management": "shopify",
+            "inventory_policy": "deny",
+            "barcode": "",
+            "featured_media": {
+                "alt": null,
+                "id": 6345451700247,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 1000,
+                    "width": 1000,
+                    "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646.jpg?v=1599791149"
+                }
+            },
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        }
+    ],
+    "images": [
+        "//cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646.jpg?v=1599791149",
+        "//cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646_ecdfc507-d5fd-4c14-9801-12ce6496802b.jpg?v=1599791149"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646.jpg?v=1599791149",
+    "options": [
+        "Size",
+        "Color"
+    ],
+    "media": [
+        {
+            "alt": null,
+            "id": 6345451700247,
+            "position": 1,
+            "preview_image": {
+                "aspect_ratio": 1,
+                "height": 1000,
+                "width": 1000,
+                "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646.jpg?v=1599791149"
+            },
+            "aspect_ratio": 1,
+            "height": 1000,
+            "media_type": "image",
+            "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646.jpg?v=1599791149",
+            "width": 1000
+        },
+        {
+            "alt": null,
+            "id": 6345451733015,
+            "position": 2,
+            "preview_image": {
+                "aspect_ratio": 1,
+                "height": 1000,
+                "width": 1000,
+                "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646_ecdfc507-d5fd-4c14-9801-12ce6496802b.jpg?v=1599791149"
+            },
+            "aspect_ratio": 1,
+            "height": 1000,
+            "media_type": "image",
+            "src": "https://cdn.shopify.com/s/files/1/1271/4989/products/CATTrademarkHoodedWorkSweater-W10646_ecdfc507-d5fd-4c14-9801-12ce6496802b.jpg?v=1599791149",
+            "width": 1000
+        }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "content": "<p data-mce-fragment=\"1\">A staple for any Cat fan, this pullover work hoodie has a high quality embroidered logo on the front, perfect for showing your love for the Cat brand.</p>"
+}

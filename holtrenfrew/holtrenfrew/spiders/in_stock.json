@@ -1,0 +1,277 @@
+
+{"data":[
+	
+    {
+        "defaultStoreMessage" : "Default Store",
+        "defaultStoreName" : "",
+        "name" : "CALGARY",
+        "localizedName" : "Calgary",
+        "town" : "Calgary",
+        "phone" : "403-269-7341",
+        "province" : "AB",
+        "line1" : "510 8th Avenue SW",
+        "line2" : "",
+        "country" : "Canada",
+        "postalCode" : "T2P 4H9",
+        "formattedDistance" : "0 Km",
+        "url" : "",
+        "stockPickup" : "<div class='resultStock text-uppercase'>In Stock</div>",
+        "canPickedUp" : true,
+        "bopisDisabledMessage" : "",
+        "stockLevel" : 1,
+        "bopisDeliveryOption": "Order in <strong>9h 7m </strong> for Same Day Pick Up at&nbsp;Calgary",
+        "bopisDeliveryOptionWithStockStatus": "Order in <strong>9h 7m </strong> for Same Day Pick Up at&nbsp;Calgary",
+        "bopisTimeOption": "true",
+        "stockStatusCode": "inStock",
+        
+"openings":
+    {
+    
+                    "Sun":"12:00 PM - 6:00 PM",
+                    "Mon":"10:00 AM - 6:00 PM",
+                    "Tue":"10:00 AM - 6:00 PM",
+                    "Wed":"10:00 AM - 6:00 PM",
+                    "Thu":"10:00 AM - 8:00 PM",
+                    "Fri":"10:00 AM - 8:00 PM",
+                    "Sat":"10:00 AM - 7:00 PM"
+    },
+
+        "productcode":"20180047001",
+        "storeLatitude":"51.04605",
+        "storeLongitude":"-114.07191"
+    },
+    {
+        "defaultStoreMessage" : "Default Store",
+        "defaultStoreName" : "",
+        "name" : "MONTREAL OGILVY",
+        "localizedName" : "Ogilvy",
+        "town" : "Montreal",
+        "phone" : "514-842-7711",
+        "province" : "QC",
+        "line1" : "1307 Sainte-Catherine Street W.",
+        "line2" : "",
+        "country" : "Canada",
+        "postalCode" : "H3G 1P7",
+        "formattedDistance" : "0 Km",
+        "url" : "",
+        "stockPickup" : "<div class='resultStock text-uppercase'>In Stock</div>",
+        "canPickedUp" : true,
+        "bopisDisabledMessage" : "",
+        "stockLevel" : 1,
+        "bopisDeliveryOption": "Order in <strong>7h 7m </strong> for Same Day Pick Up at&nbsp;Ogilvy",
+        "bopisDeliveryOptionWithStockStatus": "Order in <strong>7h 7m </strong> for Same Day Pick Up at&nbsp;Ogilvy",
+        "bopisTimeOption": "true",
+        "stockStatusCode": "inStock",
+        
+"openings":
+    {
+    
+                    "Sun":"11:00 AM - 6:00 PM",
+                    "Mon":"10:00 AM - 6:00 PM",
+                    "Tue":"10:00 AM - 6:00 PM",
+                    "Wed":"10:00 AM - 6:00 PM",
+                    "Thu":"10:00 AM - 9:00 PM",
+                    "Fri":"10:00 AM - 9:00 PM",
+                    "Sat":"9:30 AM - 6:30 PM"
+    },
+
+        "productcode":"20180047001",
+        "storeLatitude":"45.49774",
+        "storeLongitude":"-73.57535"
+    },
+    {
+        "defaultStoreMessage" : "Default Store",
+        "defaultStoreName" : "",
+        "name" : "VANCOUVER",
+        "localizedName" : "Vancouver",
+        "town" : "Vancouver",
+        "phone" : "604-681-3121",
+        "province" : "BC",
+        "line1" : "737 Dunsmuir Street",
+        "line2" : "",
+        "country" : "Canada",
+        "postalCode" : "V7Y 1E4",
+        "formattedDistance" : "0 Km",
+        "url" : "",
+        "stockPickup" : "<div class='resultStock text-uppercase'>In Stock</div>",
+        "canPickedUp" : true,
+        "bopisDisabledMessage" : "",
+        "stockLevel" : 1,
+        "bopisDeliveryOption": "Order in <strong>10h 7m </strong> for Same Day Pick Up at&nbsp;Vancouver",
+        "bopisDeliveryOptionWithStockStatus": "Order in <strong>10h 7m </strong> for Same Day Pick Up at&nbsp;Vancouver",
+        "bopisTimeOption": "true",
+        "stockStatusCode": "inStock",
+        
+"openings":
+    {
+    
+                    "Sun":"11:00 AM - 7:00 PM",
+                    "Mon":"10:00 AM - 7:00 PM",
+                    "Tue":"10:00 AM - 7:00 PM",
+                    "Wed":"10:00 AM - 9:00 PM",
+                    "Thu":"10:00 AM - 9:00 PM",
+                    "Fri":"10:00 AM - 9:00 PM",
+                    "Sat":"10:00 AM - 8:00 PM"
+    },
+
+        "productcode":"20180047001",
+        "storeLatitude":"49.28437",
+        "storeLongitude":"-123.11643"
+    },
+    {
+        "defaultStoreMessage" : "Default Store",
+        "defaultStoreName" : "",
+        "name" : "MISSISSAUGA SQUARE ONE",
+        "localizedName" : "Square One",
+        "town" : "Mississauga",
+        "phone" : "905-897-1044",
+        "province" : "ON",
+        "line1" : "100 City Centre Dr.",
+        "line2" : "",
+        "country" : "Canada",
+        "postalCode" : "L5B 2C9",
+        "formattedDistance" : "0 Km",
+        "url" : "",
+        "stockPickup" : "<div class='resultStock negative text-uppercase'>Out of Stock</div>",
+        "canPickedUp" : false,
+        "bopisDisabledMessage" : "",
+        "stockLevel" : 0,
+        "bopisDeliveryOption": "Out of Stock at Square One",
+        "bopisDeliveryOptionWithStockStatus": "Out of Stock at Square One",
+        "bopisTimeOption": "true",
+        "stockStatusCode": "outOfStock",
+        
+"openings":
+    {
+    
+                    "Sun":"11:00 AM - 7:00 PM",
+                    "Mon":"10:00 AM - 9:00 PM",
+                    "Tue":"10:00 AM - 9:00 PM",
+                    "Wed":"10:00 AM - 9:00 PM",
+                    "Thu":"10:00 AM - 9:00 PM",
+                    "Fri":"10:00 AM - 9:00 PM",
+                    "Sat":"9:30 AM - 9:00 PM"
+    },
+
+        "productcode":"20180047001",
+        "storeLatitude":"43.59312",
+        "storeLongitude":"-79.64235"
+    },
+    {
+        "defaultStoreMessage" : "Default Store",
+        "defaultStoreName" : "",
+        "name" : "TORONTO HOLT RENFREW MEN",
+        "localizedName" : "Bloor Men",
+        "town" : "Toronto",
+        "phone" : "416-960-2929",
+        "province" : "ON",
+        "line1" : "100 Bloor Street West",
+        "line2" : "",
+        "country" : "Canada",
+        "postalCode" : "M5S 3L3",
+        "formattedDistance" : "0 Km",
+        "url" : "",
+        "stockPickup" : "<div class='resultStock negative text-uppercase'>Out of Stock</div>",
+        "canPickedUp" : false,
+        "bopisDisabledMessage" : "",
+        "stockLevel" : 0,
+        "bopisDeliveryOption": "Out of Stock at Bloor Men",
+        "bopisDeliveryOptionWithStockStatus": "Out of Stock at Bloor Men",
+        "bopisTimeOption": "true",
+        "stockStatusCode": "outOfStock",
+        
+"openings":
+    {
+    
+                    "Sun":"11:00 AM - 7:00 PM",
+                    "Mon":"10:00 AM - 8:00 PM",
+                    "Tue":"10:00 AM - 8:00 PM",
+                    "Wed":"10:00 AM - 8:00 PM",
+                    "Thu":"10:00 AM - 9:00 PM",
+                    "Fri":"10:00 AM - 9:00 PM",
+                    "Sat":"10:00 AM - 8:00 PM"
+    },
+
+        "productcode":"20180047001",
+        "storeLatitude":"43.66971",
+        "storeLongitude":"-79.39121"
+    },
+    {
+        "defaultStoreMessage" : "Default Store",
+        "defaultStoreName" : "",
+        "name" : "TORONTO YORKDALE",
+        "localizedName" : "Yorkdale",
+        "town" : "Toronto",
+        "phone" : "416-789-5377",
+        "province" : "ON",
+        "line1" : "3401 Dufferin Street",
+        "line2" : "",
+        "country" : "Canada",
+        "postalCode" : "M6A 2T9",
+        "formattedDistance" : "0 Km",
+        "url" : "",
+        "stockPickup" : "<div class='resultStock negative text-uppercase'>Out of Stock</div>",
+        "canPickedUp" : false,
+        "bopisDisabledMessage" : "",
+        "stockLevel" : 0,
+        "bopisDeliveryOption": "Out of Stock at Yorkdale",
+        "bopisDeliveryOptionWithStockStatus": "Out of Stock at Yorkdale",
+        "bopisTimeOption": "true",
+        "stockStatusCode": "outOfStock",
+        
+"openings":
+    {
+    
+                    "Sun":"11:00 AM - 7:00 PM",
+                    "Mon":"10:00 AM - 9:00 PM",
+                    "Tue":"10:00 AM - 9:00 PM",
+                    "Wed":"10:00 AM - 9:00 PM",
+                    "Thu":"10:00 AM - 9:00 PM",
+                    "Fri":"10:00 AM - 9:00 PM",
+                    "Sat":"9:30 AM - 9:00 PM"
+    },
+
+        "productcode":"20180047001",
+        "storeLatitude":"43.72477",
+        "storeLongitude":"-79.45538"
+    },
+    {
+        "defaultStoreMessage" : "Default Store",
+        "defaultStoreName" : "",
+        "name" : "TORONTO",
+        "localizedName" : "Bloor",
+        "town" : "Toronto",
+        "phone" : "416-922-2333",
+        "province" : "ON",
+        "line1" : "50 Bloor Street West",
+        "line2" : "",
+        "country" : "Canada",
+        "postalCode" : "M4W 1A1",
+        "formattedDistance" : "0 Km",
+        "url" : "",
+        "stockPickup" : "<div class='resultStock negative text-uppercase'>Out of Stock</div>",
+        "canPickedUp" : false,
+        "bopisDisabledMessage" : "",
+        "stockLevel" : 0,
+        "bopisDeliveryOption": "Out of Stock at Bloor",
+        "bopisDeliveryOptionWithStockStatus": "Out of Stock at Bloor",
+        "bopisTimeOption": "true",
+        "stockStatusCode": "outOfStock",
+        
+"openings":
+    {
+    
+                    "Sun":"11:00 AM - 7:00 PM",
+                    "Mon":"10:00 AM - 8:00 PM",
+                    "Tue":"10:00 AM - 8:00 PM",
+                    "Wed":"10:00 AM - 8:00 PM",
+                    "Thu":"10:00 AM - 9:00 PM",
+                    "Fri":"10:00 AM - 9:00 PM",
+                    "Sat":"10:00 AM - 8:00 PM"
+    },
+
+        "productcode":"20180047001",
+        "storeLatitude":"43.66994",
+        "storeLongitude":"-79.38902"
+    }
+]}

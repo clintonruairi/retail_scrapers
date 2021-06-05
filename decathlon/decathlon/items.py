@@ -1,0 +1,25 @@
+import scrapy
+
+
+class MySQLItem(scrapy.Item):
+    product_link = scrapy.Field()
+    product_name = scrapy.Field()
+    brand = scrapy.Field()
+    category = scrapy.Field()
+    regular_price = scrapy.Field()
+    discounted_price = scrapy.Field()
+    price_unit = scrapy.Field()
+    size = scrapy.Field()
+    color = scrapy.Field()
+    flavor = scrapy.Field()
+    weight = scrapy.Field()
+    average_rating = scrapy.Field()
+    num_reviews = scrapy.Field()
+    image_link = scrapy.Field()
+    sku = scrapy.Field()
+    upc = scrapy.Field()
+    stock_level = scrapy.Field()
+    sold_by_3rd_party = scrapy.Field()
+    shipped_by = scrapy.Field()
+    data_timestamp = scrapy.Field()
+    data_year_month = scrapy.Field()

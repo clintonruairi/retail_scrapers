@@ -1,0 +1,1096 @@
+{
+    "links": {
+        "self": "/c/skirts-and-dresses-dresses/_/N-8c8?page=1",
+        "first": "/c/skirts-and-dresses-dresses/_/N-8c8?page=1",
+        "prev": "/c/skirts-and-dresses-dresses/_/N-8c8?page=1",
+        "next": "/c/skirts-and-dresses-dresses/_/N-8c8?page=1",
+        "last": "/c/skirts-and-dresses-dresses/_/N-8c8?page=1"
+    },
+    "meta": {},
+    "data": {
+        "id": "cdp",
+        "type": "ProductCategoryDetailsPage",
+        "name": "Product Category Details Pages",
+        "h1-title-tag": "Women's Dresses",
+        "isFusionQuery": true,
+        "isBopisEnabled": true,
+        "fusion-query-id": "wwGboJ92Ke",
+        "fusionExperimentVariant": "",
+        "fusionExperimentId": "",
+        "attributes": {
+            "main-content": [
+                {
+                    "recs-per-page": 1000,
+                    "paging-action-template": {
+                        "label": null,
+                        "content-path": "/c",
+                        "site-root-path": "/pages",
+                        "navigation-state": "/skirts-and-dresses-dresses/_/N-8c8?No=%7Boffset%7D"
+                    },
+                    "first-rec-num": 1,
+                    "name": "CDP Results List",
+                    "type": "CDPResultsList",
+                    "last-rec-num": 6,
+                    "total-num-recs": 6,
+                    "records": [
+                        {
+                            "parent-category-unified-id": "skirts-and-dresses-dresses",
+                            "linked-products": [
+                                ""
+                            ],
+                            "default-sku": "ca_127675105",
+                            "repository-id": "prod10370328",
+                            "bazaar-voice-id": "Pocketed_Wide_Leg_Jumpsuit",
+                            "has-linked-products": "false",
+                            "unified-id": "Pocketed-Wide-Leg-Jumpsuit",
+                            "common-id": "127675124_prod10370328",
+                            "pdp-url": "/p/skirts-and-dresses-dresses/Pocketed-Wide-Leg-Jumpsuit/_/prod10370328",
+                            "product-sale-price": [],
+                            "title": "Pocketed Wide Leg Jumpsuit | Women's Dresses",
+                            "all-available-sizes": [
+                                "8",
+                                "6",
+                                "4",
+                                "2",
+                                "14",
+                                "12",
+                                "10",
+                                "0"
+                            ],
+                            "display-name-with-br": "",
+                            "product-on-sale": "0",
+                            "color-group": [
+                                {
+                                    "name": "green",
+                                    "url": "https://images.lululemon.com/is/image/lululemon/33093?$swatch$"
+                                },
+                                {
+                                    "name": "black",
+                                    "url": "https://images.lululemon.com/is/image/lululemon/black_swatch?$swatch$"
+                                }
+                            ],
+                            "product-category-hierarchy": "[\"What's New^cat2530004\", 'women^cawomen|Dresses^cadresses']",
+                            "default-parent-category": "Dresses",
+                            "sku-style-order": [
+                                {
+                                    "color-id": "47797",
+                                    "size": "8",
+                                    "sku-style-order-id": "2",
+                                    "style-id-02": "047797",
+                                    "style-id-01": "LW1CUWS",
+                                    "color-group": "green",
+                                    "sku": "ca_127675145",
+                                    "style-id": "LW1CUWS-047797",
+                                    "color-name": "Rosemary Green"
+                                },
+                                {
+                                    "color-id": "0001",
+                                    "size": "8",
+                                    "sku-style-order-id": "1",
+                                    "style-id-02": "0001",
+                                    "style-id-01": "LW1CUWS",
+                                    "color-group": "black",
+                                    "sku": "ca_127675122",
+                                    "style-id": "LW1CUWS-0001",
+                                    "color-name": "Black"
+                                }
+                            ],
+                            "display-name": "Pocketed Wide Leg Jumpsuit",
+                            "sku-style-number": [
+                                "LW1CUWS-047797",
+                                "LW1CUWS-0001"
+                            ],
+                            "product-applicable-systems": "All",
+                            "sku-sku-images": [
+                                "https://images.lululemon.com/is/image/lululemon/LW1CUWS_047797_1",
+                                "https://images.lululemon.com/is/image/lululemon/LW1CUWS_047797_2",
+                                "https://images.lululemon.com/is/image/lululemon/LW1CUWS_0001_1",
+                                "https://images.lululemon.com/is/image/lululemon/LW1CUWS_0001_2"
+                            ],
+                            "currency-code": "CAD",
+                            "product-whats-new": "1",
+                            "f5-bckimg-url": "https://images.lululemon.com/is/image/lululemon/LW5BEHS_0001_Z",
+                            "list-price": [
+                                "138.00"
+                            ],
+                            "product-silver": "false",
+                            "image-scheme": "Old",
+                            "parent-category-display-name": "Dresses"
+                        },
+                        {
+                            "parent-category-unified-id": "skirts-and-dresses-dresses",
+                            "linked-products": [
+                                ""
+                            ],
+                            "default-sku": "ca_123030857",
+                            "repository-id": "prod9961035",
+                            "bazaar-voice-id": "Revera_Duster_Print",
+                            "has-linked-products": "false",
+                            "unified-id": "Revera-Duster-Print",
+                            "common-id": "123030849_prod9961035",
+                            "pdp-url": "/p/skirts-and-dresses-dresses/Revera-Duster-Print/_/prod9961035",
+                            "product-sale-price": [],
+                            "title": "Revera Duster *Print lululemon lab | Women's Dresses",
+                            "all-available-sizes": [
+                                "L",
+                                "M",
+                                "S",
+                                "XL",
+                                "XS"
+                            ],
+                            "display-name-with-br": "",
+                            "product-on-sale": "0",
+                            "color-group": [
+                                {
+                                    "name": "Printed",
+                                    "url": "https://images.lululemon.com/is/image/lululemon/43899?$swatch$"
+                                },
+                                {
+                                    "name": "black",
+                                    "url": "https://images.lululemon.com/is/image/lululemon/black_swatch?$swatch$"
+                                }
+                            ],
+                            "product-category-hierarchy": "['women^cawomen|Dresses^cadresses', 'Lab Shop^cat1730013']",
+                            "default-parent-category": "Dresses",
+                            "sku-style-order": [
+                                {
+                                    "color-id": "46443",
+                                    "size": "L",
+                                    "sku-style-order-id": "1",
+                                    "style-id-02": "046443",
+                                    "style-id-01": "LW3DUNS",
+                                    "color-group": "Printedblack",
+                                    "sku": "ca_123030841",
+                                    "style-id": "LW3DUNS-046443",
+                                    "color-name": "Planet Surface Black Granite Multi"
+                                }
+                            ],
+                            "display-name": "Revera Duster *Print lululemon lab",
+                            "sku-style-number": [
+                                "LW3DUNS-046443"
+                            ],
+                            "product-applicable-systems": "All",
+                            "sku-sku-images": [
+                                "https://images.lululemon.com/is/image/lululemon/LW3DUNS_046443_1",
+                                "https://images.lululemon.com/is/image/lululemon/LW3DUNS_046443_2"
+                            ],
+                            "currency-code": "CAD",
+                            "product-whats-new": "0",
+                            "f5-bckimg-url": "https://images.lululemon.com/is/image/lululemon/LW5BEHS_0001_Z",
+                            "list-price": [
+                                "168.00"
+                            ],
+                            "product-silver": "false",
+                            "image-scheme": "Old",
+                            "parent-category-display-name": "Dresses"
+                        },
+                        {
+                            "parent-category-unified-id": "skirts-and-dresses-dresses",
+                            "linked-products": [
+                                ""
+                            ],
+                            "default-sku": "ca_120225036",
+                            "repository-id": "prod10070191",
+                            "bazaar-voice-id": "All_Yours_Tee_Dress",
+                            "has-linked-products": "false",
+                            "unified-id": "All-Yours-Tee-Dress",
+                            "common-id": "120225036_prod10070191",
+                            "pdp-url": "/p/skirts-and-dresses-dresses/All-Yours-Tee-Dress/_/prod10070191",
+                            "product-sale-price": [],
+                            "title": "All Yours Tee Dress | Women's Dresses",
+                            "all-available-sizes": [
+                                "4",
+                                "6",
+                                "8",
+                                "2",
+                                "14",
+                                "12",
+                                "10",
+                                "0"
+                            ],
+                            "display-name-with-br": "",
+                            "product-on-sale": "0",
+                            "color-group": [
+                                {
+                                    "name": "black",
+                                    "url": "https://images.lululemon.com/is/image/lululemon/black_swatch?$swatch$"
+                                }
+                            ],
+                            "product-category-hierarchy": "['women^cawomen|Dresses^cadresses', 'Bestsellers^cat2530005']",
+                            "default-parent-category": "Dresses",
+                            "sku-style-order": [
+                                {
+                                    "color-id": "0001",
+                                    "size": "4",
+                                    "sku-style-order-id": "1",
+                                    "style-id-02": "0001",
+                                    "style-id-01": "LW1CQ9S",
+                                    "color-group": "black",
+                                    "sku": "ca_120225047",
+                                    "style-id": "LW1CQ9S-0001",
+                                    "color-name": "Black"
+                                }
+                            ],
+                            "display-name": "All Yours Tee Dress",
+                            "sku-style-number": [
+                                "LW1CQ9S-0001"
+                            ],
+                            "product-applicable-systems": "All",
+                            "sku-sku-images": [
+                                "https://images.lululemon.com/is/image/lululemon/LW1CQ9S_0001_1",
+                                "https://images.lululemon.com/is/image/lululemon/LW1CQ9S_0001_2"
+                            ],
+                            "currency-code": "CAD",
+                            "product-whats-new": "0",
+                            "f5-bckimg-url": "https://images.lululemon.com/is/image/lululemon/LW9BE7S_032737",
+                            "list-price": [
+                                "98.00"
+                            ],
+                            "product-silver": "false",
+                            "image-scheme": "Old",
+                            "parent-category-display-name": "Dresses"
+                        },
+                        {
+                            "parent-category-unified-id": "skirts-and-dresses-dresses",
+                            "linked-products": [
+                                ""
+                            ],
+                            "default-sku": "ca_120975036",
+                            "repository-id": "prod10010014",
+                            "bazaar-voice-id": "All _Yours _Tank _Maxi _Dress",
+                            "has-linked-products": "false",
+                            "unified-id": "All-Yours-Tank-Maxi-Dress",
+                            "common-id": "120975037_prod10010014",
+                            "pdp-url": "/p/skirts-and-dresses-dresses/All-Yours-Tank-Maxi-Dress/_/prod10010014",
+                            "product-sale-price": [],
+                            "title": "All Yours Tank Maxi Dress | Women's Dresses",
+                            "all-available-sizes": [
+                                "8",
+                                "6",
+                                "4",
+                                "2",
+                                "14",
+                                "12",
+                                "10",
+                                "0"
+                            ],
+                            "display-name-with-br": "",
+                            "product-on-sale": "0",
+                            "color-group": [
+                                {
+                                    "name": "black",
+                                    "url": "https://images.lululemon.com/is/image/lululemon/black_swatch?$swatch$"
+                                }
+                            ],
+                            "product-category-hierarchy": "['women^cawomen|Dresses^cadresses', 'Bestsellers^cat2530005']",
+                            "default-parent-category": "Dresses",
+                            "sku-style-order": [
+                                {
+                                    "color-id": "0001",
+                                    "size": "8",
+                                    "sku-style-order-id": "1",
+                                    "style-id-02": "0001",
+                                    "style-id-01": "LW1CQ8S",
+                                    "color-group": "black",
+                                    "sku": "ca_120975049",
+                                    "style-id": "LW1CQ8S-0001",
+                                    "color-name": "Black"
+                                }
+                            ],
+                            "display-name": "All Yours Tank Maxi Dress",
+                            "sku-style-number": [
+                                "LW1CQ8S-0001"
+                            ],
+                            "product-applicable-systems": "All",
+                            "sku-sku-images": [
+                                "https://images.lululemon.com/is/image/lululemon/LW1CQ8S_0001_1",
+                                "https://images.lululemon.com/is/image/lululemon/LW1CQ8S_0001_2"
+                            ],
+                            "currency-code": "CAD",
+                            "product-whats-new": "0",
+                            "f5-bckimg-url": "https://images.lululemon.com/is/image/lululemon/LW5BEHS_0001_Z",
+                            "list-price": [
+                                "118.00"
+                            ],
+                            "product-silver": "false",
+                            "image-scheme": "Old",
+                            "parent-category-display-name": "Dresses"
+                        },
+                        {
+                            "parent-category-unified-id": "skirts-and-dresses-dresses",
+                            "linked-products": [
+                                ""
+                            ],
+                            "default-sku": "ca_122975077",
+                            "repository-id": "prod10480006",
+                            "bazaar-voice-id": "Perfectly_Poised_Jumpsuit",
+                            "has-linked-products": "false",
+                            "unified-id": "Perfectly-Poised-Jumpsuit-MD",
+                            "common-id": "122975164_prod10480006",
+                            "pdp-url": "/p/skirts-and-dresses-dresses/Perfectly-Poised-Jumpsuit-MD/_/prod10480006",
+                            "product-sale-price": [
+                                "89.00"
+                            ],
+                            "title": "Perfectly Poised Jumpsuit | Women's Dresses",
+                            "all-available-sizes": [
+                                "8",
+                                "6",
+                                "4",
+                                "2",
+                                "0"
+                            ],
+                            "display-name-with-br": "",
+                            "product-on-sale": "1",
+                            "color-group": [
+                                {
+                                    "name": "Khaki",
+                                    "url": "https://images.lululemon.com/is/image/lululemon/tan_swatch?$swatch$"
+                                }
+                            ],
+                            "product-category-hierarchy": "['We Made Too Much^casale', 'women^cawomen|Dresses^cadresses']",
+                            "default-parent-category": "Dresses",
+                            "sku-style-order": [
+                                {
+                                    "color-id": "36763",
+                                    "size": "8",
+                                    "sku-style-order-id": "1",
+                                    "style-id-02": "036763",
+                                    "style-id-01": "LW1CQIS",
+                                    "color-group": "Khaki",
+                                    "sku": "ca_122975171",
+                                    "style-id": "LW1CQIS-036763",
+                                    "color-name": "Grey Sage"
+                                }
+                            ],
+                            "display-name": "Perfectly Poised Jumpsuit",
+                            "sku-style-number": [
+                                "LW1CQIS-036763"
+                            ],
+                            "product-applicable-systems": "All",
+                            "sku-sku-images": [
+                                "https://images.lululemon.com/is/image/lululemon/LW1CQIS_036763_1",
+                                "https://images.lululemon.com/is/image/lululemon/LW1CQIS_036763_2"
+                            ],
+                            "currency-code": "CAD",
+                            "product-whats-new": "0",
+                            "f5-bckimg-url": "https://images.lululemon.com/is/image/lululemon/LW5BEHS_0001_Z",
+                            "list-price": [
+                                "158.00"
+                            ],
+                            "product-silver": "false",
+                            "image-scheme": "Old",
+                            "parent-category-display-name": "Dresses"
+                        },
+                        {
+                            "parent-category-unified-id": "skirts-and-dresses-dresses",
+                            "linked-products": [
+                                ""
+                            ],
+                            "default-sku": "ca_122976037",
+                            "repository-id": "prod10480005",
+                            "bazaar-voice-id": "Perfectly_Poised_Dress",
+                            "has-linked-products": "false",
+                            "unified-id": "Perfectly-Poised-Dress-MD",
+                            "common-id": "122976001_prod10480005",
+                            "pdp-url": "/p/skirts-and-dresses-dresses/Perfectly-Poised-Dress-MD/_/prod10480005",
+                            "product-sale-price": [
+                                "89.00"
+                            ],
+                            "title": "Perfectly Poised Dress | Women's Dresses",
+                            "all-available-sizes": [
+                                "8",
+                                "6",
+                                "4",
+                                "2",
+                                "12",
+                                "10"
+                            ],
+                            "display-name-with-br": "",
+                            "product-on-sale": "1",
+                            "color-group": [
+                                {
+                                    "name": "white",
+                                    "url": "https://images.lululemon.com/is/image/lululemon/white_swatch?$swatch$"
+                                },
+                                {
+                                    "name": "green",
+                                    "url": "https://images.lululemon.com/is/image/lululemon/33093?$swatch$"
+                                },
+                                {
+                                    "name": "Khaki",
+                                    "url": "https://images.lululemon.com/is/image/lululemon/tan_swatch?$swatch$"
+                                }
+                            ],
+                            "product-category-hierarchy": "['We Made Too Much^casale', 'women^cawomen|Dresses^cadresses']",
+                            "default-parent-category": "Dresses",
+                            "sku-style-order": [
+                                {
+                                    "color-id": "44796",
+                                    "size": "8",
+                                    "sku-style-order-id": "2",
+                                    "style-id-02": "044796",
+                                    "style-id-01": "LW1CLJS",
+                                    "color-group": "white",
+                                    "sku": "ca_122976034",
+                                    "style-id": "LW1CLJS-044796",
+                                    "color-name": "Antique White"
+                                },
+                                {
+                                    "color-id": "45795",
+                                    "size": "8",
+                                    "sku-style-order-id": "1",
+                                    "style-id-02": "045795",
+                                    "style-id-01": "LW1CLJS",
+                                    "color-group": "greenKhaki",
+                                    "sku": "ca_122976064",
+                                    "style-id": "LW1CLJS-045795",
+                                    "color-name": "Light Sage"
+                                }
+                            ],
+                            "display-name": "Perfectly Poised Dress",
+                            "sku-style-number": [
+                                "LW1CLJS-044796",
+                                "LW1CLJS-045795"
+                            ],
+                            "product-applicable-systems": "All",
+                            "sku-sku-images": [
+                                "https://images.lululemon.com/is/image/lululemon/LW1CLJS_044796_1",
+                                "https://images.lululemon.com/is/image/lululemon/LW1CLJS_044796_2",
+                                "https://images.lululemon.com/is/image/lululemon/LW1CLJS_045795_1",
+                                "https://images.lululemon.com/is/image/lululemon/LW1CLJS_045795_2"
+                            ],
+                            "currency-code": "CAD",
+                            "product-whats-new": "0",
+                            "f5-bckimg-url": "https://images.lululemon.com/is/image/lululemon/LW5BEHS_0001_Z",
+                            "list-price": [
+                                "158.00"
+                            ],
+                            "product-silver": "false",
+                            "image-scheme": "Old",
+                            "parent-category-display-name": "Dresses"
+                        }
+                    ],
+                    "sort-options": [
+                        {
+                            "selected": false,
+                            "label": "Featured",
+                            "content-path": "/c",
+                            "navigation-state": "/skirts-and-dresses-dresses/_/N-8c8"
+                        },
+                        {
+                            "selected": false,
+                            "label": "New Arrivals",
+                            "content-path": "/c",
+                            "navigation-state": "/skirts-and-dresses-dresses/_/N-8c8?Ns=product.last_SKU_addition_dateTime%7C1"
+                        },
+                        {
+                            "selected": false,
+                            "label": "Top Rated",
+                            "content-path": "/c",
+                            "navigation-state": "/skirts-and-dresses-dresses/_/N-8c8?Ns=RATINGS%7C1"
+                        },
+                        {
+                            "selected": false,
+                            "label": "Price: High to Low",
+                            "content-path": "/c",
+                            "navigation-state": "/skirts-and-dresses-dresses/_/N-8c8?Ns=price%7C1"
+                        },
+                        {
+                            "selected": false,
+                            "label": "Price: Low to High",
+                            "content-path": "/c",
+                            "navigation-state": "/skirts-and-dresses-dresses/_/N-8c8?Ns=price%7C0"
+                        }
+                    ]
+                },
+                {
+                    "recs-per-page": 1000,
+                    "page-type": "productCategoryDetailsPage",
+                    "paging-action-template": {
+                        "label": null,
+                        "content-path": "/c",
+                        "site-root-path": "/pages",
+                        "navigation-state": "?No=%7Boffset%7D"
+                    },
+                    "first-rec-num": null,
+                    "promotional-tile-component": null,
+                    "name": "CDP CQ Components",
+                    "type": "GridCQ5AggregatedContent",
+                    "last-rec-num": null,
+                    "precomputed-sorts": [],
+                    "total-num-recs": 0,
+                    "records": [],
+                    "sort-options": [],
+                    "product-feature-tile-component": null
+                }
+            ],
+            "secondary-content": [
+                {
+                    "geo-filter-crumb": null,
+                    "remove-all-action": {
+                        "label": null,
+                        "content-path": "/c",
+                        "site-root-path": "/pages",
+                        "navigation-state": "/c/skirts-and-dresses-dresses/_/N-8c8?No=0"
+                    },
+                    "name": "Breadcrumbs",
+                    "type": "Breadcrumbs",
+                    "search-crumbs": [],
+                    "refinement-crumbs": [
+                        {
+                            "properties": {
+                                "source-id": "cawomen.cadresses",
+                                "title": "Women's Dresses",
+                                "root-catalog-id": null,
+                                "keywords": null,
+                                "head-data": "<link rel=\"alternate\" hreflang=\"en-US\" href=\"https://shop.lululemon.com/c/skirts-and-dresses-dresses/_/N-8s3\" /><link rel=\"alternate\" hreflang=\"en-CA\" href=\"https://shop.lululemon.com/c/skirts-and-dresses-dresses/_/N-8c8\" /><link rel=\"alternate\" hreflang=\"fr-CA\" href=\"https://fr.shop.lululemon.com/c/skirts-and-dresses-dresses/_/N-8c8\" /><link rel=\"alternate\" hreflang=\"en-GB\" href=\"https://www.lululemon.co.uk/en-gb/c/womens/tops/dresses\" /><link rel=\"alternate\" hreflang=\"en-CH\" href=\"https://www.eu.lululemon.com/en-ch/c/womens/tops/dresses\" /><link rel=\"alternate\" hreflang=\"fr-CH\" href=\"https://www.eu.lululemon.com/fr-ch/c/femmes/hauts/robes\" /><link rel=\"alternate\" hreflang=\"de-CH\" href=\"https://www.eu.lululemon.com/de-ch/c/frauen/oberteile/kleider\" /><link rel=\"alternate\" hreflang=\"en-LU\" href=\"https://www.eu.lululemon.com/en-lu/c/womens/tops/dresses\" /><link rel=\"alternate\" hreflang=\"fr-LU\" href=\"https://www.eu.lululemon.com/en-lu/c/womens/tops/dresses\" /><link rel=\"alternate\" hreflang=\"de-LU\" href=\"https://www.eu.lululemon.com/de-lu/c/frauen/oberteile/kleider\" /><link rel=\"alternate\" hreflang=\"en-FR\" href=\"https://www.lululemon.fr/en-fr/c/womens/tops/dresses\" /><link rel=\"alternate\" hreflang=\"fr-FR\" href=\"https://www.lululemon.fr/fr-fr/c/femmes/hauts/robes\" /><link rel=\"alternate\" hreflang=\"en-DE\" href=\"https://www.lululemon.de/en-de/c/womens/tops/dresses\" /><link rel=\"alternate\" hreflang=\"de-DE\" href=\"https://www.lululemon.de/de-de/c/frauen/oberteile/kleider\" /><link rel=\"alternate\" hreflang=\"en-AU\" href=\"https://www.lululemon.com.au/en-au/c/women-bottoms-skirts-and-dresses/women-bottoms-skirts-dresses\" /><link rel=\"alternate\" hreflang=\"en-NZ\" href=\"https://www.lululemon.co.nz/en-nz/c/women-bottoms-skirts-and-dresses/women-bottoms-skirts-dresses\" /><link rel=\"alternate\" hreflang=\"en-HK\" href=\"https://www.lululemon.com.hk/en-hk/c/women-tops-dresses-and-onesies/women-tops-dressesonesies/\" /><link rel=\"alternate\" hreflang=\"ja-JP\" href=\"https://www.lululemon.co.jp/ja-jp/women-tops-dresses/women-tops-dresses\" />",
+                                "display-order": "4",
+                                "n-value": "8c8",
+                                "no-follow": "0",
+                                "site-id": "na_en_ca_site",
+                                "unified-id": "skirts-and-dresses-dresses",
+                                "long-description": "Fuss-free one-pieces make life easy. As always, shipping is free.",
+                                "canonical-url": "/c/skirts-and-dresses-dresses/_/N-8c8",
+                                "global-nav-display": "true",
+                                "ancestor-catalog-ids": "catalog10002",
+                                "no-index": "0",
+                                "repository-id": null
+                            },
+                            "dimension-name": "product.category",
+                            "count": 6,
+                            "label": "dresses",
+                            "multi-select": false,
+                            "ancestors": [
+                                {
+                                    "properties": {
+                                        "source-id": "cawomen",
+                                        "title": null,
+                                        "root-catalog-id": "catalog10002",
+                                        "keywords": null,
+                                        "head-data": null,
+                                        "display-order": "0",
+                                        "n-value": null,
+                                        "no-follow": "0",
+                                        "site-id": "na_en_ca_site",
+                                        "unified-id": "women",
+                                        "long-description": "Women's run, training, and yoga gear to keep you covered and comfortable no matter how you like to sweat. Shop for workout clothes or travel clothes for women.",
+                                        "canonical-url": null,
+                                        "global-nav-display": null,
+                                        "ancestor-catalog-ids": "catalog10002",
+                                        "no-index": "0",
+                                        "repository-id": null
+                                    },
+                                    "label": "Women's Clothes",
+                                    "content-path": "/c",
+                                    "site-root-path": "/pages",
+                                    "navigation-state": "/women/_/N-7z5"
+                                }
+                            ],
+                            "remove-action": {
+                                "label": null,
+                                "content-path": "/c",
+                                "site-root-path": "/pages",
+                                "navigation-state": ""
+                            },
+                            "display-name": "product.category"
+                        }
+                    ],
+                    "range-filter-crumbs": null
+                },
+                {
+                    "contents": [
+                        {
+                            "navigation": [
+                                {
+                                    "dimension-name": "",
+                                    "refinement-order": null,
+                                    "name": "Dimension Navigation",
+                                    "showMoreRefinementsLink": null,
+                                    "multi-select": null,
+                                    "type": "StaticRefinementTreeMenu",
+                                    "noFollow": null,
+                                    "link": null,
+                                    "ancestors": [],
+                                    "primaryNumRefinements": null,
+                                    "configurable-navigation": [],
+                                    "display-name": null,
+                                    "enableVisualColorStyling": false,
+                                    "refinements": [],
+                                    "enableVisualSizeStyling": false
+                                },
+                                {
+                                    "dimension-name": "Activity",
+                                    "refinement-order": null,
+                                    "name": "Activity",
+                                    "showMoreRefinementsLink": true,
+                                    "multi-select": true,
+                                    "type": "RefinementMenu",
+                                    "noFollow": "0",
+                                    "link": {
+                                        "query-string": null,
+                                        "path": null,
+                                        "link-type": "Navigation State"
+                                    },
+                                    "ancestors": [],
+                                    "primaryNumRefinements": 5,
+                                    "configurable-navigation": [],
+                                    "display-name": "Activity",
+                                    "enableVisualColorStyling": false,
+                                    "refinements": [
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "On the Move",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 6,
+                                            "sizeGroup": null,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/on-the-move/_/N-8c8Z1z0xk7b"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "casual",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 6,
+                                            "sizeGroup": null,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/casual/_/N-8c8Z1z0xms0"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "work",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 3,
+                                            "sizeGroup": null,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/work/_/N-8c8Z1z0xopv"
+                                        }
+                                    ],
+                                    "enableVisualSizeStyling": false
+                                },
+                                {
+                                    "dimension-name": "product.sizes",
+                                    "refinement-order": null,
+                                    "name": "Size",
+                                    "showMoreRefinementsLink": false,
+                                    "multi-select": true,
+                                    "type": "RefinementMenu",
+                                    "noFollow": "1",
+                                    "link": null,
+                                    "ancestors": [],
+                                    "primaryNumRefinements": 5,
+                                    "configurable-navigation": [],
+                                    "display-name": "product.sizes",
+                                    "enableVisualColorStyling": false,
+                                    "refinements": [
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "0",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 4,
+                                            "sizeGroup": 1,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z140u8Z8c8"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "2",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 5,
+                                            "sizeGroup": 1,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z140v4Z8c8"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "4",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 5,
+                                            "sizeGroup": 1,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z140v2Z8c8"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "6",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 5,
+                                            "sizeGroup": 1,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z140v0Z8c8"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "8",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 5,
+                                            "sizeGroup": 1,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z140uyZ8c8"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "10",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 4,
+                                            "sizeGroup": 1,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z140v8Z8c8"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "12",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 4,
+                                            "sizeGroup": 1,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z140v6Z8c8"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "14",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 3,
+                                            "sizeGroup": 1,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z140utZ8c8"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "XS",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 1,
+                                            "sizeGroup": 3,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z140auZ8c8"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "S",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 1,
+                                            "sizeGroup": 3,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z140uoZ8c8"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "M",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 1,
+                                            "sizeGroup": 3,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z140upZ8c8"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "L",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 1,
+                                            "sizeGroup": 3,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z140uqZ8c8"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "XL",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 1,
+                                            "sizeGroup": 3,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z140unZ8c8"
+                                        }
+                                    ],
+                                    "enableVisualSizeStyling": true
+                                },
+                                {
+                                    "dimension-name": "Colour",
+                                    "refinement-order": null,
+                                    "name": "Colour",
+                                    "showMoreRefinementsLink": false,
+                                    "multi-select": true,
+                                    "type": "RefinementMenu",
+                                    "noFollow": "0",
+                                    "link": null,
+                                    "ancestors": [],
+                                    "primaryNumRefinements": 5,
+                                    "configurable-navigation": [],
+                                    "display-name": "Colour",
+                                    "enableVisualColorStyling": true,
+                                    "refinements": [
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "Khaki",
+                                            "multi-select": true,
+                                            "colorGroup": "tan_swatch",
+                                            "remove-action": null,
+                                            "count": 2,
+                                            "sizeGroup": null,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-8c8Z1z0ykpn"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "Printed",
+                                            "multi-select": true,
+                                            "colorGroup": "43899",
+                                            "remove-action": null,
+                                            "count": 1,
+                                            "sizeGroup": null,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-8c8Z1z0vlaq"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "black",
+                                            "multi-select": true,
+                                            "colorGroup": "black_swatch",
+                                            "remove-action": null,
+                                            "count": 4,
+                                            "sizeGroup": null,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-8c8Z1z13ysf"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "green",
+                                            "multi-select": true,
+                                            "colorGroup": "33093",
+                                            "remove-action": null,
+                                            "count": 2,
+                                            "sizeGroup": null,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-8c8Z1z0w8tb"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "white",
+                                            "multi-select": true,
+                                            "colorGroup": "white_swatch",
+                                            "remove-action": null,
+                                            "count": 1,
+                                            "sizeGroup": null,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-8c8Z1z13yrr"
+                                        }
+                                    ],
+                                    "enableVisualSizeStyling": false
+                                },
+                                {
+                                    "dimension-name": "product.customAttribute4",
+                                    "refinement-order": null,
+                                    "name": "Type",
+                                    "showMoreRefinementsLink": true,
+                                    "multi-select": true,
+                                    "type": "RefinementMenu",
+                                    "noFollow": "0",
+                                    "link": null,
+                                    "ancestors": [],
+                                    "primaryNumRefinements": 5,
+                                    "configurable-navigation": [],
+                                    "display-name": "product.customAttribute4",
+                                    "enableVisualColorStyling": false,
+                                    "refinements": [
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "Jumpsuits",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 2,
+                                            "sizeGroup": null,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z0xkzqZ8c8"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "Shirt Dresses",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 2,
+                                            "sizeGroup": null,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z0xl0oZ8c8"
+                                        }
+                                    ],
+                                    "enableVisualSizeStyling": false
+                                },
+                                {
+                                    "dimension-name": "product.topsLength",
+                                    "refinement-order": null,
+                                    "name": "Length",
+                                    "showMoreRefinementsLink": true,
+                                    "multi-select": true,
+                                    "type": "RefinementMenu",
+                                    "noFollow": "1",
+                                    "link": null,
+                                    "ancestors": [],
+                                    "primaryNumRefinements": 5,
+                                    "configurable-navigation": [],
+                                    "display-name": "product.topsLength",
+                                    "enableVisualColorStyling": false,
+                                    "refinements": [
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "Maxi",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 2,
+                                            "sizeGroup": null,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z0wuasZ8c8"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "Midi",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 1,
+                                            "sizeGroup": null,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z0wucfZ8c8"
+                                        },
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "Mini",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 2,
+                                            "sizeGroup": null,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z0wucaZ8c8"
+                                        }
+                                    ],
+                                    "enableVisualSizeStyling": false
+                                },
+                                {
+                                    "dimension-name": "product.customAttribute5",
+                                    "refinement-order": null,
+                                    "name": "Climate",
+                                    "showMoreRefinementsLink": false,
+                                    "multi-select": true,
+                                    "type": "RefinementMenu",
+                                    "noFollow": "1",
+                                    "link": null,
+                                    "ancestors": [],
+                                    "primaryNumRefinements": 5,
+                                    "configurable-navigation": [],
+                                    "display-name": "product.customAttribute5",
+                                    "enableVisualColorStyling": false,
+                                    "refinements": [
+                                        {
+                                            "properties": null,
+                                            "content-path": "/c",
+                                            "label": "Spring",
+                                            "multi-select": true,
+                                            "colorGroup": null,
+                                            "remove-action": null,
+                                            "count": 2,
+                                            "sizeGroup": null,
+                                            "site-root-path": "/pages",
+                                            "isSelected": false,
+                                            "navigation-state": "/skirts-and-dresses-dresses/_/N-1z0vlnkZ8c8"
+                                        }
+                                    ],
+                                    "enableVisualSizeStyling": false
+                                }
+                            ],
+                            "name": "Navigation Container",
+                            "type": "GuidedNavigation"
+                        }
+                    ],
+                    "name": "Secondary Content Slot",
+                    "type": "ContentSlotSecondary",
+                    "rule-limit": "1"
+                }
+            ]
+        }
+    }
+}

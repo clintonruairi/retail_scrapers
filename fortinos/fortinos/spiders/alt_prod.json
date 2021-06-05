@@ -1,0 +1,297 @@
+{
+    "code": "20426141001_KG",
+    "name": "Tomato Beefsteak  Red",
+    "description": "Greenhouse tomatoes are firm and plump with a red skin when ripe. They are perfect sliced and used as a topping on burgers and sandwiches like the classic BLT. Or scoop out the pulp and seeds to make baked stuffed tomatoes.",
+    "brand": null,
+    "link": "/tomato-beefsteak-red/p/20426141001_KG",
+    "imageAssets": [
+        {
+            "smallUrl": "https://assets.shop.loblaws.ca/products/20426141001/b1/en/front/20426141001_front_a01_@2.png",
+            "mediumUrl": "https://assets.shop.loblaws.ca/products/20426141001/b3/en/front/20426141001_front_a06_@2.png",
+            "largeUrl": "https://assets.shop.loblaws.ca/products/20426141001/b2/en/front/20426141001_front_a06_@2.png",
+            "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20426141001/b1/en/front/20426141001_front_a01_@2.png",
+            "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20426141001/b3/en/front/20426141001_front_a06_@2.png",
+            "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20426141001/b2/en/front/20426141001_front_a06_@2.png"
+        }
+    ],
+    "packageSize": "",
+    "shoppable": true,
+    "prices": {
+        "price": {
+            "value": 1.47,
+            "unit": "ea",
+            "quantity": 1,
+            "reasonCode": 4,
+            "type": "REGULAR"
+        },
+        "wasPrice": null,
+        "comparisonPrices": [
+            {
+                "value": 5.49,
+                "unit": "kg",
+                "quantity": 1,
+                "reasonCode": null,
+                "type": null
+            },
+            {
+                "value": 2.49,
+                "unit": "lb",
+                "quantity": 1,
+                "reasonCode": null,
+                "type": null
+            }
+        ]
+    },
+    "pricingUnits": {
+        "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+        "unit": "ea",
+        "interval": 1,
+        "minOrderQuantity": 1,
+        "maxOrderQuantity": 25,
+        "weighted": false
+    },
+    "badges": {
+        "textBadge": null,
+        "loyaltyBadge": null,
+        "dealBadge": null,
+        "newItemBadge": null
+    },
+    "breadcrumbs": [
+        {
+            "categoryCode": "27985",
+            "name": "Food",
+            "url": "/food/c/27985",
+            "categoryType": null
+        },
+        {
+            "categoryCode": "28000",
+            "name": "Fruits Vegetables",
+            "url": "/food/fruits-vegetables/c/28000",
+            "categoryType": null
+        },
+        {
+            "categoryCode": "28195",
+            "name": "Fresh Vegetables",
+            "url": "/food/fruits-vegetables/fresh-vegetables/c/28195",
+            "categoryType": null
+        },
+        {
+            "categoryCode": "29613",
+            "name": "Tomatoes Peppers",
+            "url": "/food/fruits-vegetables/fresh-vegetables/tomatoes-peppers/c/29613",
+            "categoryType": null
+        },
+        {
+            "categoryCode": "34502",
+            "name": "Tomatoes",
+            "url": "/food/fruits-vegetables/fresh-vegetables/tomatoes-peppers/tomatoes/c/34502",
+            "categoryType": null
+        }
+    ],
+    "averageWeight": "0.268",
+    "stockStatus": null,
+    "upcs": null,
+    "articleNumber": "20426141001",
+    "uom": "KG",
+    "ingredients": "Red Beefsteak Tomatoes.",
+    "promotions": null,
+    "nutritionFacts": [
+        {
+            "topNutrition": [
+                {
+                    "code": "servingSizeEN",
+                    "valueInGram": "100 g",
+                    "valuePercent": null,
+                    "subNutrients": null
+                },
+                {
+                    "code": "houseHoldServingSize",
+                    "valueInGram": "3.5 oz",
+                    "valuePercent": null,
+                    "subNutrients": null
+                },
+                {
+                    "code": "caloriesFromFat",
+                    "valueInGram": "1.8",
+                    "valuePercent": null,
+                    "subNutrients": null
+                },
+                {
+                    "code": "perServeSizeAmt",
+                    "valueInGram": "0.0",
+                    "valuePercent": null,
+                    "subNutrients": null
+                }
+            ],
+            "calories": {
+                "code": "calories",
+                "valueInGram": "20 cal",
+                "valuePercent": null,
+                "subNutrients": null
+            },
+            "totalFat": {
+                "code": "totalFat",
+                "valueInGram": "0.2 g",
+                "valuePercent": "1 %",
+                "subNutrients": [
+                    {
+                        "code": "saturatedFat",
+                        "valueInGram": "0.0 g",
+                        "valuePercent": null,
+                        "subNutrients": null
+                    },
+                    {
+                        "code": "transFat",
+                        "valueInGram": "0.0 g",
+                        "valuePercent": null,
+                        "subNutrients": null
+                    },
+                    {
+                        "code": "saturatedTransFat",
+                        "valueInGram": null,
+                        "valuePercent": "0 %",
+                        "subNutrients": null
+                    },
+                    {
+                        "code": "polyunsaturatedFat",
+                        "valueInGram": "0.1 g",
+                        "valuePercent": null,
+                        "subNutrients": null
+                    }
+                ]
+            },
+            "totalCarbohydrate": {
+                "code": "totalCarbohydrate",
+                "valueInGram": "4 g",
+                "valuePercent": "1 %",
+                "subNutrients": [
+                    {
+                        "code": "sugar",
+                        "valueInGram": "3 g",
+                        "valuePercent": null,
+                        "subNutrients": null
+                    },
+                    {
+                        "code": "dietaryFiber",
+                        "valueInGram": "1 g",
+                        "valuePercent": "4 %",
+                        "subNutrients": null
+                    },
+                    {
+                        "code": "otherCarbohydrates",
+                        "valueInGram": "0.1 g",
+                        "valuePercent": null,
+                        "subNutrients": null
+                    }
+                ]
+            },
+            "protein": {
+                "code": "protein",
+                "valueInGram": "1 g",
+                "valuePercent": null,
+                "subNutrients": null
+            },
+            "potassium": {
+                "code": "potassium",
+                "valueInGram": "225 mg",
+                "valuePercent": "7 %",
+                "subNutrients": null
+            },
+            "microNutrition": [
+                {
+                    "code": "vitaminA",
+                    "valueInGram": null,
+                    "valuePercent": "0 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "vitaminC",
+                    "valueInGram": null,
+                    "valuePercent": "20 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "calcium",
+                    "valueInGram": null,
+                    "valuePercent": "0 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "iron",
+                    "valueInGram": null,
+                    "valuePercent": "2 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "vitaminK",
+                    "valueInGram": null,
+                    "valuePercent": "10 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "thiamine",
+                    "valueInGram": null,
+                    "valuePercent": "2 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "riboflavin",
+                    "valueInGram": null,
+                    "valuePercent": "2 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "vitaminB6",
+                    "valueInGram": null,
+                    "valuePercent": "4 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "pantothenate",
+                    "valueInGram": null,
+                    "valuePercent": "2 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "phosphorous",
+                    "valueInGram": null,
+                    "valuePercent": "2 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "magnesium",
+                    "valueInGram": null,
+                    "valuePercent": "4 %",
+                    "subNutrients": null
+                },
+                {
+                    "code": "zinc",
+                    "valueInGram": null,
+                    "valuePercent": "2 %",
+                    "subNutrients": null
+                }
+            ],
+            "disclaimer": "TOMATO BEEFSTEAK RED",
+            "ingredients": "Red Beefsteak Tomatoes.",
+            "cholesterol": {
+                "code": "cholesterol",
+                "valueInGram": "0 mg",
+                "valuePercent": null,
+                "subNutrients": null
+            },
+            "sodium": {
+                "code": "sodium",
+                "valueInGram": "5 mg",
+                "valuePercent": "1 %",
+                "subNutrients": null
+            }
+        }
+    ],
+    "taxes": null,
+    "fees": null,
+    "dietaryCallouts": null,
+    "sellerId": "1436",
+    "sellerName": "fortinos",
+    "isVariant": false,
+    "offerType": "OG"
+}

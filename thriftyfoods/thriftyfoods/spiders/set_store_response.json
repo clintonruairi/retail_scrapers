@@ -1,0 +1,20 @@
+{
+    "Data": {
+        "Id": "e6a6565c-69ab-4dca-baf2-750110ac5e64",
+        "Number": "15555",
+        "Name": "Thrifty Foods Cloverdale",
+        "PhoneNumber": "(250) 382-2751",
+        "OpeningHours": "Tuesday: 7:00 AM - 10:00 PM",
+        "Url": "/find-a-store/store/9461-thrifty-foods-cloverdale",
+        "FullAddress": "3475 Quadra Street, V8X1G8, Victoria, Canada",
+        "Method": 2,
+        "IsTimeslotSet": false,
+        "TimeslotDate": null,
+        "TimeslotTime": null
+    },
+    "DataType": "LightStoreSidebarViewModel",
+    "Errors": [],
+    "PropertyBag": {
+        "Reload": true
+    }
+}

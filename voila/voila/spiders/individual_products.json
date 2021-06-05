@@ -1,0 +1,73 @@
+{
+    "entities": {
+        "product": {
+            "10822d50-7b44-4620-8e32-b4f58f6aa45a": {
+                "productId": "10822d50-7b44-4620-8e32-b4f58f6aa45a",
+                "retailerProductId": "218947KG",
+                "name": "Compliments Boneless Skinless Chicken Thighs Value Pack 6 Thighs 900 g",
+                "available": true,
+                "maxQuantityReached": false,
+                "imagePaths": [
+                    "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a928b36a-88fc-4857-b4b9-af572c534f60"
+                ],
+                "price": {
+                    "current": {
+                        "currency": "CAD",
+                        "amount": "15.85"
+                    },
+                    "unit": {
+                        "label": "fop.price.per.kg",
+                        "current": {
+                            "currency": "CAD",
+                            "amount": "17.61"
+                        }
+                    }
+                },
+                "isInCurrentCatalog": true,
+                "image": {
+                    "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a928b36a-88fc-4857-b4b9-af572c534f60/300x300.jpg",
+                    "description": "Compliments Boneless Skinless Chicken Thighs Value Pack 6 Thighs 900 g"
+                },
+                "images": [
+                    {
+                        "src": "https://voila.ca/images-v3/2d92d19c-0354-49c0-8a91-5260ed0bf531/a928b36a-88fc-4857-b4b9-af572c534f60/500x500.jpg",
+                        "description": "Compliments Boneless Skinless Chicken Thighs Value Pack 6 Thighs 900 g"
+                    }
+                ],
+                "size": {
+                    "value": "0.9",
+                    "uom": "KG",
+                    "catchWeight": true
+                },
+                "catchweight": {
+                    "minQuantity": {
+                        "value": "0.855",
+                        "uom": "KG"
+                    },
+                    "typicalQuantity": {
+                        "value": "0.9",
+                        "uom": "KG"
+                    },
+                    "maxQuantity": {
+                        "value": "0.945",
+                        "uom": "KG"
+                    }
+                },
+                "isInProductList": false,
+                "brand": "Compliments",
+                "featured": "false"
+            }
+        }
+    },
+    "result": {
+        "product": "10822d50-7b44-4620-8e32-b4f58f6aa45a",
+        "bopData": {
+            "fields": [
+                {
+                    "title": "brand",
+                    "content": "Compliments"
+                }
+            ]
+        }
+    }
+}

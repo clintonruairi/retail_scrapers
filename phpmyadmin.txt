@@ -1,0 +1,14 @@
+mysql --host=db-mysql-tor1-1670-do-user-5048843-0.b.db.ondigitalocean.com --user=cuser-ruari --password=^dh#MX4qa^ --database=webscrapping_ruari --port=25060
+
+KILL ALL CONTAINERS:
+docker ps -q | xargs docker stop ; docker system prune -a
+
+START CONTAINER:
+sudo docker run -it -p 8050:8050 --memory=6.5G --restart=always scrapinghub/splash --maxrss 6500
+sudo docker run -it -d --net=host -p 8050:8050 --memory=6.5G --restart=always scrapinghub/splash --maxrss 6500
+CLEAR RAM: curl -X POST http://localhost:8050/_gc
+fetch with splash: fetch('http://localhost:8050/render.html?url={url}')
+
+
+
+

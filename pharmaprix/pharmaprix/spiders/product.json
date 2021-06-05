@@ -1,0 +1,475 @@
+{
+    "availableForPickup": null,
+    "shoppersoptimumpoints": "Shoppers Optimum Points",
+    "pm3PromoDescription": "",
+    "optimumPromoText": null,
+    "pageTitle": "Shop for Scrub For Joy Body Polish by Soap & Glory | Shoppers Drug Mart",
+    "availableGift": "Receive as your free gift (SMP Lip Plumping Gloss  Candy Queen Lipgloss  Deluxe sample) when you (make a $20+ S&G purchase). One per customer, while quantities last.",
+    "productSocialShare": "Share",
+    "productViewDetail": "View Details",
+    "uom": "g",
+    "reviewCount": 42,
+    "productRating": "Rating of product is",
+    "productAwards": null,
+    "isDermProduct": false,
+    "productSubSubCategory": "Body-Scrubs",
+    "isLuxuryProduct": true,
+    "size": "Size",
+    "favourited": "FAVOURITED!",
+    "regularPriceValue": 18.0,
+    "isChanelProduct": false,
+    "giftWithPurchase": "Gift With Purchase",
+    "shippingInfo": "",
+    "gwpProductGalleryImages": [
+        {
+            "imageType": "PRIMARY",
+            "format": "size100",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167266962/enfr/01/front/100/white.jpg",
+            "altText": "SMP Lip Plumping Gloss  Candy Queen Lipgloss ",
+            "galleryIndex": 1,
+            "width": 100,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "PRIMARY",
+            "format": "size130",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167266962/enfr/01/front/130/white.jpg",
+            "altText": "SMP Lip Plumping Gloss  Candy Queen Lipgloss ",
+            "galleryIndex": 1,
+            "width": 130,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "PRIMARY",
+            "format": "size200",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167266962/enfr/01/front/200/white.jpg",
+            "altText": "SMP Lip Plumping Gloss  Candy Queen Lipgloss ",
+            "galleryIndex": 1,
+            "width": 200,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "PRIMARY",
+            "format": "size260",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167266962/enfr/01/front/260/white.jpg",
+            "altText": "SMP Lip Plumping Gloss  Candy Queen Lipgloss ",
+            "galleryIndex": 1,
+            "width": 260,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "PRIMARY",
+            "format": "size400",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167266962/enfr/01/front/400/white.jpg",
+            "altText": "SMP Lip Plumping Gloss  Candy Queen Lipgloss ",
+            "galleryIndex": 1,
+            "width": 400,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "PRIMARY",
+            "format": "size800",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167266962/enfr/01/front/800/white.jpg",
+            "altText": "SMP Lip Plumping Gloss  Candy Queen Lipgloss ",
+            "galleryIndex": 1,
+            "width": 800,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "PRIMARY",
+            "format": "size1600",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167266962/enfr/01/front/1600/white.jpg",
+            "altText": "SMP Lip Plumping Gloss  Candy Queen Lipgloss ",
+            "galleryIndex": 1,
+            "width": 1600,
+            "backgroundColor": "FFFFFF"
+        }
+    ],
+    "baseOptimumPoints": "Earn 270 points",
+    "manufacturer": "Soap & Glory",
+    "qtyLabel": "Qty",
+    "productStoreLocator": "Store Locator",
+    "productNumberOfReviews": "Reviews",
+    "videoUrl": null,
+    "productSubCategory": "Bath-&-Shower",
+    "viewProductDetail": "VIEW PRODUCT DETAIL",
+    "selectSize": "Select Product Size",
+    "outOfStock": false,
+    "ingredients": "Aqua (Water/Eau), Sodium laureth sulfate, Hydrated silica, Glycerin, Cocamidopropyl betaine, Acrylates/palmeth-25 acrylate copolymer, Propylene glycol, Juglans regia (Walnut) shell powder, Parfum (Fragrance),  Sodium chloride, Prunus armeniaca (Apricot) seed powder, Phenoxyethanol, Citric acid, Dipropylene glycol, Sodium benzoate, Panthenol, Xanthan gum,  Sodium ascorbyl phosphate, Tocopheryl acetate, Limonene, Sodium hydroxide, Tetrasodium EDTA, Benzyl benzoate, Geraniol, Disodium phosphate, Linalool, Citronellol, CI 17200 (Red 33). ",
+    "addToBagLabel": "ADD TO BAG",
+    "bonusOptimumPointsText": null,
+    "pwpPromoMessage": "",
+    "navImage": [
+        {
+            "imageType": "PRIMARY",
+            "format": "size100",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/100/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 1,
+            "width": 100,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "PRIMARY",
+            "format": "size130",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/130/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 1,
+            "width": 130,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "PRIMARY",
+            "format": "size200",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/200/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 1,
+            "width": 200,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "PRIMARY",
+            "format": "size260",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/260/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 1,
+            "width": 260,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "PRIMARY",
+            "format": "size400",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/400/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 1,
+            "width": 400,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "PRIMARY",
+            "format": "size800",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/800/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 1,
+            "width": 800,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "PRIMARY",
+            "format": "size1600",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/1600/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 1,
+            "width": 1600,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "GALLERY",
+            "format": "size100",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/100/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 2,
+            "width": 100,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "GALLERY",
+            "format": "size130",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/130/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 2,
+            "width": 130,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "GALLERY",
+            "format": "size200",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/200/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 2,
+            "width": 200,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "GALLERY",
+            "format": "size260",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/260/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 2,
+            "width": 260,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "GALLERY",
+            "format": "size400",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/400/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 2,
+            "width": 400,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "GALLERY",
+            "format": "size800",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/800/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 2,
+            "width": 800,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "GALLERY",
+            "format": "size1600",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/1600/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 2,
+            "width": 1600,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "GALLERY",
+            "format": "size100",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/100/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 3,
+            "width": 100,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "GALLERY",
+            "format": "size130",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/130/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 3,
+            "width": 130,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "GALLERY",
+            "format": "size200",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/200/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 3,
+            "width": 200,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "GALLERY",
+            "format": "size260",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/260/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 3,
+            "width": 260,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "GALLERY",
+            "format": "size400",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/400/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 3,
+            "width": 400,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "GALLERY",
+            "format": "size800",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/800/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 3,
+            "width": 800,
+            "backgroundColor": "FFFFFF"
+        },
+        {
+            "imageType": "GALLERY",
+            "format": "size1600",
+            "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/1600/white.jpg",
+            "altText": "Scrub For Joy Body Polish",
+            "galleryIndex": 3,
+            "width": 1600,
+            "backgroundColor": "FFFFFF"
+        }
+    ],
+    "locateNearByStore": "Locate Near By Store",
+    "favourite": "FAVOURITE",
+    "videoThumbnailImageUrl": null,
+    "url": "/Shop/Collections/%27Uplifting%27-Body-Care-Collection/Scrub-For-Joy-Body-Polish/p/BB_5000167286182?variantCode=5000167286182",
+    "errorMsg": "Quantity field cannot be empty.",
+    "productQA": "Q&amp;A",
+    "productViewDetailOther": "View Details",
+    "brooklynEnabled": true,
+    "productUrl": "https://magasiner.pharmaprix.ca/Shop/Collections/%27Uplifting%27-Body-Care-Collection/Scrub-For-Joy-Body-Polish/p/BB_5000167286182?variantCode=5000167286182&lang=en",
+    "aboutproducts": "About This Product",
+    "addProductToBag": "Add this product to your bag",
+    "regularPrice": "$18",
+    "soldOutLabel": "Sold Out",
+    "productAwardsLabel": "Awards",
+    "selectQuantity": "Select Product Quantity",
+    "selectColor": "Select Product Color",
+    "productReview": "REVIEWS",
+    "offerBestSeller": "Best Seller",
+    "variantOptions": [
+        {
+            "swatchImage": "",
+            "code": "5000167286182",
+            "priceData": "$18",
+            "modifaceEnabled": false,
+            "isSelected": "selected",
+            "name": "300",
+            "colorCode": "#null"
+        }
+    ],
+    "quickViewimg2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/800/white.jpg",
+    "purchaseWithPurchase": "Purchase with Purchase",
+    "offerAwardWinner": "Award Winner",
+    "brandName": "Soap & Glory",
+    "productDetailLabel": "Click to view more details of product",
+    "videoThumbnailImageExtension": null,
+    "howToUse": "Exfoliate top-to-toe (or those bits drying out for help) with our gently exfoliating, super nourishing Body Polish to energise skin and give it a healthy glow.",
+    "productAddFavourites": "FAVOURITE",
+    "featuresbenefitLabel": "FEATURES & BENEFITS",
+    "name": "Scrub For Joy Body Polish",
+    "brandNameUrl": "/Shop/Soap-%26-Glory/c/SOAP%26GLORY",
+    "ingredientsLabel": "INGREDIENTS",
+    "addToFavourite": "Add this product to your favorites",
+    "colorVariant": false,
+    "quickViewimg": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/400/white.jpg",
+    "code": "BB_5000167286182",
+    "favouriteAriaLabel": "Add product to your favorites",
+    "description": "Scrub away those worries and leave yourself feeling sensationally smooth with this gently exfoliating body buffer.  \n\nScented with a mood-boosting blend with uplifting notes of grapefruit and exuberant rhubarb. Expertly designed to uplift the senses.\n\nEnriched with our multi-vitamin mix (B5, C & E) and walnut shell powder for skin that feels healthier & happier.  \n\nIngredients:\n• Walnut shell powder to help gently exfoliate for softer, healthier \n• Vitamin B5 to  soften & keep skin healthy \nskin\n• Vitamin C known to brighten & improve the appearance of skin\n• Vitamin E known to nourish & keep skin hydrated\n\nFragrance expertly designed to enhance happiness* with notes of grapefruit & rhubarb",
+    "productCategory": "Bath-&-Body-Care",
+    "favouriteFlag": false,
+    "selectedvariantCode": "5000167286182",
+    "itemCodeLabel": "BB_5000167286182",
+    "optimumPcOfferChangeText": "Introducing the PC Optimum program.",
+    "starRating": 96.0,
+    "closeOverLayAriaLabel": "Close Overlay",
+    "approvalStatus": "APPROVED",
+    "productQtyList": [
+        {
+            "qty": 1,
+            "isSelected": "selected"
+        },
+        {
+            "qty": 2
+        },
+        {
+            "qty": 3
+        },
+        {
+            "qty": 4
+        },
+        {
+            "qty": 5
+        },
+        {
+            "qty": 6
+        }
+    ],
+    "singleDefaultVariant": true,
+    "productDetail": "DETAILS",
+    "seeLessLabel": "See Less",
+    "productDiscoverMore": "DISCOVER MORE",
+    "primaryThumbnail": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/400/white.jpg",
+    "itemLabel": "ITEM #",
+    "seeAllLabel": "See All",
+    "pm3FeatureFlag": "true",
+    "badges": [
+        {
+            "uid": "gift",
+            "name": "Gift with Purchase",
+            "style": "RED"
+        }
+    ],
+    "productImages": {
+        "images": [
+            {
+                "small": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/200/white.jpg",
+                "medium2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/800/white.jpg",
+                "large": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/400/white.jpg",
+                "medium": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/400/white.jpg",
+                "small2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/400/white.jpg",
+                "large2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/800/white.jpg"
+            },
+            {
+                "small": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/200/white.jpg",
+                "medium2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/800/white.jpg",
+                "large": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/400/white.jpg",
+                "medium": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/400/white.jpg",
+                "small2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/400/white.jpg",
+                "large2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/800/white.jpg"
+            },
+            {
+                "small": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/200/white.jpg",
+                "medium2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/800/white.jpg",
+                "large": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/400/white.jpg",
+                "medium": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/400/white.jpg",
+                "small2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/400/white.jpg",
+                "large2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/800/white.jpg"
+            }
+        ],
+        "zoomimages": [
+            {
+                "small": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/400/white.jpg",
+                "medium2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/1600/white.jpg",
+                "large": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/800/white.jpg",
+                "medium": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/800/white.jpg",
+                "small2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/800/white.jpg",
+                "large2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/1600/white.jpg"
+            },
+            {
+                "small": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/400/white.jpg",
+                "medium2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/1600/white.jpg",
+                "large": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/800/white.jpg",
+                "medium": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/800/white.jpg",
+                "small2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/800/white.jpg",
+                "large2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/1600/white.jpg"
+            },
+            {
+                "small": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/400/white.jpg",
+                "medium2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/1600/white.jpg",
+                "large": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/800/white.jpg",
+                "medium": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/800/white.jpg",
+                "small2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/800/white.jpg",
+                "large2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/1600/white.jpg"
+            }
+        ],
+        "thumbnails": [
+            {
+                "large": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/100/white.jpg",
+                "large2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/200/white.jpg"
+            },
+            {
+                "large": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/100/white.jpg",
+                "large2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/200/white.jpg"
+            },
+            {
+                "large": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/100/white.jpg",
+                "large2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/200/white.jpg"
+            }
+        ],
+        "zoomthumbnails": [
+            {
+                "large": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/200/white.jpg",
+                "large2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/01/front/400/white.jpg"
+            },
+            {
+                "large": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/200/white.jpg",
+                "large2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/02/front/400/white.jpg"
+            },
+            {
+                "large": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/200/white.jpg",
+                "large2x": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/5000167286182/enfr/03/front/400/white.jpg"
+            }
+        ]
+    },
+    "modifaceColorCodes": {},
+    "sizeLabel": "Size:",
+    "howtouseLabel": "HOW TO USE",
+    "shareOnSocialMedia": "Share this product on local media",
+    "earn": "Earn",
+    "pm3PromoLabel": "",
+    "addToCartAriaLabel": "Click here to add this product in your cart",
+    "giftOutOfStockMessage": "",
+    "featuresBenefit": "• Gently exfoliates to remove dead skin cells, dirt and impurities \n• Skin is left softer & smoother\n• Skin feels invigorated, refreshed & revitalised\n• Energises skin to give it a healthy glow\n• Vegan friendly"
+}

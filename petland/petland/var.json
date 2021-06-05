@@ -1,0 +1,250 @@
+{
+    "id": 503080388,
+    "title": "Fou-Stick Pet Balm; Available in 3 different styles",
+    "handle": "fou-stick-balm-for-dogs-available-in-3-different-styles",
+    "description": "<p><span><strong>SOOTHE:</strong> Help soothe your pet's dry itchy skin with the Fou-stick Soothe Pet Balm. A combination of rich, soothing natural ingredients such as aloe vera and neem oil help relieve dry itchy, irritated skin. Natural moisturizers including coconut oil and shea butter form a natural moisture barrier. Suitable for dogs and cats.</span></p>\n<p><span><strong>CALM:</strong> Help alleviate your pet's stress and anxiety naturally with the Fou-stick Calm Pet Balm. A combination of natural calming ingredients including chamomile, passionflower and herbal oils and essences help calm your pet during stressful times such as travel, thunderstorms or any stressful time in your pet's life. Suitable for dogs and cats.</span></p>\n<p><span><strong>PROTECT:</strong> Protect your dog's paw naturally with FFD Pet's Fou-Stick Protect. Natural ingredients including coconut oil and beeswax form a protective paw barrier against harsh winter conditions (snow, salt, sand) and summer's unforgiving hot pavement. A great year-round soothing paw moisturizer to keep your dog in perfect step!</span></p>\n<ul>\n<li>Made with natural ingredients</li>\n<li>Will not harm your dog even when licked off</li>\n<li>Travel size twist tube, easy and convenient to use (.5oz tube)</li>\n</ul>",
+    "published_at": "2015-05-04T13:21:00-04:00",
+    "created_at": "2015-05-04T13:22:31-04:00",
+    "vendor": "FouFou Brands",
+    "type": "Health Care",
+    "tags": [
+        "Dog",
+        "DogHealthCareBrand_FouFou Brands",
+        "DogHealthCareCategory_Health Products",
+        "Health Care",
+        "Health Products",
+        "not-on-sale"
+    ],
+    "price": 447,
+    "price_min": 447,
+    "price_max": 477,
+    "available": true,
+    "price_varies": true,
+    "compare_at_price": 497,
+    "compare_at_price_min": 497,
+    "compare_at_price_max": 497,
+    "compare_at_price_varies": false,
+    "variants": [
+        {
+            "id": 1538656068,
+            "title": "Protect",
+            "option1": "Protect",
+            "option2": null,
+            "option3": null,
+            "sku": "27690626",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 1496941636,
+                "product_id": 503080388,
+                "position": 4,
+                "created_at": "2015-05-04T13:29:19-04:00",
+                "updated_at": "2019-10-18T18:49:35-04:00",
+                "alt": "PROTECT Fou-Stick Pet Balm",
+                "width": 400,
+                "height": 400,
+                "src": "https://cdn.shopify.com/s/files/1/0702/9579/products/FouStick_Protect__09011.1407871924.400.400.jpg?v=1571438975",
+                "variant_ids": [
+                    1538656068
+                ]
+            },
+            "available": true,
+            "name": "Fou-Stick Pet Balm; Available in 3 different styles - Protect",
+            "public_title": "Protect",
+            "options": [
+                "Protect"
+            ],
+            "price": 447,
+            "weight": 100,
+            "compare_at_price": 497,
+            "inventory_quantity": -35,
+            "inventory_management": null,
+            "inventory_policy": "deny",
+            "barcode": "627660906260",
+            "featured_media": {
+                "alt": "PROTECT Fou-Stick Pet Balm",
+                "id": 23653613670,
+                "position": 4,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 400,
+                    "width": 400,
+                    "src": "https://cdn.shopify.com/s/files/1/0702/9579/products/FouStick_Protect__09011.1407871924.400.400.jpg?v=1568695825"
+                }
+            }
+        },
+        {
+            "id": 1538656132,
+            "title": "Soothe",
+            "option1": "Soothe",
+            "option2": null,
+            "option3": null,
+            "sku": "27690654 (DS)/ 27690677",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 1496914372,
+                "product_id": 503080388,
+                "position": 3,
+                "created_at": "2015-05-04T13:27:07-04:00",
+                "updated_at": "2019-10-18T18:49:35-04:00",
+                "alt": "SOOTHE Fou-Stick Pet Balm",
+                "width": 400,
+                "height": 400,
+                "src": "https://cdn.shopify.com/s/files/1/0702/9579/products/FouStick_Soothe__53694.1407871929.400.400.jpg?v=1571438975",
+                "variant_ids": [
+                    1538656132
+                ]
+            },
+            "available": true,
+            "name": "Fou-Stick Pet Balm; Available in 3 different styles - Soothe",
+            "public_title": "Soothe",
+            "options": [
+                "Soothe"
+            ],
+            "price": 477,
+            "weight": 100,
+            "compare_at_price": null,
+            "inventory_quantity": -9,
+            "inventory_management": null,
+            "inventory_policy": "deny",
+            "barcode": "627660906543 / 62766090677",
+            "featured_media": {
+                "alt": "SOOTHE Fou-Stick Pet Balm",
+                "id": 23653580902,
+                "position": 3,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 400,
+                    "width": 400,
+                    "src": "https://cdn.shopify.com/s/files/1/0702/9579/products/FouStick_Soothe__53694.1407871929.400.400.jpg?v=1568695825"
+                }
+            }
+        },
+        {
+            "id": 1538656196,
+            "title": "Calm",
+            "option1": "Calm",
+            "option2": null,
+            "option3": null,
+            "sku": "27690652 / 27690651",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 1496913988,
+                "product_id": 503080388,
+                "position": 2,
+                "created_at": "2015-05-04T13:27:06-04:00",
+                "updated_at": "2019-10-18T18:49:35-04:00",
+                "alt": "CALM Fou-Stick Pet Balm",
+                "width": 400,
+                "height": 400,
+                "src": "https://cdn.shopify.com/s/files/1/0702/9579/products/FouStick_Calmk__16421.1407872045.400.400.jpg?v=1571438975",
+                "variant_ids": [
+                    1538656196
+                ]
+            },
+            "available": true,
+            "name": "Fou-Stick Pet Balm; Available in 3 different styles - Calm",
+            "public_title": "Calm",
+            "options": [
+                "Calm"
+            ],
+            "price": 447,
+            "weight": 100,
+            "compare_at_price": 497,
+            "inventory_quantity": -19,
+            "inventory_management": null,
+            "inventory_policy": "deny",
+            "barcode": "627660906529 / 62766090651",
+            "featured_media": {
+                "alt": "CALM Fou-Stick Pet Balm",
+                "id": 23653548134,
+                "position": 2,
+                "preview_image": {
+                    "aspect_ratio": 1,
+                    "height": 400,
+                    "width": 400,
+                    "src": "https://cdn.shopify.com/s/files/1/0702/9579/products/FouStick_Calmk__16421.1407872045.400.400.jpg?v=1568695825"
+                }
+            }
+        }
+    ],
+    "images": [
+        "//cdn.shopify.com/s/files/1/0702/9579/products/c700x420_large_17c0d3ea-0336-43d5-8360-1d483fbe8552.jpg?v=1596740249",
+        "//cdn.shopify.com/s/files/1/0702/9579/products/FouStick_Calmk__16421.1407872045.400.400.jpg?v=1571438975",
+        "//cdn.shopify.com/s/files/1/0702/9579/products/FouStick_Soothe__53694.1407871929.400.400.jpg?v=1571438975",
+        "//cdn.shopify.com/s/files/1/0702/9579/products/FouStick_Protect__09011.1407871924.400.400.jpg?v=1571438975"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0702/9579/products/c700x420_large_17c0d3ea-0336-43d5-8360-1d483fbe8552.jpg?v=1596740249",
+    "options": [
+        "Style"
+    ],
+    "media": [
+        {
+            "alt": "Fou-Stick Pet Balm; Available in 3 different styles-Health Care-FouFou Brands-Petland Canada",
+            "id": 23653515366,
+            "position": 1,
+            "preview_image": {
+                "aspect_ratio": 1,
+                "height": 480,
+                "width": 480,
+                "src": "https://cdn.shopify.com/s/files/1/0702/9579/products/c700x420_large_17c0d3ea-0336-43d5-8360-1d483fbe8552.jpg?v=1568695825"
+            },
+            "aspect_ratio": 1,
+            "height": 480,
+            "media_type": "image",
+            "src": "https://cdn.shopify.com/s/files/1/0702/9579/products/c700x420_large_17c0d3ea-0336-43d5-8360-1d483fbe8552.jpg?v=1568695825",
+            "width": 480
+        },
+        {
+            "alt": "CALM Fou-Stick Pet Balm",
+            "id": 23653548134,
+            "position": 2,
+            "preview_image": {
+                "aspect_ratio": 1,
+                "height": 400,
+                "width": 400,
+                "src": "https://cdn.shopify.com/s/files/1/0702/9579/products/FouStick_Calmk__16421.1407872045.400.400.jpg?v=1568695825"
+            },
+            "aspect_ratio": 1,
+            "height": 400,
+            "media_type": "image",
+            "src": "https://cdn.shopify.com/s/files/1/0702/9579/products/FouStick_Calmk__16421.1407872045.400.400.jpg?v=1568695825",
+            "width": 400
+        },
+        {
+            "alt": "SOOTHE Fou-Stick Pet Balm",
+            "id": 23653580902,
+            "position": 3,
+            "preview_image": {
+                "aspect_ratio": 1,
+                "height": 400,
+                "width": 400,
+                "src": "https://cdn.shopify.com/s/files/1/0702/9579/products/FouStick_Soothe__53694.1407871929.400.400.jpg?v=1568695825"
+            },
+            "aspect_ratio": 1,
+            "height": 400,
+            "media_type": "image",
+            "src": "https://cdn.shopify.com/s/files/1/0702/9579/products/FouStick_Soothe__53694.1407871929.400.400.jpg?v=1568695825",
+            "width": 400
+        },
+        {
+            "alt": "PROTECT Fou-Stick Pet Balm",
+            "id": 23653613670,
+            "position": 4,
+            "preview_image": {
+                "aspect_ratio": 1,
+                "height": 400,
+                "width": 400,
+                "src": "https://cdn.shopify.com/s/files/1/0702/9579/products/FouStick_Protect__09011.1407871924.400.400.jpg?v=1568695825"
+            },
+            "aspect_ratio": 1,
+            "height": 400,
+            "media_type": "image",
+            "src": "https://cdn.shopify.com/s/files/1/0702/9579/products/FouStick_Protect__09011.1407871924.400.400.jpg?v=1568695825",
+            "width": 400
+        }
+    ],
+    "content": "<p><span><strong>SOOTHE:</strong> Help soothe your pet's dry itchy skin with the Fou-stick Soothe Pet Balm. A combination of rich, soothing natural ingredients such as aloe vera and neem oil help relieve dry itchy, irritated skin. Natural moisturizers including coconut oil and shea butter form a natural moisture barrier. Suitable for dogs and cats.</span></p>\n<p><span><strong>CALM:</strong> Help alleviate your pet's stress and anxiety naturally with the Fou-stick Calm Pet Balm. A combination of natural calming ingredients including chamomile, passionflower and herbal oils and essences help calm your pet during stressful times such as travel, thunderstorms or any stressful time in your pet's life. Suitable for dogs and cats.</span></p>\n<p><span><strong>PROTECT:</strong> Protect your dog's paw naturally with FFD Pet's Fou-Stick Protect. Natural ingredients including coconut oil and beeswax form a protective paw barrier against harsh winter conditions (snow, salt, sand) and summer's unforgiving hot pavement. A great year-round soothing paw moisturizer to keep your dog in perfect step!</span></p>\n<ul>\n<li>Made with natural ingredients</li>\n<li>Will not harm your dog even when licked off</li>\n<li>Travel size twist tube, easy and convenient to use (.5oz tube)</li>\n</ul>"
+}

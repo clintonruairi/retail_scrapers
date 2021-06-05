@@ -1,0 +1,162 @@
+{ "hits": [
+                {
+                    "id_code_model": "8513030",
+                    "id_super_model": "303249",
+                    "id_code_article": "2466843",
+                    "made_for": "Our angler designers have developed this float tube with a comfortable inflatable seat for reaching areas that cannot be fished from the bank.",
+                    "libelle_web": null,
+                    "teaser": "This lightweight float tube is easy to transport thanks to the carry straps. The built-in rod holder and removable panniers (bakkans) make for comfortable fishing.",
+                    "product_name": "FLTB-5 Lure Fishing Float Tube Blue/Orange",
+                    "composition": null,
+                    "category": [
+                        13907,
+                        61,
+                        12147,
+                        13893,
+                        13901,
+                        13912
+                    ],
+                    "buryme": 0,
+                    "stock": 102,
+                    "available": 1,
+                    "popularity": 3944,
+                    "brand": "CAPERLAN",
+                    "url": "https://www.decathlon.ca/en/predator-fishing/303249-31602-float-tube-fltb-5-lure-fishing.html#/demodelsize-254sans_taille/demodelcolor-8513030",
+                    "image_url": "https://contents.mediadecathlon.com/p1612210/k$46504bf7586160886754d5d91997d3c4/prod.jpg?&f=250x180",
+                    "thumb_url": "https://contents.mediadecathlon.com/p1612210/k$46504bf7586160886754d5d91997d3c4/prod.jpg?&f=40x40",
+                    "currency": "CAD",
+                    "currency_sign": "$",
+                    "dynamic_facets": [
+                        "prix",
+                        "nature",
+                        "brand",
+                        "sale",
+                        "generic_color",
+                        "size",
+                        "genders"
+                    ],
+                    "nature": "Float tube",
+                    "life_cycle": "ACTIVE",
+                    "generic_color": "#4DBABE",
+                    "size": "No Size",
+                    "prix": 290,
+                    "regular": 290,
+                    "sale": "",
+                    "percentoff": 0,
+                    "genders": [
+                        "Unisex"
+                    ],
+                    "practices": [
+                        "LURE FISHING",
+                        "FISHING",
+                        "PREDATOR FISHING"
+                    ],
+                    "last_updated_on": "2021-03-22T18:30:35-04:00",
+                    "variations": [],
+                    "objectID": "2466843",
+                    "_highlightResult": {
+                        "id_code_model": {
+                            "value": "8513030",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_super_model": {
+                            "value": "303249",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_code_article": {
+                            "value": "2466843",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "product_name": {
+                            "value": "FLTB-5 Lure Fishing Float Tube Blue/Orange",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "category": [
+                            {
+                                "value": "13907",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "61",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12147",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13893",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13901",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13912",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "available": {
+                            "value": "1",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "CAPERLAN",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nature": {
+                            "value": "Float tube",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "size": {
+                            "value": "No Size",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sale": {
+                            "value": "",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "genders": [
+                            {
+                                "value": "Unisex",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "practices": [
+                            {
+                                "value": "LURE FISHING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "FISHING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "PREDATOR FISHING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                }
+            ]
+}

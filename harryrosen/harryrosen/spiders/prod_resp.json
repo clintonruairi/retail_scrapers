@@ -1,0 +1,121 @@
+{
+    "id": "00b40275-ba4b-4b4f-b9ff-91170107d5a7",
+    "key": "20067841099",
+    "name": {
+        "en-CA": "Wireless Phone Charger",
+        "fr-CA": " Chargeur de téléphone sans fil"
+    },
+    "description": {
+        "en-CA": "Enjoy this gift with purchase when you purchase the corresponding items  . \nNot for sale. ",
+        "fr-CA": "Gif avec achat."
+    },
+    "slug": {
+        "en-CA": "20067841099",
+        "fr-CA": "20067841099"
+    },
+    "brandName": {
+        "en-CA": "Montblanc",
+        "fr-CA": "Montblanc"
+    },
+    "colour": {
+        "en-CA": "Assorted",
+        "fr-CA": "Assortiment"
+    },
+    "construction": {
+        "en-CA": "",
+        "fr-CA": ""
+    },
+    "fabricAndMaterials": {
+        "en-CA": "",
+        "fr-CA": ""
+    },
+    "styleAndMeasurements": {
+        "en-CA": "",
+        "fr-CA": ""
+    },
+    "careInstructions": {
+        "en-CA": "",
+        "fr-CA": ""
+    },
+    "advice": {
+        "en-CA": "",
+        "fr-CA": ""
+    },
+    "season": "FA-20",
+    "relatedProductId": "GWP PHONE CHARGER718571Montblanc",
+    "size": {
+        "en-CA": "",
+        "fr-CA": ""
+    },
+    "webStatus": true,
+    "barcodes": [],
+    "promotionalSticker": {
+        "en-CA": "",
+        "fr-CA": ""
+    },
+    "sizeChart": 0,
+    "isEndlessAisle": false,
+    "isReturnable": true,
+    "level1Category": {
+        "en-CA": "Accessories",
+        "fr-CA": "Accessoires"
+    },
+    "level2Category": {
+        "en-CA": "",
+        "fr-CA": ""
+    },
+    "level3Category": {
+        "en-CA": "Jewellery & Cufflinks",
+        "fr-CA": "Boutons de manchette et bijoux"
+    },
+    "variants": [
+        {
+            "id": 2,
+            "sku": "-3274133",
+            "prices": [
+                {
+                    "value": {
+                        "type": "centPrecision",
+                        "currencyCode": "CAD",
+                        "centAmount": 20000,
+                        "fractionDigits": 2
+                    },
+                    "id": "17b4b0c5-7f45-4e78-9776-196ced7aaa2d"
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://i1.adis.ws/i/harryrosen/20067841099?$prp-4col-xl$",
+                    "dimensions": {
+                        "w": 242,
+                        "h": 288
+                    }
+                }
+            ],
+            "attributes": {
+                "size": {
+                    "en-CA": "One Size",
+                    "fr-CA": "Taille unique"
+                },
+                "sizeSortKey": "one size",
+                "colorId": "099",
+                "dimensionId": "",
+                "promotionalSticker": {
+                    "en-CA": "",
+                    "fr-CA": ""
+                },
+                "hasOnlineAts": true
+            },
+            "price": {
+                "value": {
+                    "type": "centPrecision",
+                    "currencyCode": "CAD",
+                    "centAmount": 20000,
+                    "fractionDigits": 2
+                },
+                "id": "17b4b0c5-7f45-4e78-9776-196ced7aaa2d"
+            },
+            "assets": []
+        }
+    ]
+}

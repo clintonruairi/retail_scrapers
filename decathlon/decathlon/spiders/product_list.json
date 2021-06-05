@@ -1,0 +1,2719 @@
+{
+    "results": [
+        {
+            "hits": [
+                {
+                    "id_code_model": "8602206",
+                    "id_super_model": "302724",
+                    "id_code_article": "4118532",
+                    "made_for": "Developed by our all-female design team, this bike was tested by numerous women. Perfect for hilly and flat terrain.",
+                    "libelle_web": null,
+                    "teaser": "Every aspect of this bike is tailored for women. Aluminum frame, geometry, and carbon fork provide comfort and precision.",
+                    "product_name": "Triban Regular road bike - Women",
+                    "composition": null,
+                    "category": [
+                        13953,
+                        61,
+                        12547,
+                        13934,
+                        14203,
+                        12055,
+                        14196,
+                        14202,
+                        14204
+                    ],
+                    "buryme": 0,
+                    "stock": 15,
+                    "available": 1,
+                    "popularity": 31391,
+                    "brand": "TRIBAN",
+                    "url": "https://www.decathlon.ca/en/endurance-road-bikes/302724-73752-triban-regular-women-s-road-bike.html#/demodelsize-200p/demodelcolor-8602206",
+                    "image_url": "https://contents.mediadecathlon.com/p1956790/k$a0966dd2a1adf9ff995ce31b45305011/prod.jpg?&f=250x180",
+                    "thumb_url": "https://contents.mediadecathlon.com/p1956790/k$a0966dd2a1adf9ff995ce31b45305011/prod.jpg?&f=40x40",
+                    "currency": "CAD",
+                    "currency_sign": "$",
+                    "dynamic_facets": [
+                        "prix",
+                        "nature",
+                        "brand",
+                        "sale",
+                        "generic_color",
+                        "size",
+                        "genders"
+                    ],
+                    "nature": "Road bike",
+                    "life_cycle": "ACTIVE",
+                    "generic_color": "#4DBABE",
+                    "size": "S",
+                    "prix": 860,
+                    "regular": 860,
+                    "sale": "",
+                    "percentoff": 0,
+                    "genders": [
+                        "Women"
+                    ],
+                    "practices": [
+                        "CYCLING",
+                        "ROAD BIKING",
+                        "BIKE TOURING"
+                    ],
+                    "last_updated_on": "2021-05-13T01:04:28-04:00",
+                    "variations": [
+                        {
+                            "id_super_model": "302724",
+                            "id_code_model": "8506346",
+                            "id_code_article": "2433618",
+                            "image_url": "https://contents.mediadecathlon.com/p1614826/k$54b05fed6cb352ecff1a9950aeacc5ea/prod.jpg?&f=40x40",
+                            "size": "M",
+                            "generic_color": "#FFFFFF",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302724-31228-triban-regular-women-s-road-bike.html#/demodelsize-200m/demodelcolor-8506346",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302724",
+                            "id_code_model": "8506346",
+                            "id_code_article": "2433619",
+                            "image_url": "https://contents.mediadecathlon.com/p1614826/k$54b05fed6cb352ecff1a9950aeacc5ea/prod.jpg?&f=40x40",
+                            "size": "S",
+                            "generic_color": "#FFFFFF",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302724-31229-triban-regular-women-s-road-bike.html#/demodelsize-200p/demodelcolor-8506346",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302724",
+                            "id_code_model": "8506346",
+                            "id_code_article": "2433620",
+                            "image_url": "https://contents.mediadecathlon.com/p1614826/k$54b05fed6cb352ecff1a9950aeacc5ea/prod.jpg?&f=40x40",
+                            "size": "XS",
+                            "generic_color": "#FFFFFF",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302724-31230-triban-regular-women-s-road-bike.html#/demodelsize-200tp/demodelcolor-8506346",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302724",
+                            "id_code_model": "8602206",
+                            "id_code_article": "4118531",
+                            "image_url": "https://contents.mediadecathlon.com/p1956790/k$a0966dd2a1adf9ff995ce31b45305011/prod.jpg?&f=40x40",
+                            "size": "M",
+                            "generic_color": "#4DBABE",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302724-73751-triban-regular-women-s-road-bike.html#/demodelsize-200m/demodelcolor-8602206",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302724",
+                            "id_code_model": "8602206",
+                            "id_code_article": "4118533",
+                            "image_url": "https://contents.mediadecathlon.com/p1956790/k$a0966dd2a1adf9ff995ce31b45305011/prod.jpg?&f=40x40",
+                            "size": "XS",
+                            "generic_color": "#4DBABE",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302724-73753-triban-regular-women-s-road-bike.html#/demodelsize-200tp/demodelcolor-8602206",
+                            "stock": 0
+                        }
+                    ],
+                    "objectID": "4118532",
+                    "_highlightResult": {
+                        "id_code_model": {
+                            "value": "8602206",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_super_model": {
+                            "value": "302724",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_code_article": {
+                            "value": "4118532",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "product_name": {
+                            "value": "Triban Regular road bike - Women",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "category": [
+                            {
+                                "value": "13953",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "61",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12547",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13934",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14203",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12055",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14196",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14202",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14204",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "available": {
+                            "value": "1",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "TRIBAN",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nature": {
+                            "value": "Road bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "size": {
+                            "value": "S",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sale": {
+                            "value": "",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "genders": [
+                            {
+                                "value": "Women",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "practices": [
+                            {
+                                "value": "CYCLING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "ROAD BIKING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "BIKE TOURING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id_code_model": "8602202",
+                    "id_super_model": "301919",
+                    "id_code_article": "4118520",
+                    "made_for": "Designed for a safe and easy start to cycling on the road.",
+                    "libelle_web": null,
+                    "teaser": "With its double braking and easy gear changing, this bike allows you to safely get on the road.",
+                    "product_name": "Triban Easy road bike - Women",
+                    "composition": null,
+                    "category": [
+                        13953,
+                        61,
+                        12547,
+                        13934,
+                        14203,
+                        12055,
+                        14196,
+                        14202,
+                        14204
+                    ],
+                    "buryme": 0,
+                    "stock": 0,
+                    "available": 0,
+                    "popularity": 26617,
+                    "brand": "TRIBAN",
+                    "url": "https://www.decathlon.ca/en/endurance-road-bikes/301919-73748-triban-easy-women-s-road-bike.html#/demodelsize-200tp/demodelcolor-8602202",
+                    "image_url": "https://contents.mediadecathlon.com/p1956625/k$28ee9100b931ac287a37395a31ebeba0/prod.jpg?&f=250x180",
+                    "thumb_url": "https://contents.mediadecathlon.com/p1956625/k$28ee9100b931ac287a37395a31ebeba0/prod.jpg?&f=40x40",
+                    "currency": "CAD",
+                    "currency_sign": "$",
+                    "dynamic_facets": [
+                        "prix",
+                        "nature",
+                        "brand",
+                        "sale",
+                        "generic_color",
+                        "size",
+                        "genders"
+                    ],
+                    "nature": "Road bike",
+                    "life_cycle": "ACTIVE",
+                    "generic_color": "#FFFFFF",
+                    "size": "XS",
+                    "prix": 450,
+                    "regular": 450,
+                    "sale": "",
+                    "percentoff": 0,
+                    "genders": [
+                        "Women"
+                    ],
+                    "practices": [
+                        "CYCLING",
+                        "ROAD BIKING",
+                        "BIKE TOURING"
+                    ],
+                    "last_updated_on": "2021-05-13T01:03:44-04:00",
+                    "variations": [
+                        {
+                            "id_super_model": "301919",
+                            "id_code_model": "8602202",
+                            "id_code_article": "4118517",
+                            "image_url": "https://contents.mediadecathlon.com/p1956625/k$28ee9100b931ac287a37395a31ebeba0/prod.jpg?&f=40x40",
+                            "size": "L",
+                            "generic_color": "#FFFFFF",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301919-73824-triban-easy-women-s-road-bike.html#/demodelsize-200g/demodelcolor-8602202",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "301919",
+                            "id_code_model": "8602202",
+                            "id_code_article": "4118518",
+                            "image_url": "https://contents.mediadecathlon.com/p1956625/k$28ee9100b931ac287a37395a31ebeba0/prod.jpg?&f=40x40",
+                            "size": "M",
+                            "generic_color": "#FFFFFF",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301919-72611-triban-easy-women-s-road-bike.html#/demodelsize-200m/demodelcolor-8602202",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "301919",
+                            "id_code_model": "8602202",
+                            "id_code_article": "4118519",
+                            "image_url": "https://contents.mediadecathlon.com/p1956625/k$28ee9100b931ac287a37395a31ebeba0/prod.jpg?&f=40x40",
+                            "size": "S",
+                            "generic_color": "#FFFFFF",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301919-72612-triban-easy-women-s-road-bike.html#/demodelsize-200p/demodelcolor-8602202",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "301919",
+                            "id_code_model": "8602203",
+                            "id_code_article": "4118522",
+                            "image_url": "https://contents.mediadecathlon.com/p1952526/k$891986d82ccb525099337cbc7fc4f160/prod.jpg?&f=40x40",
+                            "size": "M",
+                            "generic_color": "#E30076",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301919-72613-triban-easy-women-s-road-bike.html#/demodelsize-200m/demodelcolor-8602203",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "301919",
+                            "id_code_model": "8602203",
+                            "id_code_article": "4118523",
+                            "image_url": "https://contents.mediadecathlon.com/p1952526/k$891986d82ccb525099337cbc7fc4f160/prod.jpg?&f=40x40",
+                            "size": "S",
+                            "generic_color": "#E30076",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301919-72614-triban-easy-women-s-road-bike.html#/demodelsize-200p/demodelcolor-8602203",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "301919",
+                            "id_code_model": "8602203",
+                            "id_code_article": "4118524",
+                            "image_url": "https://contents.mediadecathlon.com/p1952526/k$891986d82ccb525099337cbc7fc4f160/prod.jpg?&f=40x40",
+                            "size": "XS",
+                            "generic_color": "#E30076",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301919-72615-triban-easy-women-s-road-bike.html#/demodelsize-200tp/demodelcolor-8602203",
+                            "stock": 0
+                        }
+                    ],
+                    "objectID": "4118520",
+                    "_highlightResult": {
+                        "id_code_model": {
+                            "value": "8602202",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_super_model": {
+                            "value": "301919",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_code_article": {
+                            "value": "4118520",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "product_name": {
+                            "value": "Triban Easy road bike - Women",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "category": [
+                            {
+                                "value": "13953",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "61",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12547",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13934",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14203",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12055",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14196",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14202",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14204",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "available": {
+                            "value": "0",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "TRIBAN",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nature": {
+                            "value": "Road bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "size": {
+                            "value": "XS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sale": {
+                            "value": "",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "genders": [
+                            {
+                                "value": "Women",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "practices": [
+                            {
+                                "value": "CYCLING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "ROAD BIKING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "BIKE TOURING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id_code_model": "8544956",
+                    "id_super_model": "307028",
+                    "id_code_article": "2713513",
+                    "made_for": "Designed specially for beginners: reassuring tires, simple speed changes, and straight handlebars.",
+                    "libelle_web": null,
+                    "teaser": "Discover the ideal bike for beginners: with its single chainring, you'll never mistake your speed! Enjoy a comfortable ride thanks to the 32 mm tires!",
+                    "product_name": "RC100 road bike",
+                    "composition": null,
+                    "category": [
+                        13953,
+                        61,
+                        12547,
+                        13934,
+                        14203,
+                        12055,
+                        14196,
+                        14202
+                    ],
+                    "buryme": 0,
+                    "stock": 0,
+                    "available": 0,
+                    "popularity": 17970,
+                    "brand": "TRIBAN",
+                    "url": "https://www.decathlon.ca/en/endurance/307028-72181-rc100-road-bike.html#/demodelsize-200tp/demodelundefined-8544956",
+                    "image_url": "https://contents.mediadecathlon.com/p1662199/k$4d461294413f611f2b18751bd05f0fed/prod.jpg?&f=250x180",
+                    "thumb_url": "https://contents.mediadecathlon.com/p1662199/k$4d461294413f611f2b18751bd05f0fed/prod.jpg?&f=40x40",
+                    "currency": "CAD",
+                    "currency_sign": "$",
+                    "dynamic_facets": [
+                        "prix",
+                        "nature",
+                        "brand",
+                        "sale",
+                        "size",
+                        "genders"
+                    ],
+                    "nature": "Road bike",
+                    "life_cycle": "ACTIVE",
+                    "size": "XS",
+                    "prix": 400,
+                    "regular": 400,
+                    "sale": "",
+                    "percentoff": 0,
+                    "genders": [
+                        "Men"
+                    ],
+                    "practices": [
+                        "CYCLING",
+                        "ROAD BIKING",
+                        "BIKE TOURING"
+                    ],
+                    "last_updated_on": "2021-05-13T01:08:29-04:00",
+                    "variations": [
+                        {
+                            "id_super_model": "307028",
+                            "id_code_model": "8544956",
+                            "id_code_article": "2713510",
+                            "image_url": "https://contents.mediadecathlon.com/p1662199/k$4d461294413f611f2b18751bd05f0fed/prod.jpg?&f=40x40",
+                            "size": "M",
+                            "url": "https://www.decathlon.ca/en/endurance/307028-72179-rc100-road-bike.html#/demodelsize-200m/demodelundefined-8544956",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "307028",
+                            "id_code_model": "8544956",
+                            "id_code_article": "2713511",
+                            "image_url": "https://contents.mediadecathlon.com/p1662199/k$4d461294413f611f2b18751bd05f0fed/prod.jpg?&f=40x40",
+                            "size": "S",
+                            "url": "https://www.decathlon.ca/en/endurance/307028-72180-rc100-road-bike.html#/demodelsize-200p/demodelundefined-8544956",
+                            "stock": 0
+                        }
+                    ],
+                    "objectID": "2713513",
+                    "_highlightResult": {
+                        "id_code_model": {
+                            "value": "8544956",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_super_model": {
+                            "value": "307028",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_code_article": {
+                            "value": "2713513",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "product_name": {
+                            "value": "RC100 road bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "category": [
+                            {
+                                "value": "13953",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "61",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12547",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13934",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14203",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12055",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14196",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14202",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "available": {
+                            "value": "0",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "TRIBAN",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nature": {
+                            "value": "Road bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "size": {
+                            "value": "XS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sale": {
+                            "value": "",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "genders": [
+                            {
+                                "value": "Men",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "practices": [
+                            {
+                                "value": "CYCLING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "ROAD BIKING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "BIKE TOURING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id_code_model": "8603085",
+                    "id_super_model": "328330",
+                    "id_code_article": "4128235",
+                    "made_for": "Designed for women wanting to discover gravel biking. Easy and versatile: single chainring (in 38-11/42), flared handlebar, tubeless wheels and 38 tires.",
+                    "libelle_web": null,
+                    "teaser": "This women's bike has been designed for discovering gravel biking. Easy and versatile: single chainring, disc brakes, flared handlebar, tubeless wheels. This bike is designed especially for women.",
+                    "product_name": "RC120 disc brake gravel and adventure bike - Women",
+                    "composition": null,
+                    "category": [
+                        13953,
+                        61,
+                        12547,
+                        13934
+                    ],
+                    "buryme": 0,
+                    "stock": 0,
+                    "available": 0,
+                    "popularity": 5241,
+                    "brand": "TRIBAN",
+                    "url": "https://www.decathlon.ca/en/endurance-road-bikes/328330-73841-rc120-disc-brake-gravel-and-adventure-bike-women.html#/demodelsize-200p/demodelcolor-8603085",
+                    "image_url": "https://contents.mediadecathlon.com/p1952514/k$6356c305af164db634255f0dfdff9590/prod.jpg?&f=250x180",
+                    "thumb_url": "https://contents.mediadecathlon.com/p1952514/k$6356c305af164db634255f0dfdff9590/prod.jpg?&f=40x40",
+                    "currency": "CAD",
+                    "currency_sign": "$",
+                    "dynamic_facets": [
+                        "prix",
+                        "nature",
+                        "brand",
+                        "sale",
+                        "generic_color",
+                        "size",
+                        "genders"
+                    ],
+                    "nature": "Gravel bike",
+                    "life_cycle": "ACTIVE",
+                    "generic_color": "#00883F",
+                    "size": "S",
+                    "prix": 910,
+                    "regular": 910,
+                    "sale": "",
+                    "percentoff": 0,
+                    "genders": [
+                        "Women"
+                    ],
+                    "practices": [
+                        "GRAVEL CYCLING",
+                        "CYCLING",
+                        "ROAD BIKING"
+                    ],
+                    "last_updated_on": "2021-05-13T01:15:03-04:00",
+                    "variations": [],
+                    "objectID": "4128235",
+                    "_highlightResult": {
+                        "id_code_model": {
+                            "value": "8603085",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_super_model": {
+                            "value": "328330",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_code_article": {
+                            "value": "4128235",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "product_name": {
+                            "value": "RC120 disc brake gravel and adventure bike - Women",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "category": [
+                            {
+                                "value": "13953",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "61",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12547",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13934",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "available": {
+                            "value": "0",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "TRIBAN",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nature": {
+                            "value": "Gravel bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "size": {
+                            "value": "S",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sale": {
+                            "value": "",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "genders": [
+                            {
+                                "value": "Women",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "practices": [
+                            {
+                                "value": "GRAVEL CYCLING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "CYCLING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "ROAD BIKING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id_code_model": "8602203",
+                    "id_super_model": "301919",
+                    "id_code_article": "4118524",
+                    "made_for": "Designed for a safe and easy start to cycling on the road.",
+                    "libelle_web": null,
+                    "teaser": "With its double braking and easy gear changing, this bike allows you to safely get on the road.",
+                    "product_name": "Triban easy road bike - Women",
+                    "composition": null,
+                    "category": [
+                        13953,
+                        61,
+                        12547,
+                        13934,
+                        14203,
+                        12055,
+                        14196,
+                        14202,
+                        14204
+                    ],
+                    "buryme": 0,
+                    "stock": 0,
+                    "available": 0,
+                    "popularity": 0,
+                    "brand": "TRIBAN",
+                    "url": "https://www.decathlon.ca/en/endurance-road-bikes/301919-72615-triban-easy-women-s-road-bike.html#/demodelsize-200tp/demodelcolor-8602203",
+                    "image_url": "https://contents.mediadecathlon.com/p1952526/k$891986d82ccb525099337cbc7fc4f160/prod.jpg?&f=250x180",
+                    "thumb_url": "https://contents.mediadecathlon.com/p1952526/k$891986d82ccb525099337cbc7fc4f160/prod.jpg?&f=40x40",
+                    "currency": "CAD",
+                    "currency_sign": "$",
+                    "dynamic_facets": [
+                        "prix",
+                        "nature",
+                        "brand",
+                        "sale",
+                        "generic_color",
+                        "size",
+                        "genders"
+                    ],
+                    "nature": "Road bike",
+                    "life_cycle": "ACTIVE",
+                    "generic_color": "#E30076",
+                    "size": "XS",
+                    "prix": 450,
+                    "regular": 450,
+                    "sale": "",
+                    "percentoff": 0,
+                    "genders": [
+                        "Women"
+                    ],
+                    "practices": [
+                        "CYCLING",
+                        "ROAD BIKING",
+                        "BIKE TOURING"
+                    ],
+                    "last_updated_on": "2021-05-13T01:03:44-04:00",
+                    "variations": [
+                        {
+                            "id_super_model": "301919",
+                            "id_code_model": "8602202",
+                            "id_code_article": "4118517",
+                            "image_url": "https://contents.mediadecathlon.com/p1956625/k$28ee9100b931ac287a37395a31ebeba0/prod.jpg?&f=40x40",
+                            "size": "L",
+                            "generic_color": "#FFFFFF",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301919-73824-triban-easy-women-s-road-bike.html#/demodelsize-200g/demodelcolor-8602202",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "301919",
+                            "id_code_model": "8602202",
+                            "id_code_article": "4118518",
+                            "image_url": "https://contents.mediadecathlon.com/p1956625/k$28ee9100b931ac287a37395a31ebeba0/prod.jpg?&f=40x40",
+                            "size": "M",
+                            "generic_color": "#FFFFFF",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301919-72611-triban-easy-women-s-road-bike.html#/demodelsize-200m/demodelcolor-8602202",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "301919",
+                            "id_code_model": "8602202",
+                            "id_code_article": "4118519",
+                            "image_url": "https://contents.mediadecathlon.com/p1956625/k$28ee9100b931ac287a37395a31ebeba0/prod.jpg?&f=40x40",
+                            "size": "S",
+                            "generic_color": "#FFFFFF",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301919-72612-triban-easy-women-s-road-bike.html#/demodelsize-200p/demodelcolor-8602202",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "301919",
+                            "id_code_model": "8602202",
+                            "id_code_article": "4118520",
+                            "image_url": "https://contents.mediadecathlon.com/p1956625/k$28ee9100b931ac287a37395a31ebeba0/prod.jpg?&f=40x40",
+                            "size": "XS",
+                            "generic_color": "#FFFFFF",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301919-73748-triban-easy-women-s-road-bike.html#/demodelsize-200tp/demodelcolor-8602202",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "301919",
+                            "id_code_model": "8602203",
+                            "id_code_article": "4118522",
+                            "image_url": "https://contents.mediadecathlon.com/p1952526/k$891986d82ccb525099337cbc7fc4f160/prod.jpg?&f=40x40",
+                            "size": "M",
+                            "generic_color": "#E30076",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301919-72613-triban-easy-women-s-road-bike.html#/demodelsize-200m/demodelcolor-8602203",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "301919",
+                            "id_code_model": "8602203",
+                            "id_code_article": "4118523",
+                            "image_url": "https://contents.mediadecathlon.com/p1952526/k$891986d82ccb525099337cbc7fc4f160/prod.jpg?&f=40x40",
+                            "size": "S",
+                            "generic_color": "#E30076",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301919-72614-triban-easy-women-s-road-bike.html#/demodelsize-200p/demodelcolor-8602203",
+                            "stock": 0
+                        }
+                    ],
+                    "objectID": "4118524",
+                    "_highlightResult": {
+                        "id_code_model": {
+                            "value": "8602203",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_super_model": {
+                            "value": "301919",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_code_article": {
+                            "value": "4118524",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "product_name": {
+                            "value": "Triban easy road bike - Women",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "category": [
+                            {
+                                "value": "13953",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "61",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12547",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13934",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14203",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12055",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14196",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14202",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14204",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "available": {
+                            "value": "0",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "TRIBAN",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nature": {
+                            "value": "Road bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "size": {
+                            "value": "XS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sale": {
+                            "value": "",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "genders": [
+                            {
+                                "value": "Women",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "practices": [
+                            {
+                                "value": "CYCLING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "ROAD BIKING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "BIKE TOURING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id_code_model": "8575808",
+                    "id_super_model": "301713",
+                    "id_code_article": "2961849",
+                    "made_for": "This road bike was designed and tested for regular riding. Matchless comfort for cycling further, more often.",
+                    "libelle_web": null,
+                    "teaser": "Cycle further and more often with the most comfortable road bike we've ever designed. Discover its hydro-mechanical disc brakes, specially designed geometry, and the Shimano 105 groupset.",
+                    "product_name": "RC520 disc brakes road bike - Women",
+                    "composition": null,
+                    "category": [
+                        13953,
+                        61,
+                        12547,
+                        13934,
+                        14203,
+                        12055,
+                        14196,
+                        14202,
+                        14204
+                    ],
+                    "buryme": 0,
+                    "stock": 0,
+                    "available": 0,
+                    "popularity": 0,
+                    "brand": "TRIBAN",
+                    "url": "https://www.decathlon.ca/en/women/301713-65933-rc520-disc-brakes-road-bike-women.html#/demodelsize-200tp/demodelcolor-8575808",
+                    "image_url": "https://contents.mediadecathlon.com/p1847502/k$f8d15bbb99392a998227f571a50087b8/prod.jpg?&f=250x180",
+                    "thumb_url": "https://contents.mediadecathlon.com/p1847502/k$f8d15bbb99392a998227f571a50087b8/prod.jpg?&f=40x40",
+                    "currency": "CAD",
+                    "currency_sign": "$",
+                    "dynamic_facets": [
+                        "prix",
+                        "nature",
+                        "brand",
+                        "sale",
+                        "generic_color",
+                        "size",
+                        "genders"
+                    ],
+                    "nature": "Road bike",
+                    "life_cycle": "ACTIVE",
+                    "generic_color": "#0070B1",
+                    "size": "XS",
+                    "prix": 1220,
+                    "regular": 1220,
+                    "sale": "",
+                    "percentoff": 0,
+                    "genders": [
+                        "Women"
+                    ],
+                    "practices": [
+                        "CYCLING",
+                        "ROAD BIKING",
+                        "BIKE TOURING"
+                    ],
+                    "last_updated_on": "2021-05-13T01:03:36-04:00",
+                    "variations": [
+                        {
+                            "id_super_model": "301713",
+                            "id_code_model": "8575808",
+                            "id_code_article": "2961846",
+                            "image_url": "https://contents.mediadecathlon.com/p1847502/k$f8d15bbb99392a998227f571a50087b8/prod.jpg?&f=40x40",
+                            "size": "L",
+                            "generic_color": "#0070B1",
+                            "url": "https://www.decathlon.ca/en/women/301713-65930-rc520-disc-brakes-road-bike-women.html#/demodelsize-200g/demodelcolor-8575808",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "301713",
+                            "id_code_model": "8575808",
+                            "id_code_article": "2961847",
+                            "image_url": "https://contents.mediadecathlon.com/p1847502/k$f8d15bbb99392a998227f571a50087b8/prod.jpg?&f=40x40",
+                            "size": "M",
+                            "generic_color": "#0070B1",
+                            "url": "https://www.decathlon.ca/en/women/301713-65931-rc520-disc-brakes-road-bike-women.html#/demodelsize-200m/demodelcolor-8575808",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "301713",
+                            "id_code_model": "8575808",
+                            "id_code_article": "2961848",
+                            "image_url": "https://contents.mediadecathlon.com/p1847502/k$f8d15bbb99392a998227f571a50087b8/prod.jpg?&f=40x40",
+                            "size": "S",
+                            "generic_color": "#0070B1",
+                            "url": "https://www.decathlon.ca/en/women/301713-65932-rc520-disc-brakes-road-bike-women.html#/demodelsize-200p/demodelcolor-8575808",
+                            "stock": 0
+                        }
+                    ],
+                    "objectID": "2961849",
+                    "_highlightResult": {
+                        "id_code_model": {
+                            "value": "8575808",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_super_model": {
+                            "value": "301713",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_code_article": {
+                            "value": "2961849",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "product_name": {
+                            "value": "RC520 disc brakes road bike - Women",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "category": [
+                            {
+                                "value": "13953",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "61",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12547",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13934",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14203",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12055",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14196",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14202",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14204",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "available": {
+                            "value": "0",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "TRIBAN",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nature": {
+                            "value": "Road bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "size": {
+                            "value": "XS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sale": {
+                            "value": "",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "genders": [
+                            {
+                                "value": "Women",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "practices": [
+                            {
+                                "value": "CYCLING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "ROAD BIKING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "BIKE TOURING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id_code_model": "8545836",
+                    "id_super_model": "302301",
+                    "id_code_article": "2685541",
+                    "made_for": "This bike designed to facilitate riders’ progress. Versatility and 2x8 speeds let you explore any kind of road",
+                    "libelle_web": null,
+                    "teaser": "Advance with a versatile bicycle. With its comfort geometry, aluminium frame, carbon fork and disc brakes, you can take on any type of trail",
+                    "product_name": "RC120 Road Bike",
+                    "composition": null,
+                    "category": [
+                        13953,
+                        61,
+                        12547,
+                        13934,
+                        14203,
+                        12055,
+                        14196,
+                        14202
+                    ],
+                    "stock": 0,
+                    "available": 0,
+                    "popularity": 0,
+                    "brand": "TRIBAN",
+                    "url": "https://www.decathlon.ca/en/endurance-road-bikes/302301-33600-rc120-disc-cycle-touring-road-bike-navy-orange.html#/demodelcolor-8545836/demodelsize-200tp",
+                    "image_url": "https://contents.mediadecathlon.com/p1614863/k$083fae8f560f240065985baf92b60d67/prod.jpg?&f=250x180",
+                    "thumb_url": "https://contents.mediadecathlon.com/p1614863/k$083fae8f560f240065985baf92b60d67/prod.jpg?&f=40x40",
+                    "currency": "CAD",
+                    "currency_sign": "$",
+                    "dynamic_facets": [
+                        "prix",
+                        "nature",
+                        "brand",
+                        "sale",
+                        "generic_color",
+                        "size",
+                        "genders"
+                    ],
+                    "nature": "Road bike",
+                    "life_cycle": "ACTIVE",
+                    "generic_color": "#0070B1",
+                    "size": "XS",
+                    "prix": 720,
+                    "regular": 720,
+                    "sale": "",
+                    "percentoff": 0,
+                    "genders": [
+                        "Men"
+                    ],
+                    "practices": [
+                        "CYCLING",
+                        "ROAD BIKING",
+                        "BIKE TOURING"
+                    ],
+                    "last_updated_on": "2021-05-13T01:04:02-04:00",
+                    "variations": [
+                        {
+                            "id_super_model": "302301",
+                            "id_code_model": "8545836",
+                            "id_code_article": "2685537",
+                            "image_url": "https://contents.mediadecathlon.com/p1614863/k$083fae8f560f240065985baf92b60d67/prod.jpg?&f=40x40",
+                            "size": "L",
+                            "generic_color": "#0070B1",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302301-33596-rc120-disc-cycle-touring-road-bike-navy-orange.html#/demodelcolor-8545836/demodelsize-200g",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302301",
+                            "id_code_model": "8545836",
+                            "id_code_article": "2685538",
+                            "image_url": "https://contents.mediadecathlon.com/p1614863/k$083fae8f560f240065985baf92b60d67/prod.jpg?&f=40x40",
+                            "size": "M",
+                            "generic_color": "#0070B1",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302301-33597-rc120-disc-cycle-touring-road-bike-navy-orange.html#/demodelcolor-8545836/demodelsize-200m",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302301",
+                            "id_code_model": "8545836",
+                            "id_code_article": "2685539",
+                            "image_url": "https://contents.mediadecathlon.com/p1614863/k$083fae8f560f240065985baf92b60d67/prod.jpg?&f=40x40",
+                            "size": "S",
+                            "generic_color": "#0070B1",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302301-33598-rc120-disc-cycle-touring-road-bike-navy-orange.html#/demodelcolor-8545836/demodelsize-200p",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302301",
+                            "id_code_model": "8545836",
+                            "id_code_article": "2685540",
+                            "image_url": "https://contents.mediadecathlon.com/p1614863/k$083fae8f560f240065985baf92b60d67/prod.jpg?&f=40x40",
+                            "size": "XL",
+                            "generic_color": "#0070B1",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302301-33599-rc120-disc-cycle-touring-road-bike-navy-orange.html#/demodelcolor-8545836/demodelsize-200tg",
+                            "stock": 0
+                        }
+                    ],
+                    "buryme": 0,
+                    "objectID": "2685541",
+                    "_highlightResult": {
+                        "id_code_model": {
+                            "value": "8545836",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_super_model": {
+                            "value": "302301",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_code_article": {
+                            "value": "2685541",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "product_name": {
+                            "value": "RC120 Road Bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "category": [
+                            {
+                                "value": "13953",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "61",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12547",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13934",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14203",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12055",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14196",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14202",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "available": {
+                            "value": "0",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "TRIBAN",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nature": {
+                            "value": "Road bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "size": {
+                            "value": "XS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sale": {
+                            "value": "",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "genders": [
+                            {
+                                "value": "Men",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "practices": [
+                            {
+                                "value": "CYCLING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "ROAD BIKING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "BIKE TOURING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id_code_model": "8545769",
+                    "id_super_model": "305831",
+                    "id_code_article": "2684943",
+                    "made_for": "The perfect bike for getting started: solid tires, simple gears , a single chainring, and a true curved handlebar! Ideal for flat or slightly hilly terrain.",
+                    "libelle_web": null,
+                    "teaser": "Discover the ideal bike for beginners: with its single chainring, you'll never mistake your speed! Enjoy a comfortable ride thanks to the 32 mm tires!",
+                    "product_name": "RC100 Road Bike - Men",
+                    "composition": null,
+                    "category": [
+                        13953,
+                        61,
+                        12547,
+                        13934,
+                        14203,
+                        12055,
+                        14196,
+                        14202
+                    ],
+                    "buryme": 0,
+                    "stock": 0,
+                    "available": 0,
+                    "popularity": 0,
+                    "brand": "TRIBAN",
+                    "url": "https://www.decathlon.ca/en/endurance-road-bikes/305831-40499-rc100-cycle-touring-road-bike-grey.html#/demodelsize-200tp/demodelundefined-8545769",
+                    "image_url": "https://contents.mediadecathlon.com/p1738905/k$17a89dd922b2efe81f85f260a348d7a0/prod.jpg?&f=250x180",
+                    "thumb_url": "https://contents.mediadecathlon.com/p1738905/k$17a89dd922b2efe81f85f260a348d7a0/prod.jpg?&f=40x40",
+                    "currency": "CAD",
+                    "currency_sign": "$",
+                    "dynamic_facets": [
+                        "prix",
+                        "nature",
+                        "brand",
+                        "sale",
+                        "size",
+                        "genders"
+                    ],
+                    "nature": "Road bike",
+                    "life_cycle": "ACTIVE",
+                    "size": "XS",
+                    "prix": 390,
+                    "regular": 390,
+                    "sale": "",
+                    "percentoff": 0,
+                    "genders": [
+                        "Men"
+                    ],
+                    "practices": [
+                        "CYCLING",
+                        "ROAD BIKING",
+                        "BIKE TOURING"
+                    ],
+                    "last_updated_on": "2021-05-13T01:07:27-04:00",
+                    "variations": [
+                        {
+                            "id_super_model": "305831",
+                            "id_code_model": "8545769",
+                            "id_code_article": "2684939",
+                            "image_url": "https://contents.mediadecathlon.com/p1738905/k$17a89dd922b2efe81f85f260a348d7a0/prod.jpg?&f=40x40",
+                            "size": "L",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/305831-40495-rc100-cycle-touring-road-bike-grey.html#/demodelsize-200g/demodelundefined-8545769",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "305831",
+                            "id_code_model": "8545769",
+                            "id_code_article": "2684940",
+                            "image_url": "https://contents.mediadecathlon.com/p1738905/k$17a89dd922b2efe81f85f260a348d7a0/prod.jpg?&f=40x40",
+                            "size": "M",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/305831-40496-rc100-cycle-touring-road-bike-grey.html#/demodelsize-200m/demodelundefined-8545769",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "305831",
+                            "id_code_model": "8545769",
+                            "id_code_article": "2684941",
+                            "image_url": "https://contents.mediadecathlon.com/p1738905/k$17a89dd922b2efe81f85f260a348d7a0/prod.jpg?&f=40x40",
+                            "size": "S",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/305831-40497-rc100-cycle-touring-road-bike-grey.html#/demodelsize-200p/demodelundefined-8545769",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "305831",
+                            "id_code_model": "8545769",
+                            "id_code_article": "2684942",
+                            "image_url": "https://contents.mediadecathlon.com/p1738905/k$17a89dd922b2efe81f85f260a348d7a0/prod.jpg?&f=40x40",
+                            "size": "XL",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/305831-40498-rc100-cycle-touring-road-bike-grey.html#/demodelsize-200tg/demodelundefined-8545769",
+                            "stock": 0
+                        }
+                    ],
+                    "objectID": "2684943",
+                    "_highlightResult": {
+                        "id_code_model": {
+                            "value": "8545769",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_super_model": {
+                            "value": "305831",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_code_article": {
+                            "value": "2684943",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "product_name": {
+                            "value": "RC100 Road Bike - Men",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "category": [
+                            {
+                                "value": "13953",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "61",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12547",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13934",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14203",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12055",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14196",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14202",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "available": {
+                            "value": "0",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "TRIBAN",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nature": {
+                            "value": "Road bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "size": {
+                            "value": "XS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sale": {
+                            "value": "",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "genders": [
+                            {
+                                "value": "Men",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "practices": [
+                            {
+                                "value": "CYCLING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "ROAD BIKING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "BIKE TOURING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id_code_model": "8502354",
+                    "id_super_model": "301728",
+                    "id_code_article": "2496981",
+                    "made_for": "This road bike is designed and tested for regular riding. Matchless comfort for cycling further, more often.",
+                    "libelle_web": null,
+                    "teaser": "Cycle further and more often with the most comfortable road bike we've ever designed. Discover its disc braking, special geometry and Shimano Sora groupset.",
+                    "product_name": "RC500 Disc Brakes Road Bike",
+                    "composition": null,
+                    "category": [
+                        13953,
+                        61,
+                        12547,
+                        13934,
+                        14203,
+                        12055,
+                        14196,
+                        14202
+                    ],
+                    "stock": 0,
+                    "available": 0,
+                    "popularity": 0,
+                    "brand": "TRIBAN",
+                    "url": "https://www.decathlon.ca/en/endurance-road-bikes/301728-16103-triban-rc-500-cycle-touring-road-bike.html#/demodelcolor-8502354/demodelsize-200tp",
+                    "image_url": "https://contents.mediadecathlon.com/p1537948/k$a83fb42f90d368d826fe089b858074a8/prod.jpg?&f=250x180",
+                    "thumb_url": "https://contents.mediadecathlon.com/p1537948/k$a83fb42f90d368d826fe089b858074a8/prod.jpg?&f=40x40",
+                    "currency": "CAD",
+                    "currency_sign": "$",
+                    "dynamic_facets": [
+                        "prix",
+                        "nature",
+                        "brand",
+                        "sale",
+                        "generic_color",
+                        "size",
+                        "genders"
+                    ],
+                    "nature": "Road bike",
+                    "life_cycle": "ACTIVE",
+                    "generic_color": "#9F9FA0",
+                    "size": "XS",
+                    "prix": 940,
+                    "regular": 940,
+                    "sale": "",
+                    "percentoff": 0,
+                    "genders": [
+                        "Men"
+                    ],
+                    "practices": [
+                        "CYCLING",
+                        "ROAD BIKING",
+                        "BIKE TOURING"
+                    ],
+                    "last_updated_on": "2021-05-13T01:03:37-04:00",
+                    "variations": [
+                        {
+                            "id_super_model": "301728",
+                            "id_code_model": "8502354",
+                            "id_code_article": "2496977",
+                            "image_url": "https://contents.mediadecathlon.com/p1537948/k$a83fb42f90d368d826fe089b858074a8/prod.jpg?&f=40x40",
+                            "size": "L",
+                            "generic_color": "#9F9FA0",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301728-16099-triban-rc-500-cycle-touring-road-bike.html#/demodelcolor-8502354/demodelsize-200g",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "301728",
+                            "id_code_model": "8502354",
+                            "id_code_article": "2496978",
+                            "image_url": "https://contents.mediadecathlon.com/p1537948/k$a83fb42f90d368d826fe089b858074a8/prod.jpg?&f=40x40",
+                            "size": "M",
+                            "generic_color": "#9F9FA0",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301728-16100-triban-rc-500-cycle-touring-road-bike.html#/demodelcolor-8502354/demodelsize-200m",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "301728",
+                            "id_code_model": "8502354",
+                            "id_code_article": "2496979",
+                            "image_url": "https://contents.mediadecathlon.com/p1537948/k$a83fb42f90d368d826fe089b858074a8/prod.jpg?&f=40x40",
+                            "size": "S",
+                            "generic_color": "#9F9FA0",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301728-16101-triban-rc-500-cycle-touring-road-bike.html#/demodelcolor-8502354/demodelsize-200p",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "301728",
+                            "id_code_model": "8502354",
+                            "id_code_article": "2496980",
+                            "image_url": "https://contents.mediadecathlon.com/p1537948/k$a83fb42f90d368d826fe089b858074a8/prod.jpg?&f=40x40",
+                            "size": "XL",
+                            "generic_color": "#9F9FA0",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/301728-16102-triban-rc-500-cycle-touring-road-bike.html#/demodelcolor-8502354/demodelsize-200tg",
+                            "stock": 0
+                        }
+                    ],
+                    "buryme": 0,
+                    "objectID": "2496981",
+                    "_highlightResult": {
+                        "id_code_model": {
+                            "value": "8502354",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_super_model": {
+                            "value": "301728",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_code_article": {
+                            "value": "2496981",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "product_name": {
+                            "value": "RC500 Disc Brakes Road Bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "category": [
+                            {
+                                "value": "13953",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "61",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12547",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13934",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14203",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12055",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14196",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14202",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "available": {
+                            "value": "0",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "TRIBAN",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nature": {
+                            "value": "Road bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "size": {
+                            "value": "XS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sale": {
+                            "value": "",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "genders": [
+                            {
+                                "value": "Men",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "practices": [
+                            {
+                                "value": "CYCLING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "ROAD BIKING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "BIKE TOURING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id_code_model": "8506346",
+                    "id_super_model": "302724",
+                    "id_code_article": "2433620",
+                    "made_for": "Developed by our all-female design team, this bike was tested by numerous women. Perfect for hilly and flat terrain.",
+                    "libelle_web": null,
+                    "teaser": "Every aspect of this bike is tailored for women. Aluminum frame, geometry, and carbon fork provide comfort and precision.",
+                    "product_name": "Triban Regular Road Bike - Women",
+                    "composition": null,
+                    "category": [
+                        13953,
+                        61,
+                        12547,
+                        13934,
+                        14203,
+                        12055,
+                        14196,
+                        14202,
+                        14204
+                    ],
+                    "buryme": 0,
+                    "stock": 0,
+                    "available": 0,
+                    "popularity": 0,
+                    "brand": "TRIBAN",
+                    "url": "https://www.decathlon.ca/en/endurance-road-bikes/302724-31230-triban-regular-women-s-road-bike.html#/demodelsize-200tp/demodelcolor-8506346",
+                    "image_url": "https://contents.mediadecathlon.com/p1614826/k$54b05fed6cb352ecff1a9950aeacc5ea/prod.jpg?&f=250x180",
+                    "thumb_url": "https://contents.mediadecathlon.com/p1614826/k$54b05fed6cb352ecff1a9950aeacc5ea/prod.jpg?&f=40x40",
+                    "currency": "CAD",
+                    "currency_sign": "$",
+                    "dynamic_facets": [
+                        "prix",
+                        "nature",
+                        "brand",
+                        "sale",
+                        "generic_color",
+                        "size",
+                        "genders"
+                    ],
+                    "nature": "Road bike",
+                    "life_cycle": "ACTIVE",
+                    "generic_color": "#FFFFFF",
+                    "size": "XS",
+                    "prix": 850,
+                    "regular": 850,
+                    "sale": "",
+                    "percentoff": 0,
+                    "genders": [
+                        "Women"
+                    ],
+                    "practices": [
+                        "CYCLING",
+                        "ROAD BIKING",
+                        "BIKE TOURING"
+                    ],
+                    "last_updated_on": "2021-05-13T01:04:28-04:00",
+                    "variations": [
+                        {
+                            "id_super_model": "302724",
+                            "id_code_model": "8506346",
+                            "id_code_article": "2433618",
+                            "image_url": "https://contents.mediadecathlon.com/p1614826/k$54b05fed6cb352ecff1a9950aeacc5ea/prod.jpg?&f=40x40",
+                            "size": "M",
+                            "generic_color": "#FFFFFF",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302724-31228-triban-regular-women-s-road-bike.html#/demodelsize-200m/demodelcolor-8506346",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302724",
+                            "id_code_model": "8506346",
+                            "id_code_article": "2433619",
+                            "image_url": "https://contents.mediadecathlon.com/p1614826/k$54b05fed6cb352ecff1a9950aeacc5ea/prod.jpg?&f=40x40",
+                            "size": "S",
+                            "generic_color": "#FFFFFF",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302724-31229-triban-regular-women-s-road-bike.html#/demodelsize-200p/demodelcolor-8506346",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302724",
+                            "id_code_model": "8602206",
+                            "id_code_article": "4118531",
+                            "image_url": "https://contents.mediadecathlon.com/p1956790/k$a0966dd2a1adf9ff995ce31b45305011/prod.jpg?&f=40x40",
+                            "size": "M",
+                            "generic_color": "#4DBABE",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302724-73751-triban-regular-women-s-road-bike.html#/demodelsize-200m/demodelcolor-8602206",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302724",
+                            "id_code_model": "8602206",
+                            "id_code_article": "4118532",
+                            "image_url": "https://contents.mediadecathlon.com/p1956790/k$a0966dd2a1adf9ff995ce31b45305011/prod.jpg?&f=40x40",
+                            "size": "S",
+                            "generic_color": "#4DBABE",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302724-73752-triban-regular-women-s-road-bike.html#/demodelsize-200p/demodelcolor-8602206",
+                            "stock": 15
+                        },
+                        {
+                            "id_super_model": "302724",
+                            "id_code_model": "8602206",
+                            "id_code_article": "4118533",
+                            "image_url": "https://contents.mediadecathlon.com/p1956790/k$a0966dd2a1adf9ff995ce31b45305011/prod.jpg?&f=40x40",
+                            "size": "XS",
+                            "generic_color": "#4DBABE",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302724-73753-triban-regular-women-s-road-bike.html#/demodelsize-200tp/demodelcolor-8602206",
+                            "stock": 0
+                        }
+                    ],
+                    "objectID": "2433620",
+                    "_highlightResult": {
+                        "id_code_model": {
+                            "value": "8506346",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_super_model": {
+                            "value": "302724",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_code_article": {
+                            "value": "2433620",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "product_name": {
+                            "value": "Triban Regular Road Bike - Women",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "category": [
+                            {
+                                "value": "13953",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "61",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12547",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13934",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14203",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12055",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14196",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14202",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14204",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "available": {
+                            "value": "0",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "TRIBAN",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nature": {
+                            "value": "Road bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "size": {
+                            "value": "XS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sale": {
+                            "value": "",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "genders": [
+                            {
+                                "value": "Women",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "practices": [
+                            {
+                                "value": "CYCLING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "ROAD BIKING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "BIKE TOURING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id_code_model": "8505088",
+                    "id_super_model": "302496",
+                    "id_code_article": "2424193",
+                    "made_for": "We have designed this bike to make it easy for riders to get moving. Its versatility and 2x8 speeds will allow you to explore any kind of road",
+                    "libelle_web": "NULL",
+                    "teaser": "Make progress thanks to a versatile bike. Its comfort geometry, aluminum frame, 2x8 speeds, and carbon fork will take you over any kind of road",
+                    "product_name": "RC120 Sportive Road Bike - Abyss Grey",
+                    "composition": null,
+                    "category": [
+                        13953,
+                        61,
+                        12547,
+                        13934,
+                        14203,
+                        12055,
+                        14196,
+                        14202
+                    ],
+                    "buryme": 0,
+                    "stock": 0,
+                    "available": 0,
+                    "popularity": 0,
+                    "brand": "TRIBAN",
+                    "url": "https://www.decathlon.ca/en/endurance-road-bikes/302496-73924-rc120-cycle-touring-road-bike-abyss-grey.html#/demodelcolor-8505088/demodelsize-200tp",
+                    "image_url": "https://contents.mediadecathlon.com/p1614853/k$fb57c30896ae284c62ce796003bff88f/prod.jpg?&f=250x180",
+                    "thumb_url": "https://contents.mediadecathlon.com/p1614853/k$fb57c30896ae284c62ce796003bff88f/prod.jpg?&f=40x40",
+                    "currency": "CAD",
+                    "currency_sign": "$",
+                    "dynamic_facets": [
+                        "prix",
+                        "nature",
+                        "brand",
+                        "sale",
+                        "generic_color",
+                        "size",
+                        "genders"
+                    ],
+                    "nature": "Road bike",
+                    "life_cycle": "ACTIVE",
+                    "generic_color": "#9F9FA0",
+                    "size": "XS",
+                    "prix": 650,
+                    "regular": 650,
+                    "sale": "",
+                    "percentoff": 0,
+                    "genders": [
+                        "Men"
+                    ],
+                    "practices": [
+                        "CYCLING",
+                        "ROAD BIKING",
+                        "BIKE TOURING"
+                    ],
+                    "last_updated_on": "2021-05-13T01:04:13-04:00",
+                    "variations": [
+                        {
+                            "id_super_model": "302496",
+                            "id_code_model": "8505088",
+                            "id_code_article": "2424189",
+                            "image_url": "https://contents.mediadecathlon.com/p1614853/k$fb57c30896ae284c62ce796003bff88f/prod.jpg?&f=40x40",
+                            "size": "L",
+                            "generic_color": "#9F9FA0",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302496-73920-rc120-cycle-touring-road-bike-abyss-grey.html#/demodelcolor-8505088/demodelsize-200g",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302496",
+                            "id_code_model": "8505088",
+                            "id_code_article": "2424190",
+                            "image_url": "https://contents.mediadecathlon.com/p1614853/k$fb57c30896ae284c62ce796003bff88f/prod.jpg?&f=40x40",
+                            "size": "M",
+                            "generic_color": "#9F9FA0",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302496-73921-rc120-cycle-touring-road-bike-abyss-grey.html#/demodelcolor-8505088/demodelsize-200m",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302496",
+                            "id_code_model": "8505088",
+                            "id_code_article": "2424191",
+                            "image_url": "https://contents.mediadecathlon.com/p1614853/k$fb57c30896ae284c62ce796003bff88f/prod.jpg?&f=40x40",
+                            "size": "S",
+                            "generic_color": "#9F9FA0",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302496-73922-rc120-cycle-touring-road-bike-abyss-grey.html#/demodelcolor-8505088/demodelsize-200p",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302496",
+                            "id_code_model": "8505088",
+                            "id_code_article": "2424192",
+                            "image_url": "https://contents.mediadecathlon.com/p1614853/k$fb57c30896ae284c62ce796003bff88f/prod.jpg?&f=40x40",
+                            "size": "XL",
+                            "generic_color": "#9F9FA0",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302496-73923-rc120-cycle-touring-road-bike-abyss-grey.html#/demodelcolor-8505088/demodelsize-200tg",
+                            "stock": 0
+                        }
+                    ],
+                    "objectID": "2424193",
+                    "_highlightResult": {
+                        "id_code_model": {
+                            "value": "8505088",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_super_model": {
+                            "value": "302496",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_code_article": {
+                            "value": "2424193",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "product_name": {
+                            "value": "RC120 Sportive Road Bike - Abyss Grey",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "category": [
+                            {
+                                "value": "13953",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "61",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12547",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13934",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14203",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12055",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14196",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "14202",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "available": {
+                            "value": "0",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "TRIBAN",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nature": {
+                            "value": "Road bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "size": {
+                            "value": "XS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sale": {
+                            "value": "",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "genders": [
+                            {
+                                "value": "Men",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "practices": [
+                            {
+                                "value": "CYCLING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "ROAD BIKING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "BIKE TOURING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id_code_model": "8377732",
+                    "id_super_model": "145567",
+                    "id_code_article": "2163488",
+                    "made_for": "We've designed this bike specially for and with beginners: reassuring tires, simple speed changes, and straight handlebars!",
+                    "libelle_web": null,
+                    "teaser": "Discover the perfect bike for starting out: with its single chainring, you'll never mistake your speed! Enjoy a comfortable ride thanks to the 32 mm tires, and take on the roads and trails with gusto!",
+                    "product_name": "Triban 100 Cycle Touring Road Bike - Grey",
+                    "composition": null,
+                    "category": [
+                        13953,
+                        61,
+                        12547,
+                        13934
+                    ],
+                    "stock": 0,
+                    "available": 0,
+                    "popularity": 0,
+                    "brand": "BTWIN",
+                    "url": "https://www.decathlon.ca/en/endurance-road-bikes/145567-5239-triban-100-road-bike-grey.html#/demodelcolor-8377732/demodelsize-200g",
+                    "image_url": "https://contents.mediadecathlon.com/p1141187/k$a2688871e479ce571dc6e2ba8383a4f4/prod.jpg?&f=250x180",
+                    "thumb_url": "https://contents.mediadecathlon.com/p1141187/k$a2688871e479ce571dc6e2ba8383a4f4/prod.jpg?&f=40x40",
+                    "currency": "CAD",
+                    "currency_sign": "$",
+                    "dynamic_facets": [
+                        "prix",
+                        "nature",
+                        "brand",
+                        "sale",
+                        "generic_color",
+                        "size",
+                        "genders"
+                    ],
+                    "nature": "Road bike",
+                    "life_cycle": "NO_STOCK_CAC",
+                    "generic_color": "#9F9FA0",
+                    "size": "L",
+                    "prix": 390,
+                    "regular": 390,
+                    "sale": "",
+                    "percentoff": 0,
+                    "genders": [
+                        "Men"
+                    ],
+                    "practices": [
+                        "CYCLING",
+                        "ROAD BIKING",
+                        "BIKE TOURING"
+                    ],
+                    "last_updated_on": "2021-05-13T00:53:22-04:00",
+                    "variations": [],
+                    "buryme": 0,
+                    "objectID": "2163488",
+                    "_highlightResult": {
+                        "id_code_model": {
+                            "value": "8377732",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_super_model": {
+                            "value": "145567",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_code_article": {
+                            "value": "2163488",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "product_name": {
+                            "value": "Triban 100 Cycle Touring Road Bike - Grey",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "category": [
+                            {
+                                "value": "13953",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "61",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12547",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13934",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "available": {
+                            "value": "0",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "BTWIN",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nature": {
+                            "value": "Road bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "size": {
+                            "value": "L",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sale": {
+                            "value": "",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "genders": [
+                            {
+                                "value": "Men",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "practices": [
+                            {
+                                "value": "CYCLING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "ROAD BIKING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "BIKE TOURING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id_code_model": "8504030",
+                    "id_super_model": "302303",
+                    "id_code_article": "2471313",
+                    "made_for": "A gravel bike designed for regular rides. Guaranteed comfort and performance on trails and rolling terrain",
+                    "libelle_web": null,
+                    "teaser": "Discover gravel. Its wide handlebars with 16° flare, 700 wheels and size 35 Tubeless Ready tires, and Shimano 105 R7000 in 50/34 provide comfort and performance on rolling trails.",
+                    "product_name": "RC520 gravel bike - Shimano 105",
+                    "composition": null,
+                    "category": [
+                        13953,
+                        61,
+                        12547,
+                        13934
+                    ],
+                    "buryme": 0,
+                    "stock": 0,
+                    "available": 0,
+                    "popularity": 0,
+                    "brand": "TRIBAN",
+                    "url": "https://www.decathlon.ca/en/endurance-road-bikes/302303-65568-rc520-gravel-bike-shimano-105.html#/demodelsize-200tp/demodelcolor-8504030",
+                    "image_url": "https://contents.mediadecathlon.com/p1614792/k$f33e6326a8e619c23de2548b6da706dd/prod.jpg?&f=250x180",
+                    "thumb_url": "https://contents.mediadecathlon.com/p1614792/k$f33e6326a8e619c23de2548b6da706dd/prod.jpg?&f=40x40",
+                    "currency": "CAD",
+                    "currency_sign": "$",
+                    "dynamic_facets": [
+                        "prix",
+                        "nature",
+                        "brand",
+                        "sale",
+                        "generic_color",
+                        "size",
+                        "genders"
+                    ],
+                    "nature": "Gravel bike",
+                    "life_cycle": "ACTIVE",
+                    "generic_color": "#000000",
+                    "size": "XS",
+                    "prix": 1450,
+                    "regular": 1450,
+                    "sale": "",
+                    "percentoff": 0,
+                    "genders": [
+                        "Men"
+                    ],
+                    "practices": [
+                        "GRAVEL CYCLING",
+                        "CYCLING",
+                        "ROAD BIKING"
+                    ],
+                    "last_updated_on": "2021-05-13T01:04:02-04:00",
+                    "variations": [
+                        {
+                            "id_super_model": "302303",
+                            "id_code_model": "8504030",
+                            "id_code_article": "2471309",
+                            "image_url": "https://contents.mediadecathlon.com/p1614792/k$f33e6326a8e619c23de2548b6da706dd/prod.jpg?&f=40x40",
+                            "size": "L",
+                            "generic_color": "#000000",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302303-65564-rc520-gravel-bike-shimano-105.html#/demodelsize-200g/demodelcolor-8504030",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302303",
+                            "id_code_model": "8504030",
+                            "id_code_article": "2471310",
+                            "image_url": "https://contents.mediadecathlon.com/p1614792/k$f33e6326a8e619c23de2548b6da706dd/prod.jpg?&f=40x40",
+                            "size": "M",
+                            "generic_color": "#000000",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302303-65565-rc520-gravel-bike-shimano-105.html#/demodelsize-200m/demodelcolor-8504030",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302303",
+                            "id_code_model": "8504030",
+                            "id_code_article": "2471311",
+                            "image_url": "https://contents.mediadecathlon.com/p1614792/k$f33e6326a8e619c23de2548b6da706dd/prod.jpg?&f=40x40",
+                            "size": "S",
+                            "generic_color": "#000000",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302303-65566-rc520-gravel-bike-shimano-105.html#/demodelsize-200p/demodelcolor-8504030",
+                            "stock": 0
+                        },
+                        {
+                            "id_super_model": "302303",
+                            "id_code_model": "8504030",
+                            "id_code_article": "2471312",
+                            "image_url": "https://contents.mediadecathlon.com/p1614792/k$f33e6326a8e619c23de2548b6da706dd/prod.jpg?&f=40x40",
+                            "size": "XL",
+                            "generic_color": "#000000",
+                            "url": "https://www.decathlon.ca/en/endurance-road-bikes/302303-65567-rc520-gravel-bike-shimano-105.html#/demodelsize-200tg/demodelcolor-8504030",
+                            "stock": 0
+                        }
+                    ],
+                    "objectID": "2471313",
+                    "_highlightResult": {
+                        "id_code_model": {
+                            "value": "8504030",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_super_model": {
+                            "value": "302303",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "id_code_article": {
+                            "value": "2471313",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "product_name": {
+                            "value": "RC520 gravel bike - Shimano 105",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "category": [
+                            {
+                                "value": "13953",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "61",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "12547",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "13934",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "available": {
+                            "value": "0",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "TRIBAN",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nature": {
+                            "value": "Gravel bike",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "size": {
+                            "value": "XS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "sale": {
+                            "value": "",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "genders": [
+                            {
+                                "value": "Men",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ],
+                        "practices": [
+                            {
+                                "value": "GRAVEL CYCLING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "CYCLING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "ROAD BIKING",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                }
+            ],
+            "nbHits": 13,
+            "page": 0,
+            "nbPages": 1,
+            "hitsPerPage": 20,
+            "facets": {
+                "size": {
+                    "S": 12,
+                    "M": 11,
+                    "XS": 11,
+                    "L": 8,
+                    "XL": 5
+                },
+                "brand": {
+                    "TRIBAN": 46,
+                    "BTWIN": 1
+                },
+                "nature": {
+                    "Road bike": 41,
+                    "Gravel bike": 6
+                },
+                "genders": {
+                    "Men": 29,
+                    "Women": 18
+                },
+                "available": {
+                    "0": 46,
+                    "1": 1
+                },
+                "practices": {
+                    "CYCLING": 47,
+                    "ROAD BIKING": 47,
+                    "BIKE TOURING": 41,
+                    "GRAVEL CYCLING": 6
+                },
+                "generic_color": {
+                    "#9F9FA0": 11,
+                    "#0070B1": 9,
+                    "#FFFFFF": 7,
+                    "#000000": 5,
+                    "#4DBABE": 3,
+                    "#E30076": 3,
+                    "#00883F": 1
+                }
+            },
+            "facets_stats": {
+                "available": {
+                    "min": 0,
+                    "max": 1,
+                    "avg": 0,
+                    "sum": 1
+                }
+            },
+            "exhaustiveFacetsCount": false,
+            "exhaustiveNbHits": true,
+            "query": "",
+            "params": "ruleContexts=%5B%22category_13953%22%5D&clickAnalytics=true&distinct=true&filters=category%20%3D%2013953&highlightPreTag=__ais-highlight__&highlightPostTag=__%2Fais-highlight__&page=0&maxValuesPerFacet=20&facets=%5B%22nature%22%2C%22practices%22%2C%22genders%22%2C%22generic_color%22%2C%22size%22%2C%22brand%22%2C%22available%22%2C%22sale%22%5D&tagFilters=",
+            "index": "prod_en",
+            "queryID": "cd347e8f6770b1de3cd5e852a2e0b33a",
+            "processingTimeMS": 1
+        }
+    ]
+}
