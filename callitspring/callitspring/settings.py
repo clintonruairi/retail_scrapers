@@ -18,8 +18,8 @@ NEWSPIDER_MODULE = 'callitspring.spiders'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
-# LOG_FILE = 'logs.txt'
-# LOG_LEVEL = 4
+LOG_FILE = 'logs.txt'
+LOG_LEVEL = 4
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 

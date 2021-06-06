@@ -9,8 +9,8 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-# LOG_FILE = 'logs.txt'
-# LOG_LEVEL = 4
+LOG_FILE = 'logs.txt'
+LOG_LEVEL = 4
 
 BOT_NAME = 'petland'
 

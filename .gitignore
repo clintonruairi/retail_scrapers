@@ -12,6 +12,7 @@ logs.txt
 *.csv
 *.xlsx
 *.xlsx#
+*.csv#
 # Distribution / packaging
 .Python
 build/

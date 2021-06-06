@@ -12,7 +12,8 @@ BOT_NAME = 'globalpetfoods'
 SPIDER_MODULES = ['globalpetfoods.spiders']
 NEWSPIDER_MODULE = 'globalpetfoods.spiders'
 
-
+LOG_FILE = 'logs.txt'
+LOG_LEVEL = 4
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'globalpetfoods (+http://www.yourdomain.com)'
 

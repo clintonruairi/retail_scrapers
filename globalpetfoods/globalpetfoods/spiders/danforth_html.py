@@ -204,6 +204,12 @@ class DanforthglobalpetfoodsCategoriesSpider(scrapy.Spider):
                     discounted_qty = qty_count_result.group()
                 else:
                     regular_qty = qty_count_result.group()
+        if size_without_unit:
+            size_w_unit_pattern = r""".*?("|'|qt|inch|ct|uv|quart|meter|pint|ft|oz|in|mm|Watts|gram)"""
+            size_w_unit_result = re.search(size_w_unit_pattern, size_without_unit, flags=re.IGNORECASE)
+            if size_w_unit_result:
+                size_with_unit = size_without_unit
+                size_without_unit = None
         yield {
             'product_link': product_link,
             'product_name': product_name,
@@ -298,6 +304,12 @@ class DanforthglobalpetfoodsCategoriesSpider(scrapy.Spider):
                     discounted_qty = qty_count_result.group()
                 else:
                     regular_qty = qty_count_result.group()
+        if size_without_unit:
+            size_w_unit_pattern = r""".*?("|'|qt|inch|ct|uv|quart|meter|pint|ft|oz|in|mm|Watts|gram)"""
+            size_w_unit_result = re.search(size_w_unit_pattern, size_without_unit, flags=re.IGNORECASE)
+            if size_w_unit_result:
+                size_with_unit = size_without_unit
+                size_without_unit = None
         yield {
             'product_link': product_link,
             'product_name': product_name,

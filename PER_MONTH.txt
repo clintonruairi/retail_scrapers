@@ -23,12 +23,12 @@ fortinos - upload v3
 childrensplace - upload v3
 
 NEW:
-petland - v1 running.
-globalpetfoods - v1 running.
-aritzia - v1 written.
-callitspring - v1 written.
-decathlon - v1 written
-harryrosen - v1 written
-holtrenfrew - v1 written
-lululemon - v1 written
-paulmacs - 
+petland - v1 ran, review.
+globalpetfoods - v1 ran, review.
+aritzia - v1 to upload.
+callitspring - v1 to upload.
+decathlon - v1 to upload.
+harryrosen - v1 to upload.
+holtrenfrew - v1 running.
+lululemon - v1 to upload.
+paulmacs - v1 to upload.

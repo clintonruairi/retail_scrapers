@@ -15,7 +15,8 @@ NEWSPIDER_MODULE = 'lululemon.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'lululemon (+http://www.yourdomain.com)'
-
+LOG_FILE = 'logs.txt'
+LOG_LEVEL = 4
 ROBOTSTXT_OBEY = False
 # ITEM_PIPELINES = {
 #    'lululemon.pipelines.MySQLPipeline': 300,

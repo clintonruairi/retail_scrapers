@@ -12,7 +12,8 @@ BOT_NAME = 'decathlon'
 SPIDER_MODULES = ['decathlon.spiders']
 NEWSPIDER_MODULE = 'decathlon.spiders'
 
-
+LOG_FILE = 'logs.txt'
+LOG_LEVEL = 4
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'decathlon (+http://www.yourdomain.com)'
 

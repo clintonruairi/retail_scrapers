@@ -12,7 +12,8 @@ BOT_NAME = 'aritzia'
 SPIDER_MODULES = ['aritzia.spiders']
 NEWSPIDER_MODULE = 'aritzia.spiders'
 
-
+LOG_FILE = 'logs.txt'
+LOG_LEVEL = 4
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'aritzia (+http://www.yourdomain.com)'
 

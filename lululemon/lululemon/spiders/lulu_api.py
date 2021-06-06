@@ -274,7 +274,6 @@ class LululemonSpider(scrapy.Spider):
         for variant in result.get('data').get('attributes').get('child-skus'):
             size_without_unit = variant.get('size')
             currency = variant.get('price-details').get('currency-code')
-            print(f'currency\n\n{currency}\n\n')
             color_code = variant.get('color-code')
             for item in result.get('data').get('attributes').get('product-carousel'):
                     if item.get('color-code') == variant['color-code']:

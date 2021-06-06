@@ -211,6 +211,15 @@ class PetlandHtmlSpider(scrapy.Spider):
             if " x " in size_without_unit:
                 dimension = size_without_unit
                 size_without_unit = None
+            size_w_unit_pattern = r""".*?("|'|QT|qt|inch|ct|UV|Quart|meter|Pint|ft|oz|in|mm|Watts)"""
+            size_w_unit_result = re.search(size_w_unit_pattern, size_without_unit, flags=re.IGNORECASE)
+            if size_w_unit_result:
+                size_with_unit = size_without_unit
+                size_without_unit = None
+        if size_with_unit:
+            if ' x ' in size_with_unit:
+                dimension = size_with_unit
+                size_with_unit = None
         yield {
             'product_link': product_link,
             'product_name': product_name,

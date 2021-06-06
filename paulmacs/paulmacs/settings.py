@@ -18,9 +18,10 @@ NEWSPIDER_MODULE = 'paulmacs.spiders'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
-
+LOG_FILE = 'logs.txt'
+LOG_LEVEL = 4
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-CONCURRENT_REQUESTS = 128
+CONCURRENT_REQUESTS = 8
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
