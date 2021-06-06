@@ -2,13 +2,14 @@
 import scrapy
 import time
 import json
-from lululemon.items import MySQLItem
 
 class LululemonSpider(scrapy.Spider):
     name = 'lululemon_api'
+    data_timestamp = int(time.time())
+    data_year_month = time.strftime('%Y%m')
+
 
     def start_requests(self):
-        current_time = int(time.time())
         # self.categories = {
         #     'womens-leggings/_/N-8s6': 'women|clothes|women_leggings',
         #     'jackets-and-hoodies-jackets/_/N-8s2': 'women|clothes|coats_jackets',
@@ -169,15 +170,13 @@ class LululemonSpider(scrapy.Spider):
                                 headers=self.headers,
                                 callback=self.parse_category,
                                 meta={
-                                    'crumbs': crumbs,
-                                    'time': current_time
+                                    'crumbs': crumbs
                                 }
                         )
 
     def parse_category(self, response):
         crumbs = response.meta.get('crumbs')
         result = json.loads(response.body)
-        time = response.meta.get('time')
         for product in result.get("data").get("attributes").get("main-content")[0].get("records"):
             name = product.get("display-name")
             sub_category = product.get("parent-category-unified-id")
@@ -209,7 +208,6 @@ class LululemonSpider(scrapy.Spider):
                     'sub_category': sub_category,
                     'brand': brand,
                     'api_link': api_link,
-                    'time': time,
                     'product_link': product_link,
                     "product": product,
                     'bazaar_id': bazaar_id,
@@ -226,7 +224,6 @@ class LululemonSpider(scrapy.Spider):
         sub_category = response.meta.get('sub_category')
         brand = response.meta.get('brand')
         api_link = response.meta.get('api_link')
-        time = response.meta.get('time')
         try:
             reviews = result.get("BatchedResults").get('q0').get('TotalResults')
             rating = result.get("BatchedResults").get('q0').get('Includes').get('Products').get(bazaar_id).get('ReviewStatistics').get('AverageOverallRating')
@@ -244,7 +241,6 @@ class LululemonSpider(scrapy.Spider):
                                 'name': name,
                                 'sub_category': sub_category,
                                 'brand': brand,
-                                'time': time,
                                 'api_link': api_link,
                                 'reviews': reviews,
                                 'rating': rating,
@@ -257,15 +253,26 @@ class LululemonSpider(scrapy.Spider):
         website = 'https://shop.lululemon.com'
         result = json.loads(response.body)
         crumbs = response.meta.get('crumbs')
-        rating = response.meta.get('rating')
-        reviews = response.meta.get('reviews')
+        breadcrumb = f'home|{crumbs}'
+        average_rating = response.meta.get('rating')
+        num_reviews = response.meta.get('reviews')
         product_link = response.meta.get('product_link')
         un_name = response.meta.get('name').strip()
         name = un_name.replace('*', '')
         brand = response.meta.get('brand')
-        current_time = response.meta.get('time')
+        description = result.get('data').get('attributes').get('product-summary').get('why-we-made-this')
+        if description:
+            description = " ".join(description.split())
+            description = description.replace('&mdash', '')
+        else:
+            try:
+                description = result.get('data').get('attributes').get('whyWeMadeThis').get('text')
+                description = " ".join(description.split())
+                description = description.replace('&mdash', '')
+            except:
+                description = None
         for variant in result.get('data').get('attributes').get('child-skus'):
-            size = variant.get('size')
+            size_without_unit = variant.get('size')
             currency = variant.get('price-details').get('currency-code')
             print(f'currency\n\n{currency}\n\n')
             color_code = variant.get('color-code')
@@ -277,61 +284,48 @@ class LululemonSpider(scrapy.Spider):
             sku = variant.get('id')
             in_stock = variant.get('available')
             if in_stock:
-                in_stock = 'In_Stock'
+                stock_level = 'In_Stock'
             else:
-                in_stock = 'Out_Of_Stock'
+                stock_level = 'Out_Of_Stock'
             try:
-                sale_price = variant.get('price-details').get('sale-price')
+                discounted_price = variant.get('price-details').get('sale-price')
             except:
-                sale_price = None
-            price = variant.get('price-details').get('list-price')
+                discounted_price = None
+            regular_price = variant.get('price-details').get('list-price')
             product_id = result.get('data').get('attributes').get('product-summary').get('pdp-url')
-            product_link = f'{website}{product_id}?color={color_code}&sz={size}'
+            product_link = f'{website}{product_id}?color={color_code}&sz={size_without_unit}'
             product_name = name.strip()
+
             yield {
-                'product_link': product_link,
-                'product_name': product_name,
-                'brand': brand,
-                'category': f'home|{crumbs}',
-                'regular_price': price,
-                'discounted_price': sale_price,
-                'price_unit': None,
-                'size': size,
-                'color': color,
-                'flavor': None,
-                'weight': None,
-                'average_rating': rating,
-                'num_reviews': reviews,
-                'image_link': image_link,
-                'sku': sku,
-                'upc': None,
-                'stock_level': in_stock,
-                'sold_by_3rd_party': 0,
-                'shipped_by': None,
-                'data_timestamp': current_time,
-                'data_year_month': time.strftime('%Y%m')
-            }
-            # items["product_link"] = product_link
-            # items["product_name"] = name
-            # items["brand"] = brand
-            # items["category"] = f'home|{crumbs}'
-            # items["regular_price"] = price
-            # items["discounted_price"] = sale_price
-            # items["price_unit"] = None
-            # items["size"] = size
-            # items["color"] = color
-            # items["flavor"] = None
-            # items["weight"] = None
-            # items["average_rating"] = rating
-            # items["num_reviews"] = reviews
-            # items["image_link"] = image_link
-            # items["sku"] = sku
-            # items["upc"] = None
-            # items["stock_level"] = in_stock
-            # items["sold_by_3rd_party"] = 0
-            # items["shipped_by"] = None
-            # items["data_timestamp"] = current_time
-            # items["data_year_month"] = time.strftime("%Y%m")
-            # yield items
+            'product_link': product_link,
+            'product_name': product_name,
+            'brand': brand, 
+            'breadcrumb': breadcrumb,
+            'size_without_unit': size_without_unit,
+            'size_with_unit': None,
+            'dimension': None,
+            'color': color,
+            'sku': sku,
+            'upc': None,
+            'regular_price': regular_price,
+            'regular_qty': None,
+            'regular_unit': None,
+            'discounted_price': discounted_price,
+            'discounted_qty': None,
+            'discounted_unit': None,
+            'currency': 'CAD',
+            'average_rating': average_rating,
+            'num_reviews': num_reviews,
+            'shipped_by': None,
+            'sold_by_third_party': 0, 
+            'stock_level': stock_level,
+            'online_only': False,
+            'brief': None,
+            'description': description,
+            'image_link': image_link,
+            'data_timestamp': self.data_timestamp,
+            'data_year_month': self.data_year_month, 
+            'retailer_code': None
+        }
 
 

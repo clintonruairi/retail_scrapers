@@ -10,11 +10,11 @@ import math
 class PaulmacsHtmlSpider(scrapy.Spider):
     handle_httpstatus_list = [404]
     name = 'paulmacs_html'
-    allowed_domains = ['paulmacs.com']
+    data_timestamp = int(time.time())
+    data_year_month = time.strftime('%Y%m')
+    
        
     def start_requests(self):
-        current_time = int(time.time())
-        data_year_month = time.strftime('%Y%m')
         categories = {
             'Dog': [
                     ['Food', '29'], ['Treats', '31'], ['Toys', '30'], ['Collars &amp; Leashes', '2252'], 
@@ -67,8 +67,6 @@ class PaulmacsHtmlSpider(scrapy.Spider):
                                     formdata=form_data,
                                     callback=self.parse_json_search,
                                     meta={
-                                        'time': current_time,
-                                        'data_year_month': data_year_month,
                                         'category': f'{parentnams}|{cname_termid[0]}'.replace('amp;', ''),
                                         'parentnams': parentnams,
                                         'cname': cname_termid[0],
@@ -101,22 +99,15 @@ class PaulmacsHtmlSpider(scrapy.Spider):
                                 url=link,
                                 callback=self.parse_html_search,
                                 meta={
-                                    'time': current_time,
-                                    'category': category,
-                                    'data_year_month': data_year_month
+                                    'category': category
                                 }
             )
     
     def parse_json_search(self, response):
-        time = response.meta.get('time')
-        data_year_month = response.meta.get('data_year_month')
         category = response.meta.get('category')
         parentnams = response.meta.get('parentnams')
-        print(f'\n\nparentnams: {parentnams}\n\n')
         cname = response.meta.get('cname')
-        print(f'\n\ncname: {cname}\n\n')
         term_id = response.meta.get('term_id')
-        print(f'\n\nterm_id: {term_id}\n\n')
         json_resp = json.loads(response.text)
         html = json_resp.get('data_div_right')
         html_response = HtmlResponse(url='my_string', body=html, encoding='utf-8')
@@ -126,10 +117,7 @@ class PaulmacsHtmlSpider(scrapy.Spider):
                                 url=link,
                                 callback=self.parse_product,
                                 meta={
-                                    'time': time,
-                                    'data_year_month': data_year_month,
-                                    'category': category,
-
+                                    'category': category
                                 }
             )
         number_of_products = int(json_resp.get('product_count'))
@@ -155,8 +143,6 @@ class PaulmacsHtmlSpider(scrapy.Spider):
                                     formdata=form_data,
                                     callback=self.parse_json_search_further,
                                     meta={
-                                        'time': time,
-                                        'data_year_month': data_year_month,
                                         'category': category
                                     },
                                     dont_filter=True
@@ -164,8 +150,6 @@ class PaulmacsHtmlSpider(scrapy.Spider):
                 )
     
     def parse_json_search_further(self, response):
-        time = response.meta.get('time')
-        data_year_month = response.meta.get('data_year_month')
         category = response.meta.get('category')
         json_resp = json.loads(response.text)
         html = json_resp.get('data_div_right')
@@ -176,26 +160,20 @@ class PaulmacsHtmlSpider(scrapy.Spider):
                                 url=link,
                                 callback=self.parse_product,
                                 meta={
-                                    'time': time,
-                                    'data_year_month': data_year_month,
-                                    'category': category,
+                                    'category': category
 
                                 }
             )
     
     def parse_html_search(self, response):
-        time = response.meta.get('time')
         category = response.meta.get('category')
-        data_year_month = response.meta.get('data_year_month')
         links = response.xpath('//div[@class="archiveproinner"]/a/@href').getall()
         for link in links:
             yield scrapy.Request(
                                 url=link,
                                 callback=self.parse_product,
                                 meta={
-                                    'time': time,
-                                    'data_year_month': data_year_month,
-                                    'category': category,
+                                    'category': category
 
                                 }
             )
@@ -203,18 +181,25 @@ class PaulmacsHtmlSpider(scrapy.Spider):
 
 
     def parse_product(self, response):
-        weight = None
-        time = response.meta.get('time')
-        data_year_month = response.meta.get('data_year_month')
-        category = response.meta.get('category')
-        category = f'Home|{category}'
+        size_with_unit = None
+        size_without_unit = None
+        regular_qty = None
+        discounted_qty = None
+        regular_unit = None
+        discounted_unit = None
+        discounted_price = None
+        size_w_unit_pattern = r'[0-9]*\.?[0-9]+ ?(QT|PT|IN|FT|CP|CM|OZ|GAL|ML|LB|CT|G|L|WT|KG)$'
+        quantity_pattern = r'[0-9]*\.?[0-9]+ ?(PK|PC)'
+        number_qty_pattern = r'[0-9]*\.?[0-9]+'
+        breadcrumb = response.meta.get('category')
+        breadcrumb = f'Home|{breadcrumb}'
         product_link = response.url
         product_name = response.xpath('//div[@class="product_title"]/text()').get()
         product_name = product_name.replace(';', '')
         brand = response.xpath('//div[@class="brand-name"]/text()').get()
         if product_name.startswith('FerretSheen'):
             brand = 'Ferret Sheen'
-        in_stock = 'In_Stock'
+        stock_level = 'In_Stock'
         prices_no_discount = response.xpath('//div[@class="item_price"]/text()').getall()
         original_price = response.xpath('//div[@class="item_price sales_pirce"]/text()').getall()
         discounted_prices = response.xpath('//div[@class="item_price discounts_pirce"]/text()').getall()
@@ -225,61 +210,67 @@ class PaulmacsHtmlSpider(scrapy.Spider):
         for sku in unformatted_skus:
             result = re.search(pattern, sku)
             skus.append(result.group())
-        weights = response.xpath('//div[@class="itemno"]/span/text()').getall()
+        units = response.xpath('//div[@class="itemno"]/span/text()').getall()
+        description = response.xpath('//div[@id="description"]/text()').get()
+        # for items not on sale
         if prices_no_discount and not original_price:
             count = 0
             for price in prices_no_discount:
                 regular_price = price[1:]
                 regular_price = regular_price.replace(' ea.', '')
                 discounted_price = None
-                weight = weights[count]
-                size = None
-                price_unit = None
-                price_unit_pattern = r'.*(EA|WT|MO)'
-                price_unit_result = re.search(price_unit_pattern, weight)
-                if price_unit_result:
-                    price_unit = None
-                    weight = None
-                    size = None
+                unit = units[count]
+                unit = unit.strip()
+                size_w_unit_result = re.search(size_w_unit_pattern, unit, flags=re.IGNORECASE)
+                if size_w_unit_result:
+                    size_with_unit = size_w_unit_result.group()
                 else:
-                    size_pattern = r'.*(IN|PC|pk|QT|SM|MD|LG|PK|XL|XS|XXS|FT|SZ|sz|xs|xl|ft|CM|cm|CP|cp|PT|pt)'
-                    size_result = re.search(size_pattern, weight)
-                    if size_result:
-                        size = weight
-                        weight = None
-                        price_unit = None
+                    quantity_result = re.search(quantity_pattern, unit, flags=re.IGNORECASE)
+                    if quantity_result:
+                        regular_qty_w_unit = quantity_result.group()
+                        regular_qty = re.search(regular_qty_w_unit, number_qty_pattern).group()
+                    else:
+                        if 'ea' in unit.lower():
+                            regular_unit = 'EA'
+                        else:
+                            size_without_unit = unit
                 sku = skus[count]
                 count += 1
-                if weight:
-                    if weight.endswith('.0'):
-                        weight = None
-                    if weight == '0' or weight == ' 0':
-                        weight = None
-                if not weight:
-                    weight = None
+                if unit:
+                    if unit == '0' or unit == ' 0':
+                        size_with_unit = None
+                        size_without_unit = None
                 yield {
                     'product_link': product_link,
                     'product_name': product_name,
-                    'brand': brand,
-                    'category': category,
-                    'regular_price': regular_price,
-                    'discounted_price': discounted_price,
-                    'price_unit': price_unit,
-                    'size': size,
-                    'color': None,
-                    'flavor': None,
-                    'weight': weight,
-                    'average_rating': None,
-                    'num_reviews': None,
-                    'image_link': image_link,
+                    'brand': brand, 
+                    'breadcrumb': breadcrumb,
+                    'size_without_unit': size_without_unit,
+                    'size_with_unit': size_with_unit,
+                    'dimension': None,
                     'sku': sku,
                     'upc': None,
-                    'stock_level': in_stock,
-                    'sold_by_3rd_party': 0,
+                    'regular_price': regular_price,
+                    'regular_qty': regular_qty,
+                    'regular_unit': regular_unit,
+                    'discounted_price': discounted_price,
+                    'discounted_qty': discounted_qty,
+                    'discounted_unit': discounted_unit,
+                    'currency': 'CAD',
+                    'average_rating': None,
+                    'num_reviews': None,
                     'shipped_by': None,
-                    'data_timestamp': time,
-                    'data_year_month': data_year_month
+                    'sold_by_third_party': 0, 
+                    'stock_level': stock_level,
+                    'online_only': False,
+                    'brief': None,
+                    'description': description,
+                    'image_link': image_link,
+                    'data_timestamp': self.data_timestamp,
+                    'data_year_month': self.data_year_month, 
+                    'retailer_code': None
                 }
+        # for items on sale
         elif original_price and not prices_no_discount:
             count = 0
             for price in original_price:
@@ -288,52 +279,57 @@ class PaulmacsHtmlSpider(scrapy.Spider):
                 unformatted_discounted_price = discounted_prices[count]
                 discounted_price = unformatted_discounted_price[1:]
                 discounted_price = discounted_price.replace(' ea.', '')
-                weight = weights[count]
-                size = None
-                price_unit = None
-                price_unit_pattern = r'.*(EA|WT|MO)'
-                price_unit_result = re.search(price_unit_pattern, weight)
-                if price_unit_result:
-                    price_unit = None
-                    weight = None
-                    size = None
+                unit = units[count]
+                unit = unit.strip()
+                size_w_unit_result = re.search(size_w_unit_pattern, unit, flags=re.IGNORECASE)
+                if size_w_unit_result:
+                    size_with_unit = size_w_unit_result.group()
                 else:
-                    size_pattern = r'.*(IN|PC|pk|QT|SM|MD|LG|PK|XL|XS|XXS|FT|SZ|sz|xs|xl|ft|CM|cm|CP|cp|PT|pt)'
-                    size_result = re.search(size_pattern, weight)
-                    if size_result:
-                        size = weight
-                        weight = None
-                        price_unit = None
+                    quantity_result = re.search(quantity_pattern, unit, flags=re.IGNORECASE)
+                    if quantity_result:
+                        regular_qty_w_unit = quantity_result.group()
+                        discounted_qty = re.search(regular_qty_w_unit, number_qty_pattern).group()
+                    else:
+                        if 'ea' in unit.lower():
+                            regular_unit = 'EA'
+                        else:
+                            size_without_unit = unit
                 sku = skus[count]
                 count += 1
-                if weight:
-                    if weight.endswith('.0'):
-                        weight = None
-                    if weight == '0' or weight == ' 0':
-                        weight = None
+                if unit:
+                    if unit == '0' or unit == ' 0':
+                        size_with_unit = None
+                        size_without_unit = None
                 yield {
                     'product_link': product_link,
                     'product_name': product_name,
-                    'brand': brand,
-                    'category': category,
-                    'regular_price': regular_price,
-                    'discounted_price': discounted_price,
-                    'price_unit': price_unit,
-                    'size': size,
-                    'color': None,
-                    'flavor': None,
-                    'weight': weight,
-                    'average_rating': None,
-                    'num_reviews': None,
-                    'image_link': image_link,
+                    'brand': brand, 
+                    'breadcrumb': breadcrumb,
+                    'size_without_unit': size_without_unit,
+                    'size_with_unit': size_with_unit,
+                    'dimension': None,
                     'sku': sku,
                     'upc': None,
-                    'stock_level': in_stock,
-                    'sold_by_3rd_party': 0,
+                    'regular_price': regular_price,
+                    'regular_qty': regular_qty,
+                    'regular_unit': regular_unit,
+                    'discounted_price': discounted_price,
+                    'discounted_qty': discounted_qty,
+                    'discounted_unit': discounted_unit,
+                    'currency': 'CAD',
+                    'average_rating': None,
+                    'num_reviews': None,
                     'shipped_by': None,
-                    'data_timestamp': time,
-                    'data_year_month': data_year_month
-                    }
+                    'sold_by_third_party': 0, 
+                    'stock_level': stock_level,
+                    'online_only': False,
+                    'brief': None,
+                    'description': description,
+                    'image_link': image_link,
+                    'data_timestamp': self.data_timestamp,
+                    'data_year_month': self.data_year_month, 
+                    'retailer_code': None
+                }
         elif prices_no_discount and original_price:
             both_prices = response.xpath('//div[@class="item_price"]/text() | //div[@class="item_price sales_pirce"]/text()').getall()
             count = 0
@@ -345,78 +341,61 @@ class PaulmacsHtmlSpider(scrapy.Spider):
                 if discounted_price:
                     discounted_price = discounted_price[1:]
                     discounted_price = discounted_price.replace(' ea.', '')
-                weight = weights[count]
-                size = None
-                price_unit = None
-                price_unit_pattern = r'.*(EA|WT|MO)'
-                price_unit_result = re.search(price_unit_pattern, weight)
-                if price_unit_result:
-                    price_unit = None
-                    weight = None
-                    size = None
+                unit = units[count]
+                unit = unit.strip()
+                size_w_unit_result = re.search(size_w_unit_pattern, unit, flags=re.IGNORECASE)
+                if size_w_unit_result:
+                    size_with_unit = size_w_unit_result.group()
                 else:
-                    size_pattern = r'.*(IN|PC|pk|QT|SM|MD|LG|PK|XL|XS|XXS|FT|SZ|sz|xs|xl|ft|CM|cm|CP|cp|PT|pt)'
-                    size_result = re.search(size_pattern, weight)
-                    if size_result:
-                        size = weight
-                        weight = None
-                        price_unit = None
+                    quantity_result = re.search(quantity_pattern, unit, flags=re.IGNORECASE)
+                    if quantity_result:
+                        regular_qty_w_unit = quantity_result.group()
+                        if discounted_price:
+                            discounted_qty = re.search(regular_qty_w_unit, number_qty_pattern).group()
+                        else:
+                            regular_qty = re.search(regular_qty_w_unit, number_qty_pattern).group()
+                    else:
+                        if 'ea' in unit.lower():
+                            regular_unit = 'EA'
+                        else:
+                            size_without_unit = unit
                 sku = skus[count]
                 count += 1
                 xpath_count += 1
-                if weight:
-                    if weight.endswith('.0'):
-                        weight = None
-                if not weight:
-                    weight = None
+                if unit:
+                    if unit == '0' or unit == ' 0':
+                        size_with_unit = None
+                        size_without_unit = None
                 yield {
                     'product_link': product_link,
                     'product_name': product_name,
-                    'brand': brand,
-                    'category': category,
-                    'regular_price': regular_price,
-                    'discounted_price': discounted_price,
-                    'price_unit': price_unit,
-                    'size': size,
-                    'color': None,
-                    'flavor': None,
-                    'weight': weight,
-                    'average_rating': None,
-                    'num_reviews': None,
-                    'image_link': image_link,
+                    'brand': brand, 
+                    'breadcrumb': breadcrumb,
+                    'size_without_unit': size_without_unit,
+                    'size_with_unit': size_with_unit,
+                    'dimension': None,
                     'sku': sku,
                     'upc': None,
-                    'stock_level': in_stock,
-                    'sold_by_3rd_party': 0,
+                    'regular_price': regular_price,
+                    'regular_qty': regular_qty,
+                    'regular_unit': regular_unit,
+                    'discounted_price': discounted_price,
+                    'discounted_qty': discounted_qty,
+                    'discounted_unit': discounted_unit,
+                    'currency': 'CAD',
+                    'average_rating': None,
+                    'num_reviews': None,
                     'shipped_by': None,
-                    'data_timestamp': time,
-                    'data_year_month': data_year_month
-                    }
-
-
-# {'downloader/request_bytes': 3141768,
-#  'downloader/request_count': 4613,
-#  'downloader/request_method_count/GET': 4493,
-#  'downloader/request_method_count/POST': 120,
-#  'downloader/response_bytes': 121260128,
-#  'downloader/response_count': 4613,
-#  'downloader/response_status_count/200': 4613,
-#  'dupefilter/filtered': 236,
-#  'elapsed_time_seconds': 367.242809,
-#  'finish_reason': 'finished',
-#  'finish_time': datetime.datetime(2021, 4, 4, 5, 19, 24, 177978),
-#  'item_scraped_count': 6733,
-#  'log_count/DEBUG': 11347,
-#  'log_count/INFO': 17,
-#  'memusage/max': 167174144,
-#  'memusage/startup': 55431168,
-#  'request_depth_max': 2,
-#  'response_received_count': 4613,
-#  'scheduler/dequeued': 4613,
-#  'scheduler/dequeued/memory': 4613,
-#  'scheduler/enqueued': 4613,
-#  'scheduler/enqueued/memory': 4613,
-#  'start_time': datetime.datetime(2021, 4, 4, 5, 13, 16, 935169)}
+                    'sold_by_third_party': 0, 
+                    'stock_level': stock_level,
+                    'online_only': False,
+                    'brief': None,
+                    'description': description,
+                    'image_link': image_link,
+                    'data_timestamp': self.data_timestamp,
+                    'data_year_month': self.data_year_month, 
+                    'retailer_code': None
+                }
 
 
 

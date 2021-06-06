@@ -7,7 +7,7 @@ import time
 
 class RosenApiSpider(scrapy.Spider):
     name = 'rosen_api'
-    time_now = int(time.time())
+    data_timestamp = int(time.time())
     data_year_month = time.strftime('%Y%m')
     
     def start_requests(self):
@@ -47,9 +47,16 @@ class RosenApiSpider(scrapy.Spider):
         results = data.get('results')[0].get('hits')
         for product in results:
             prod_id = product.get('_id')
+            available_online = product.get('webStatus')
+            if not available_online:
+                continue
+            description = product.get('marketingDescription')
             yield scrapy.Request(
                                 url=f'{api_base}{prod_id}',
-                                callback=self.parse_product
+                                callback=self.parse_product,
+                                meta={
+                                    'description': description
+                                }
             )
         products_left = data.get('results')[0].get('nbHits') - 1000
         if products_left > 0:
@@ -82,9 +89,13 @@ class RosenApiSpider(scrapy.Spider):
             available_online = product.get('webStatus')
             if not available_online:
                 continue
+            description = product.get('marketingDescription')
             yield scrapy.Request(
                                 url=f'{api_base}{prod_id}',
-                                callback=self.parse_product
+                                callback=self.parse_product,
+                                meta={
+                                    'description': description
+                                }
             )
 
     def parse_product(self, response):
@@ -103,9 +114,6 @@ class RosenApiSpider(scrapy.Spider):
             category = 'Home' + '|' + cat_1 + '|' + cat_2 + '|' + cat_3
             category = category.replace('||', '|')
             color = data.get('colour').get('en-CA')
-            # if '/' in color:
-            #     index = color.index('/')
-            #     color = color[:index]
             variants = data.get('variants')
             original_price = None
             try:
@@ -161,42 +169,51 @@ class RosenApiSpider(scrapy.Spider):
         product_link = response.meta.get('product_link')
         product_name = response.meta.get('product_name')
         brand = response.meta.get('brand')
-        category = response.meta.get('category')
+        breadcrumb = response.meta.get('category')
         regular_price = response.meta.get('regular_price')
         discounted_price = response.meta.get('discounted_price')
-        size = response.meta.get('size')
+        size_without_unit = response.meta.get('size')
         color = response.meta.get('color')
         image_link = response.meta.get('image_link')
         sku = response.meta.get('sku')
         resp = json.loads(response.text)
         stock_no = resp.get('online')
         if stock_no == 1:
-            in_stock = 'Low_Stock'
+            stock_level = 'Low_Stock'
         elif stock_no == 0:
-            in_stock = 'Out_Of_Stock'
+            stock_level = 'Out_Of_Stock'
         elif stock_no > 1:
-            in_stock = 'In_Stock'
+            stock_level = 'In_Stock'
+        description = response.meta.get('description')
 
         yield {
             'product_link': product_link,
-            'product_name': product_name, 
+            'product_name': product_name,
             'brand': brand, 
-            'category': category,
-            'regular_price': regular_price, 
-            'discounted_price': discounted_price,
-            'price_unit': None,
-            'size': size,
+            'breadcrumb': breadcrumb,
+            'size_without_unit': size_without_unit,
+            'size_with_unit': None,
+            'dimension': None,
             'color': color,
-            'flavor': None, 
-            'weight': None, 
-            'average_rating': None, 
-            'num_reviews': None, 
-            'image_link': image_link,
-            'sku': sku, 
+            'sku': sku,
             'upc': None,
-            'stock_level': in_stock,
-            'sold_by_3rd_party': 0,
+            'regular_price': regular_price,
+            'regular_qty': None,
+            'regular_unit': None,
+            'discounted_price': discounted_price,
+            'discounted_qty': None,
+            'discounted_unit': None,
+            'currency': 'CAD',
+            'average_rating': None,
+            'num_reviews': None,
             'shipped_by': None,
-            'data_timestamp': self.time_now,
-            'data_year_month': self.data_year_month
+            'sold_by_third_party': 0, 
+            'stock_level': stock_level,
+            'online_only': False,
+            'brief': None,
+            'description': description,
+            'image_link': image_link,
+            'data_timestamp': self.data_timestamp,
+            'data_year_month': self.data_year_month, 
+            'retailer_code': None
         }

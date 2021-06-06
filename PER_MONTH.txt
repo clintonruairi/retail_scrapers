@@ -5,30 +5,30 @@ gap
 triohockey
 
 OLD FORMAT:
-Le Chateau
-Peoples jewellers
-gap
-triohockey
-bathandbody
-bodyshop
-mm meat shop
-voila
-thrifty foods
-eddie bauer
-pharmaprix
-scholars choice
-saveonfoods
-workauthority
+Le Château
+People’s Jewellers
+Gap
+Le Trio Hockey
+BathAndBodyWorks
+Bodyshop
+M&M Meat Shops
+Voila
+Thrifty Foods
+EddieBauer
+PharmaPrix
+Scholar’s Choice
+Save-On-Foods
+WorkAuthority
+fortinos - upload v3
+childrensplace - upload v3
 
 NEW:
 petland - v1 running.
 globalpetfoods - v1 running.
 aritzia - v1 written.
 callitspring - v1 written.
-childrensplace
-decathlon
-fortinos
-harryrosen
-holtrenfrew
-lululemon
-paulmacs
+decathlon - v1 written
+harryrosen - v1 written
+holtrenfrew - v1 written
+lululemon - v1 written
+paulmacs - 

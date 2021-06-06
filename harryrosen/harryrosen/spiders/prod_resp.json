@@ -1,25 +1,34 @@
 {
-    "id": "00b40275-ba4b-4b4f-b9ff-91170107d5a7",
-    "key": "20067841099",
+    "id": "a5fa2de5-a500-43c1-be51-da30efda2a43",
+    "key": "20067840015",
     "name": {
-        "en-CA": "Wireless Phone Charger",
-        "fr-CA": " Chargeur de téléphone sans fil"
+        "en-CA": "Logoed Beanie",
+        "fr-CA": " Bonnet orange"
     },
     "description": {
-        "en-CA": "Enjoy this gift with purchase when you purchase the corresponding items  . \nNot for sale. ",
-        "fr-CA": "Gif avec achat."
+        "en-CA": "Gift with purchase. \nNot for sale.",
+        "fr-CA": "Gif avec achat"
     },
     "slug": {
-        "en-CA": "20067841099",
-        "fr-CA": "20067841099"
+        "en-CA": "20067840015",
+        "fr-CA": "20067840015"
     },
+    "originalPrice": {
+        "type": "centPrecision",
+        "currencyCode": "CAD",
+        "centAmount": 2,
+        "fractionDigits": 2
+    },
+    "onlineSalePrice": null,
+    "isOnlineSale": false,
+    "onlineDiscount": null,
     "brandName": {
-        "en-CA": "Montblanc",
-        "fr-CA": "Montblanc"
+        "en-CA": "Mackage",
+        "fr-CA": "Mackage"
     },
     "colour": {
-        "en-CA": "Assorted",
-        "fr-CA": "Assortiment"
+        "en-CA": "Orange",
+        "fr-CA": "Orange"
     },
     "construction": {
         "en-CA": "",
@@ -42,7 +51,7 @@
         "fr-CA": ""
     },
     "season": "FA-20",
-    "relatedProductId": "GWP PHONE CHARGER718571Montblanc",
+    "relatedProductId": "GWP ORNG BEANIE764667Mackage",
     "size": {
         "en-CA": "",
         "fr-CA": ""
@@ -53,8 +62,9 @@
         "en-CA": "",
         "fr-CA": ""
     },
-    "sizeChart": 0,
+    "sizeChart": 19,
     "isEndlessAisle": false,
+    "isOutlet": false,
     "isReturnable": true,
     "level1Category": {
         "en-CA": "Accessories",
@@ -65,27 +75,46 @@
         "fr-CA": ""
     },
     "level3Category": {
-        "en-CA": "Jewellery & Cufflinks",
-        "fr-CA": "Boutons de manchette et bijoux"
+        "en-CA": "Hats",
+        "fr-CA": "Chapeaux"
     },
     "variants": [
         {
             "id": 2,
-            "sku": "-3274133",
+            "sku": "-3274132",
             "prices": [
                 {
                     "value": {
                         "type": "centPrecision",
                         "currencyCode": "CAD",
-                        "centAmount": 20000,
+                        "centAmount": 25000,
                         "fractionDigits": 2
                     },
-                    "id": "17b4b0c5-7f45-4e78-9776-196ced7aaa2d"
+                    "id": "4494671a-04a5-420f-a094-da2ec59036ac"
+                },
+                {
+                    "value": {
+                        "type": "centPrecision",
+                        "currencyCode": "CAD",
+                        "centAmount": 0,
+                        "fractionDigits": 2
+                    },
+                    "id": "66b04ce3-6462-4684-b5f7-779141a3073d",
+                    "country": "CA",
+                    "custom": {
+                        "type": {
+                            "typeId": "type",
+                            "id": "493275e3-23ad-492c-9ed1-7a174ad43182"
+                        },
+                        "fields": {
+                            "priceType": "originalPrice"
+                        }
+                    }
                 }
             ],
             "images": [
                 {
-                    "url": "https://i1.adis.ws/i/harryrosen/20067841099?$prp-4col-xl$",
+                    "url": "https://i1.adis.ws/i/harryrosen/20067840015?$prp-4col-xl$",
                     "dimensions": {
                         "w": 242,
                         "h": 288
@@ -98,7 +127,7 @@
                     "fr-CA": "Taille unique"
                 },
                 "sizeSortKey": "one size",
-                "colorId": "099",
+                "colorId": "015",
                 "dimensionId": "",
                 "promotionalSticker": {
                     "en-CA": "",
@@ -110,10 +139,20 @@
                 "value": {
                     "type": "centPrecision",
                     "currencyCode": "CAD",
-                    "centAmount": 20000,
+                    "centAmount": 0,
                     "fractionDigits": 2
                 },
-                "id": "17b4b0c5-7f45-4e78-9776-196ced7aaa2d"
+                "id": "66b04ce3-6462-4684-b5f7-779141a3073d",
+                "country": "CA",
+                "custom": {
+                    "type": {
+                        "typeId": "type",
+                        "id": "493275e3-23ad-492c-9ed1-7a174ad43182"
+                    },
+                    "fields": {
+                        "priceType": "originalPrice"
+                    }
+                }
             },
             "assets": []
         }

@@ -10,12 +10,10 @@ import re
 
 class DecathlonSpider(scrapy.Spider):
     name = 'decathlon_html'
-    allowed_domains = ['www.decathlon.ca', 'xxh6l2io6p-dsn.algolia.net']
-    start_urls = ['www.decathlon.ca/en/']
+    data_timestamp = int(time.time())
+    data_year_month = time.strftime('%Y%m')
 
     def start_requests(self):
-        # get weight too - see
-        # https://www.decathlon.ca/en/predator-fishing/168412-9655-wixom-5-210-ul-rfk-05-5g-regular-predator-lure-fishing-rod.html#/demodelsize-407unique/demodelcolor-8401148
 
         categories = {
             "14503": ["Women", "Activewear", "Shirts & Tops"],
@@ -200,7 +198,6 @@ class DecathlonSpider(scrapy.Spider):
             "Sec-Fetch-Site": "cross-site",
             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
         }
-        current_time = int(time.time())
         endpoint = "https://xxh6l2io6p-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20vanilla%20JavaScript%20(lite)%203.32.0%3Binstantsearch.js%20(4.10.0)%3BJS%20Helper%20(3.3.4)&x-algolia-application-id=XXH6L2IO6P&x-algolia-api-key=1afed37b35c9d11f1f0a3a7e4aef4f84"
         for k, v in categories.items():
             page = '0'
@@ -217,12 +214,13 @@ class DecathlonSpider(scrapy.Spider):
                             headers=headers,
                             body=json.dumps(json_payload),
                             callback=self.iterate_json,
-                            meta={"Section": v[0],
+                            meta={
+                                "Section": v[0],
                                 "Category": v[1],
                                 "Sub-Category": v[2],
                                 "k": k,
-                                "v": v,
-                                'current_time': current_time}
+                                "v": v
+                                }
                             )
 
 
@@ -230,7 +228,6 @@ class DecathlonSpider(scrapy.Spider):
         result = json.loads(response.body)
         k = response.meta.get("k")
         v = response.meta.get("v")
-        current_time = response.meta.get('current_time')
         number_of_pages = result.get("results")[0].get("nbPages")
         for i in range(0, number_of_pages):
             json_payload = {
@@ -263,12 +260,13 @@ class DecathlonSpider(scrapy.Spider):
                         headers=headers,
                         method='POST',
                         body=json.dumps(json_payload),
-                        meta={"k": k,
+                        meta={
+                            "k": k,
                             "v": v,
                             "Section": v[0],
                             "Category": v[1],
                             "Sub-Category": v[2],
-                            'current_time': current_time},
+                            },
                         callback=self.parse_json
                         )
     
@@ -331,7 +329,8 @@ class DecathlonSpider(scrapy.Spider):
                     image = image.replace('250x180', '800x800')
 
                 yield scrapy.Request(url=link,
-                            meta={"section": section,
+                            meta={
+                                "section": section,
                                 "category": category,
                                 "sub_category": sub_category,
                                 "product_name": product_name,
@@ -341,12 +340,10 @@ class DecathlonSpider(scrapy.Spider):
                                 "size": variant.get("size"),
                                 "link": variant.get("url"),
                                 "sale_price": sale_price,
-                                "regular_price": regular_price,
-                                'current_time': current_time
+                                "regular_price": regular_price
                                 },
                             callback=self.parse_html,
                                 )
-
 
 
     def parse_html(self, response):
@@ -354,11 +351,14 @@ class DecathlonSpider(scrapy.Spider):
         category = response.meta.get("category")
         sub_category = response.meta.get("sub_category")
         product_name = response.xpath('//h1/text()').get()
-        regular_price = response.meta.get("regular_price")
-        sale_price = response.meta.get("sale_price")
+        if ';' in product_name:
+            product_name = product_name.replace(';', '')
+        product_link = response.meta.get("link")
         brand = response.meta.get("brand")
-        in_stock = response.meta.get("in_stock")
-        image = response.meta.get("image")
+        regular_price = response.meta.get("regular_price")
+        discounted_price = response.meta.get("sale_price")
+        stock_level = response.meta.get("in_stock")
+        image_link = response.meta.get("image")
         size = response.meta.get("size")
         if not size:
             size = response.xpath('//select[@class="form-control form-control-select js-select-size js-select2 select2-hidden-accessible"]/option[@selected="selected"][1]/text()').get()
@@ -367,65 +367,51 @@ class DecathlonSpider(scrapy.Spider):
             color = response.xpath('//div[@class="js-product-variant-thumb product-variant-thumb active"]/@data-name').get()
             if not color:
                 color = response.xpath('//select[@class="form-control form-control-select hide js-select-color"]/option[@selected="selected"][1]/text()').get()
-        link = response.meta.get("link")
         sku = response.xpath('//span[@class="sku js-sku hidden"]/text()').get()
-        rating = response.xpath('//span[@class="rating oyreviews_score"]/span[1]/text()').get()
+        average_rating = response.xpath('//span[@class="rating oyreviews_score"]/span[1]/text()').get()
         un_reviews = response.xpath('//span[@data-target="#reviewModal"]/small/text()').get()
         if not un_reviews:
-            reviews = None
+            num_reviews = None
         else:
-            reviews = un_reviews[:-8]
-        current_time = response.meta.get('current_time')
-        category =f'Home|{section}|{category}|{sub_category}'
+            num_reviews = un_reviews[:-8]
+        breadcrumb =f'Home|{section}|{category}|{sub_category}'
         if size:
             if 'No Size' in size:
                 size = None
-        if ';' in product_name:
-            product_name = product_name.replace(';', '')
+                if size:
+                    size_without_unit = size
+        description = response.xpath('//div[@class="description"]/text()').get()
+        if ';' in description:
+            description = description.replace(';', '')
 
         yield {
-                'product_link': link,
-                'product_name': product_name,
-                'brand': brand,
-                'category': category,
-                'regular_price': regular_price,
-                'discounted_price': sale_price,
-                'price_unit': None,
-                'size': size,
-                'color': color,
-                'flavor': None,
-                'weight': None,
-                'average_rating': rating,
-                'num_reviews': reviews,
-                'image_link': image,
-                'sku': sku,
-                'upc': None,
-                'stock_level': in_stock,
-                'sold_by_3rd_party': 0,
-                'shipped_by': None,
-                'data_timestamp': current_time,
-                'data_year_month': time.strftime('%Y%m')
-            }
-
-        # items["product_link"] = link
-        # items["product_name"] = product_name
-        # items["brand"] = brand
-        # items["category"] = category
-        # items["regular_price"] = regular_price
-        # items["discounted_price"] = sale_price
-        # items["price_unit"] = None
-        # items["size"] = size
-        # items["color"] = color
-        # items["flavor"] = None
-        # items["weight"] = None
-        # items["average_rating"] = rating
-        # items["num_reviews"] = reviews
-        # items["image_link"] = image
-        # items["sku"] = sku
-        # items["upc"] = None
-        # items["stock_level"] = in_stock
-        # items["sold_by_3rd_party"] = 0
-        # items["shipped_by"] = None
-        # items["data_timestamp"] = current_time
-        # items["data_year_month"] = time.strftime("%Y%m")
-        # yield items
+            'product_link': product_link,
+            'product_name': product_name,
+            'brand': brand, 
+            'breadcrumb': breadcrumb,
+            'size_without_unit': size_without_unit,
+            'size_with_unit': None,
+            'dimension': None,
+            'color': color,
+            'sku': sku,
+            'upc': None,
+            'regular_price': regular_price,
+            'regular_qty': None,
+            'regular_unit': None,
+            'discounted_price': discounted_price,
+            'discounted_qty': None,
+            'discounted_unit': None,
+            'currency': 'CAD',
+            'average_rating': average_rating,
+            'num_reviews': num_reviews,
+            'shipped_by': None,
+            'sold_by_third_party': 0, 
+            'stock_level': stock_level,
+            'online_only': False,
+            'brief': None,
+            'description': description,
+            'image_link': image_link,
+            'data_timestamp': self.data_timestamp,
+            'data_year_month': self.data_year_month, 
+            'retailer_code': None
+        }
